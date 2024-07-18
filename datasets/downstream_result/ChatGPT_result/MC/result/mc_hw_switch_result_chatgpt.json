@@ -1,0 +1,1146 @@
+0	LDT	The log comes from the IFNET module.
+1	ASMNG	The log comes from the ENTITYEXTTRAP module.
+2	MGMD	The log comes from the IGMP module.
+3	ISIS	The log comes from the ISIS module.
+4	RSA	The log comes from the RSA module.
+5	ISIS	The log comes from the ISIS module.
+6	HTTP	The log comes from the AAA module.
+7	QOS	Module: MCAST (Multicast)
+8	ISIS	The log comes from the ISIS module.
+9	ASMNG	The log comes from the ENTITYEXTTRAP module.
+10	VBST	The log comes from the VBST module.
+11	MRM	This log comes from the RM (Resource Management) module.
+12	UPDATE	The log comes from the ENGINE module.
+13	SECE	The log comes from the ICMP module.
+14	RIP	The log comes from the RM (Route Management) module.
+15	ISIS	The log comes from the ISIS module.
+16	ISIS	The log comes from the ISIS module.
+17	OSPF	The log comes from the OSPF module.
+18	ENTITYTRAP	This log comes from the ENTITYTRAP module.
+19	ISIS	The log comes from the ISIS module.
+20	PKI	The log comes from the PKI module.
+21	ISIS	The log comes from the ISIS module.
+22	ISSU	The log comes from the OPS module.
+23	ETRUNK	Module: ETRUNK
+24	RM	This log comes from the VPNBASE module.
+25	OSPF	The log comes from the LSPM module.
+26	CMD	The log comes from the CONFIGURATION module.
+27	MRM	The log comes from the MRM (Multicast Routing Module) module.
+28	IFPDT	The log comes from the TUNNEL module.
+29	DHCP	Module: DHCP
+30	OSPF	The log comes from the RM module.
+31	ISIS	The log comes from the ISIS module.
+32	MSTP	Module: MSTP
+33	TRUNK	The log comes from the TRUNK module.
+34	SSH	Module: SSH
+35	SSH	The log comes from the module: AAA
+36	FEI	This log comes from the VLAN module.
+37	RIP	This log comes from the BGP module.
+38	RRPP	The log comes from the ERRDOWN module.
+39	OSPF	The log comes from the OSPF module.
+40	ALML	ENTITYTRAP
+41	OSPF	This log comes from the OSPF module.
+42	PTP	Module: PTP (Precision Time Protocol)
+43	OAM	TUNNEL
+44	ALML	The log comes from the module named "FPGADRV".
+45	PIM	The log comes from the PIM module.
+46	CSPF	The log comes from the EVENT module.
+47	BFD	Module: BFD (Bidirectional Forwarding Detection)
+48	NETCONFC	The log comes from the CONFIGURATION module.
+49	IFNET	The log comes from the ENTITYEXTTRAP module.
+50	OSPF	The log comes from the OSPF module.
+51	SSH	Module: SSH
+52	WLAN	The log comes from the FAN module.
+53	AAA	The log comes from the AAA module.
+54	FECD	The log comes from the DEBUG module.
+55	KEYCHAIN	This log comes from the VPNBASE module.
+56	MD	The log comes from the VPNBASE module.
+57	PIM	The log comes from the PIM module.
+58	GRSA	This log likely comes from the FILE module.
+59	WLAN	WLAN
+60	OSPF	The log comes from the OSPF module.
+61	TELEMETRY	The log comes from the SSH module.
+62	ENTITYTRAP	The log comes from the NETCONF module.
+63	IFPDT	The log comes from the IFNET module.
+64	FSP	The log comes from the STACKMNG module.
+65	OSPF	This log comes from the OSPF module.
+66	LDM	This log likely comes from the DEFEND module.
+67	ISIS	The log comes from the ISIS module.
+68	DEVM	The log comes from the STACKMNG module.
+69	BFD	The log comes from the BFD module.
+70	FIB	The log comes from the OPS module.
+71	SECE	This log comes from the module named "RESOURCE".
+72	KEYCHAIN	The log message "Failed to create instances with Timer wheel" likely comes from the TIMER module.
+73	CMREG	The log comes from the WLAN module.
+74	PIM	The log comes from the PIM (Protocol Independent Multicast) module.
+75	ISIS	The log comes from the ISIS module.
+76	MBR	This log comes from the CPUDEFEND module.
+77	ALML	The log comes from the ENTITYTRAP module.
+78	DEVM	ENTITYTRAP
+79	BGP	The log comes from the BGP module.
+80	LOAD	The log comes from the LOAD module.
+81	IPSEC	The log comes from the IPSEC module.
+82	IFPDT	The log comes from the IFNET module.
+83	PKI	The log comes from the PKI module.
+84	ISIS	The log comes from the ISIS module.
+85	SRM	ENTITYEXTTRAP
+86	ENTITYTRAP	ENTITYTRAP
+87	ISIS	The log comes from the ISIS module.
+88	PKI	The log comes from the PKI module.
+89	BASETRAP	The log comes from the SNMP module.
+90	ASMNG	This log comes from the ENTITYTRAP module.
+91	ENTITYTRAP	The log comes from the ENTITYTRAP module.
+92	OSPF	The log comes from the OSPF module.
+93	QOS	The log comes from the ACL module.
+94	BGP	The log comes from the BGP module.
+95	PGM	This log comes from the OPENFLOW module.
+96	OSPF	This log comes from the BGP module.
+97	SRM	The log comes from the module named IFNET (Interface).
+98	OSPF	The log comes from the OSPF module.
+99	LSPM	The log comes from the RSVP module.
+100	WLAN	The log comes from the module named "ALML" (Alarm Management).
+101	DHCP	Module: DHCPS
+102	ISIS	The log comes from the ISIS module.
+103	RM	This log comes from the BGP module.
+104	LCS	The log comes from the GTL module.
+105	RM	This log comes from the BGP module.
+106	BGP	The log comes from the BGP module.
+107	PIM	This log comes from the VPNBASE module.
+108	OSPF	The log comes from the RM module.
+109	IGMP	The log comes from the IGMP module.
+110	ISIS	The log comes from the ISIS module.
+111	POE	The log comes from the POE module.
+112	PTP	The log comes from the FIBSPT module.
+113	OSPF	The log comes from the OSPF module.
+114	SNPG	This log comes from the MCAST module.
+115	POE	This log likely comes from the POWER module.
+116	CFGMGR	The log comes from the IP module.
+117	ISIS	The log comes from the ISIS module.
+118	FEI	Module: TRUNK
+119	RIPNG	The log comes from the ENGINE module.
+120	SNPG	Module: MCAST (Multicast)
+121	ISIS	The log comes from the ISIS module.
+122	SNPG	This log comes from the MCAST module.
+123	OSPF	This log comes from the IFNET module.
+124	POE	The log comes from the POWER module.
+125	SNPG	MCAST
+126	OSPF	The log comes from the OSPF module.
+127	WLAN	The log comes from the WLAN module.
+128	PKI	PKI
+129	SNPG	This log likely comes from the PORT module.
+130	VPNBASE	The log comes from the CLI module.
+131	SRM	The log comes from the SYSMIB module.
+132	FTPS	This log likely comes from the VPNBASE module.
+133	FIB	The log comes from the ENTITYTRAP module.
+134	VBST	VBST
+135	BGP	The log comes from the BGP module.
+136	OSPF	The log comes from the OSPF module.
+137	OSPF	The log comes from the BGP module.
+138	ALML	The log comes from the ENGINE module.
+139	WLAN	The log comes from the module named "POE" (Power over Ethernet).
+140	LDP	The log comes from the OSPF module.
+141	FEI	This log comes from the ENGINE module.
+142	DEVM	ENTITYTRAP
+143	IFNET	IFNET
+144	DHCP	This log comes from the TFTP module.
+145	AM	The log comes from the DHCP module.
+146	LDP	This log likely comes from the LDP (Label Distribution Protocol) module.
+147	SCMTRAP	The log comes from the CONFIGURATION module.
+148	TAD	The log comes from the ALML module.
+149	PIM	The log comes from the PIM module.
+150	DEVM	ENTITYTRAP
+151	RIP	The log comes from the OPS module.
+152	MRM	The log comes from the VPNBASE module.
+153	WLAN	The log comes from the SNMP module.
+154	PKI	The log comes from the PKI module.
+155	DRIVER	The log comes from the CLKSYNC module.
+156	LSPM	The log comes from the RSVP module.
+157	MK	SECE (Security)
+158	PKI	The log comes from the HTTP module.
+159	LDP	The log comes from the LDP module.
+160	RSVP	The log comes from the RSVP module.
+161	OSPF	This log comes from the OSPF module.
+162	PKI	The log comes from the SSL module.
+163	MPLS	The log comes from the ACL module.
+164	CMD	The log comes from the SYSTEM module.
+165	OSPF	The log comes from the AM module.
+166	PIM	This log comes from the PIM (Protocol Independent Multicast) module.
+167	CM	The log comes from the ACL module.
+168	OSPF	This log comes from the OSPF module.
+169	ENTITYTRAP	This log comes from the ENTITYTRAP module.
+170	DEVM	The log comes from the CLKSYNC module.
+171	RUMNG	The log comes from the module named "LDM" (Link Detection Module).
+172	WLAN	The log comes from the ARP module.
+173	CSSM	The log comes from the CSSM (CSS System Management) module.
+174	BFD	The log comes from the CFG module (CONFIGURATION).
+175	MCAST	The log message "Failed to new a message into MCDB message list" likely comes from the module MCMD (Message Command).
+176	SNPG	MCAST (Multicast)
+177	ISIS	The log comes from the ISIS module.
+178	SNPG	The log comes from the MCAST module.
+179	OSPF	This log comes from the OSPF module.
+180	ISIS	The log comes from the ISIS module.
+181	IFNET	The log message "Task [task-name] has created." likely comes from the TASK module.
+182	SRM	ENTITYEXTTRAP
+183	OPSA	This log comes from the SCRIPT module.
+184	MSTP	Module: MSTP
+185	CLOCK	The log comes from the CLKSYNC module.
+186	RDS	The log comes from the RADIUS module.
+187	MSTP	The log comes from the STP module.
+188	RDS	The log comes from the RADIUS module.
+189	LDP	Module: MCAST
+190	OSPF	The log comes from the OSPF module.
+191	FTPS	The log comes from the FTP module.
+192	FIB	This log comes from the ENGINE module.
+193	LDP	The log comes from the SESSION module.
+194	BFD	This log comes from the BFD module.
+195	PIM	The log comes from the BSR module.
+196	ISIS	This log comes from the SNMP module.
+197	OSPF	The log comes from the OSPF module.
+198	CLOCK	The log comes from the CLOCK module.
+199	GRSA	SSH
+200	PIM	This log comes from the PIM (Protocol Independent Multicast) module.
+201	VFS	The log comes from the FILE module.
+202	RDS	The log comes from the RDS module.
+203	PKI	The log comes from the PKI module.
+204	FSP	The log comes from the STACKMNG module.
+205	SRM	The log comes from the FAN module.
+206	ALML	The log comes from the CFG module.
+207	QOS	The log comes from the ACL module.
+208	FEI	The log comes from the AUTODIAG module.
+209	ISIS	The log comes from the ISIS module.
+210	SRM	The log comes from the POWER module.
+211	LSPM	The log comes from the LSPM module.
+212	BFD	Module: BFD (Bidirectional Forwarding Detection)
+213	PDF	The log comes from the PDF module.
+214	SMLK	The log comes from the SMLK module.
+215	TAD	This log likely comes from the ALML (Alarm Management) module.
+216	DEFD	The log comes from the QOS module.
+217	ASSISTANT	The log comes from the ASSISTANT module.
+218	ALML	The log comes from the OPS module.
+219	OSPF	The log comes from the OSPF module.
+220	PIM	The log comes from the PIM module.
+221	MCAST	The log comes from the MCAST module.
+222	SSHC	The log comes from the CLI module.
+223	SRM	The log comes from the ENGINE module.
+224	OSPF	The log comes from the PAF module.
+225	OPSA	The log comes from the SNMP module.
+226	KEYCHAIN	The log comes from the PAF module.
+227	ISIS	The log comes from the ISIS module.
+228	ASMNG	The log comes from the ACL module.
+229	ENTITYEXTTRAP	The log comes from the FIC module.
+230	SSHS	The log comes from the SSH module.
+231	GTL	This log comes from the ALML module.
+232	PKI	The log comes from the RSA module.
+233	MSTP	LOOPDETECT
+234	RM	The log comes from the module IPv6 Prefix Management (IP).
+235	OSPF	The log comes from the OSPF module.
+236	OSPF	The log comes from the OSPF module.
+237	ISIS	The log comes from the ISIS module.
+238	WLAN	The log comes from the TUNNEL module.
+239	POE	This log likely comes from the PORT module.
+240	MSTP	The log comes from the LOOPDETECT module.
+241	RIP	This log comes from the IPSG (IP Source Guard) module.
+242	ISIS	The log comes from the ISIS module.
+243	ISIS	The log comes from the ISIS module.
+244	LSPM	The log comes from the GRSA module.
+245	VPNBASE	The log comes from the CLI module.
+246	SRM	This log comes from the ENTITYTRAP module.
+247	HA	The log likely comes from the ISSU (In-Service Software Upgrade) module.
+248	IFNET	The log comes from the IFNET module.
+249	LSPM	The log comes from the GTSM module.
+250	ISIS	The log comes from the ISIS module.
+251	STACKMNG	The log comes from the STACKMNG module.
+252	OSPF	This log comes from the OSPF module.
+253	WLAN	This log comes from the WLAN module.
+254	TELNET	The log comes from the TELNET module.
+255	DEVM	The log comes from the IFNET module.
+256	FIB	Module: FIB (Forwarding Information Base)
+257	OSPF	The log comes from the ENGINE module.
+258	PKI	This log comes from the SSL module.
+259	BGP	This log comes from the BGP module.
+260	ISIS	The log comes from the ISIS module.
+261	OSPF	The log comes from the IFNET module (Interface Configuration).
+262	SRM	The log comes from the ALML module.
+263	OSPF	The log comes from the PAF module.
+264	RM	The log comes from the module: IP.
+265	WLAN	The log comes from the TUNNEL module.
+266	PKI	This log comes from the PKI module.
+267	QOS	QOS
+268	ALML	The log comes from the POWER module.
+269	QOS	The log comes from the ACL module.
+270	MD	The log comes from the PIM module.
+271	ISSU	The log comes from the ISSU module.
+272	ALML	The log comes from the POWER module.
+273	IFNET	Module: IFNET (Interface Management)
+274	SECE	The log comes from the IPSG (IP Source Guard) module.
+275	FIB	This log comes from the ENTITYEXTTRAP module.
+276	ALML	The log comes from the POWER module.
+277	FEI	Module: AUTODIAG
+278	SRM	ENTITYEXTTRAP
+279	HACA	The log comes from the HACA module.
+280	LOOPDETECT	The log comes from the LOOPDETECT module.
+281	OSPF	The log comes from the OSPF module.
+282	OSPF	The log comes from the OSPF module.
+283	ENTITYTRAP	This log comes from the ENTITYTRAP module.
+284	ALML	The log comes from the APS module.
+285	LSPM	The log comes from the LSPM module.
+286	ISIS	The log comes from the ISIS module.
+287	OPSA	The log comes from the SCRIPT module.
+288	VFS	The log comes from the MAINBOARD module.
+289	RIP	The log comes from the RIP module.
+290	ISIS	The log comes from the ISIS module.
+291	AM	DHCP
+292	SRM	This log comes from the ENTITYTRAP module.
+293	LLDP	The log comes from the MODULE: IFNET
+294	FTPS	The log comes from the VPNBASE module.
+295	ISSU	The log comes from the ISSU (In-Service Software Upgrade) module.
+296	ISIS	The log comes from the ISIS module.
+297	SRM	The log "Failed to write flash memory" likely comes from the module named FPGADRV.
+298	MD	The log comes from the PIM module.
+299	CFM	CONFIGURATION
+300	ARP	The log comes from the ARP module.
+301	ISSU	The log message "The smoothing failed, and the system will roll back." likely comes from the CONFIGURATION module.
+302	MACSEC	MACSEC
+303	ISSU	The log comes from the CONFIGURATION module.
+304	LLDP	The log comes from the LLDP module.
+305	DHCP	The log comes from the DHCP module.
+306	CFGMGR	This log comes from the IP module.
+307	ISIS	The log comes from the ISIS module.
+308	IFNET	The log comes from the OPS module.
+309	SSL	This log comes from the SSL module.
+310	LSPV	Module: LSPM (Label Switched Path Management)
+311	OAM	This log comes from the L2VC module.
+312	BFD	The log comes from the BFD module.
+313	TNLM	The log comes from the VPNBASE module.
+314	OSPF	The log comes from the OSPF module.
+315	ALML	The log likely comes from the POWER module.
+316	ISIS	The log comes from the ISIS module.
+317	TELNETS	The log comes from the IPSG (IP Source Guard) module.
+318	WLAN	This log comes from the WLAN module.
+319	PKI	This log comes from the RSA module.
+320	RM	The log comes from the PAF module.
+321	SECE	The log comes from the CPUDEFEND module.
+322	SECE	The log comes from the ARP module.
+323	MSTP	The log comes from the DLDP module.
+324	SEA	The log comes from the SIP module.
+325	ISIS	The log comes from the ISIS module.
+326	ALML	CONFIGURATION
+327	IPFPM	This log comes from the QOS module.
+328	CONFIGURATION	This log comes from the CONFIGURATION module.
+329	SNMP	The log comes from the NMSP module.
+330	SOCKET	This log comes from the TCP module.
+331	ISIS	The log comes from the ISIS module.
+332	FIB	FIBSPT
+333	LBDT	The log comes from the LOOPDETECT module.
+334	PTP	The log comes from the SNMP module.
+335	ISIS	The log comes from the ISIS module.
+336	SECE	This log likely comes from the CPUDEFEND module.
+337	MCAST	TUNNEL
+338	RSVP	The log comes from the RSVP module.
+339	WLAN	The log comes from the WLAN module.
+340	ERPS	The log comes from the IFNET module.
+341	PIM	The log comes from the PIM module.
+342	WEB	The log comes from the VPNBASE module.
+343	SRM	The log comes from the BATTERY module.
+344	BULKSTAT	The log comes from the BULKSTAT module.
+345	IFNET	The log comes from the IFNET module.
+346	ARP	The log comes from the ENTITYEXTTRAP module.
+347	AM	This log comes from the DHCP module.
+348	AM	The log comes from the DHCP module.
+349	ISIS	The log comes from the ISIS module.
+350	IFPDT	This log comes from the ENTITYTRAP module.
+351	IFNET	The log comes from the IFNET module.
+352	CLOCK	Module: CLKSYNC
+353	CONFIGURATION	This log comes from the CONFIGURATION module.
+354	TUNNEL	This log comes from the TUNNEL module.
+355	PIM	The log comes from the VPNBASE module.
+356	CLI	This log comes from the CLI module.
+357	OSPF	The log comes from the RM (Resource Manager) module.
+358	DHCP	The log comes from the ND module (Neighbor Discovery).
+359	OSPF	This log comes from the OSPF module.
+360	GRSA	CONFIGURATION
+361	BGP	Module: BGP
+362	PIM	Module: PIM (Protocol Independent Multicast)
+363	WLAN	The log comes from the WLAN module.
+364	LSPM	The log comes from the LSPM module.
+365	ISIS	The log comes from the ISIS module.
+366	OSPF	This log likely comes from the OSPF module.
+367	FSP	The log comes from the ERRDOWN module.
+368	IFNET	The log comes from the IFNET module.
+369	VRRP	The log comes from the VRRP module.
+370	WLAN	The log comes from the module named "APM".
+371	WLAN	The log comes from the WLAN module.
+372	OSPF	The log comes from the module named "LSPM" (Label Switched Path Management).
+373	ISIS	The log comes from the ISIS module.
+374	BFD	The log comes from the SESSION module.
+375	PKI	PKI
+376	ISIS	This log comes from the ISIS module.
+377	ISIS	The log comes from the ISIS module.
+378	SNMP	The log comes from the module SNMP.
+379	TNLM	The log comes from the TUNNEL module.
+380	RIPNG	The log comes from the PAF module.
+381	SRM	The log comes from the module "IFPDT" (Interface Power Detection and Tuning).
+382	BASETRAP	This log comes from the SNMP module.
+383	SHELL	The log comes from the AAA module.
+384	LINE	The log comes from the module: CLI
+385	RIPNG	The log comes from the RIPNG module.
+386	SYSMIB	The log comes from the PATCH module.
+387	WLAN	The log comes from the WLAN module.
+388	LSPM	The log comes from the APS (Automatic Protection Switching) module.
+389	WLAN	WLAN
+390	FCOE	The log comes from the FCOE module.
+391	RMON	This log comes from the ALML (Alarm Management) module.
+392	OPS	The log comes from the OPS module.
+393	WLAN	SECE (Security)
+394	ISIS	ISIS
+395	TCP	This log comes from the TCP module.
+396	MBR	ENTITYTRAP
+397	ARP	The log comes from the ENTITYTRAP module.
+398	WLAN	This log comes from the ALML (Alarm Management) module.
+399	PDF	The log comes from the PDF module.
+400	ISIS	The log comes from the ISIS module.
+401	CFM	The log comes from the CONFIGURATION module.
+402	IFNET	The log comes from the ENTITYTRAP module.
+403	MBR	The log comes from the module named "HA" (High Availability).
+404	OPSA	This log comes from the SCRIPT module.
+405	VBST	The log comes from the VBST module.
+406	DHCP	Module: DHCP
+407	PKI	This log comes from the PKI module.
+408	SSH	The log comes from the AAA module.
+409	PM	The log comes from the CONFIGURATION module.
+410	SYSTEM	The log comes from the SYSRES module.
+411	VFS	The log comes from the ENTITYTRAP module.
+412	CLKMIB	This log comes from the CLKSYNC module.
+413	ND	This log comes from the QOS (Quality of Service) module.
+414	BASETRAP	ENTITYEXTTRAP
+415	LDP	The log comes from the BGP module.
+416	DEFEND	The log comes from the module QOS (Quality of Service).
+417	ENTITYTRAP	ENTITYTRAP
+418	NQA	The log comes from the NQA (Network Quality Analysis) module.
+419	SYSTEM	The log comes from the module named "STACKMNG" (Stack Management).
+420	SRM	This log comes from the ENTITYTRAP module.
+421	RSA	The log comes from the RSA module.
+422	SECE	The log comes from the LOOPDETECT module.
+423	CMD	The log comes from the CONFIGURATION module.
+424	DHCP	Module: DHCP
+425	RM	This log comes from the BGP module.
+426	KEYCHAIN	The log comes from the KEYCHAIN module.
+427	SRM	This log comes from the ENTITYTRAP module.
+428	SRM	This log comes from the SNMP module.
+429	BULKSTAT	This log comes from the FTP module.
+430	PIM	This log comes from the PIM module.
+431	ND	The log message "Host IPv6 address conflicted" likely comes from the IP module.
+432	EZOP	The log "Failed to shield command" likely comes from the DEFEND module.
+433	POE	The log comes from the IFNET module.
+434	LSPM	The log comes from the LSPM module.
+435	PIM	This log comes from the ROUTING MODULE.
+436	SRM	The log likely comes from the USBLOAD module.
+437	ISIS	The log comes from the ISIS module.
+438	LSPM	The log comes from the LSPM module.
+439	FTPS	This log likely comes from the VPNBASE module.
+440	FSP	The log comes from the ENTITYEXTTRAP module.
+441	PDF	The log comes from the PDF module.
+442	PIM	The log comes from the PIM (Protocol Independent Multicast) module.
+443	WLAN	The log comes from the WLAN module.
+444	ISIS	The log comes from the ISIS module.
+445	ISIS	The log comes from the ISIS module.
+446	SMLK	The log comes from the SMLK module.
+447	ISIS	The log comes from the ISIS module.
+448	ISSU	The log comes from the BACKUP module.
+449	DHCPSNP	Module: DHCP
+450	OSPF	The log comes from the OSPF module.
+451	OAM	The log comes from the TUNNEL module.
+452	SECE	This log comes from the ERRDOWN module.
+453	ISIS	The log comes from the ISIS module.
+454	VRRP	The log comes from the VRRP module.
+455	OSPF	The log comes from the OSPF module.
+456	BASETRAP	This log comes from the ENTITYTRAP module.
+457	SYSTEM	The log comes from the SYSTEM module.
+458	AAA	The log comes from the AAA module.
+459	OSPF	This log comes from the OSPF module.
+460	OSPF	The log comes from the OSPF module.
+461	LDM	This log comes from the CPUDEFEND module.
+462	OSPF	The log comes from the OSPF module.
+463	ISIS	The log comes from the ISIS module.
+464	ISIS	The log comes from the ISIS module.
+465	BFD	The log likely comes from the SESSION module.
+466	PKI	This log comes from the SSH module.
+467	OSPF	The log comes from the OSPF module.
+468	PTP	Module: PTP (Precision Time Protocol)
+469	AAA	The log comes from the ALML module.
+470	IPSG	The log comes from the IPSG (IP Source Guard) module.
+471	RIPNG	This log comes from the SNMP module.
+472	MPLS	The log comes from the MPLS module.
+473	OSPF	This log comes from the OSPF module.
+474	OSPF	The log comes from the OSPF module.
+475	BFD	The log comes from the BFD (Bidirectional Forwarding Detection) module.
+476	PIM	This log comes from the VPNBASE module.
+477	EWM	This log comes from the ALML module.
+478	OSPF	The log comes from the OSPF module.
+479	ARP	The log comes from the ENTITYTRAP module.
+480	ISSU	The log comes from the BACKUP module.
+481	OSPF	The log comes from the PAF module.
+482	EZOP	CONFIGURATION
+483	LDP	The log comes from the LDP module.
+484	BGP	This log comes from the BGP module.
+485	ENTITYTRAP	This log comes from the ENTITYTRAP module.
+486	VPNBASE	The log message is related to the VPN module.
+487	PKI	The log comes from the RSA module.
+488	IGMP	This log comes from the IGMP module.
+489	LDP	Module: MCAST
+490	QOS	The log comes from the QOS module.
+491	OSPF	The log comes from the OSPF module.
+492	SRM	This log likely comes from the TEMPERATURE module.
+493	RSA	The log comes from the SSH module.
+494	MBR	ENTITYTRAP
+495	RIP	The log comes from the SOCKET module.
+496	AM	DHCP
+497	CFM	CONFIGURATION
+498	LSPM	TUNNEL
+499	TAD	The log comes from the IFNET module.
+500	BFD	The log comes from the module VOSMEM (Virtual Operating System Memory).
+501	LINE	This log likely comes from the VPNBASE module.
+502	AAA	The log comes from the AAA module.
+503	LDP	The log comes from the LDP module.
+504	ISIS	The log comes from the ISIS module.
+505	BGP	The log comes from the BGP module.
+506	OSPF	This log comes from the OSPF module.
+507	OSPF	The log comes from the LDP module.
+508	ALML	The log comes from the SF module.
+509	VSTM	The log comes from the VXLAN module.
+510	IGMP	The log comes from the IGMP module.
+511	SRM	The log comes from the ENGINE module.
+512	RM	The log comes from the OSPF module.
+513	ENGINE	The log comes from the ENGINE module.
+514	OSPF	The log comes from the OSPF module.
+515	LACP	Module: TRUNK
+516	NATPT	The log likely comes from the module named "IO".
+517	SRM	The log comes from the USBLOAD module.
+518	SSL	The log comes from the SSL module.
+519	DHCPSNP	The log comes from the DHCP module.
+520	SSH	The log comes from the FTP module.
+521	IPFPM	The log comes from the IPFPM module.
+522	RSA	The log "Failed to read flash!" likely comes from the module "FPGADRV" (Field Programmable Gate Array Driver).
+523	CLKMIB	This log comes from the CLKSYNC module.
+524	SYSTEM	The log comes from the PATCH module.
+525	OSPF	The log comes from the RM (Resource Manager) module.
+526	NATPT	The log comes from the module: NATPT
+527	WLAN	This log comes from the WLAN module.
+528	ISIS	The log comes from the ISIS module.
+529	VFS	The log comes from the MODULE: HA (High Availability)
+530	NTP	CLKSYNC
+531	LDP	The log comes from the LDP (Label Distribution Protocol) module.
+532	SRM	FPGADRV
+533	WLAN	The log comes from the WLAN module.
+534	DLDP	The log comes from the DLDP module.
+535	VRRP	The log comes from the VRRP module.
+536	ISIS	The log comes from the ISIS module.
+537	ISIS	The log comes from the ISIS module.
+538	ALML	The log comes from the module "HA" (High Availability).
+539	CLOCK	The log comes from the CLOCK module.
+540	OSPF	The log comes from the RM module (Resource Management).
+541	SNPG	The log comes from the MCAST module.
+542	ISIS	The log comes from the ISIS module.
+543	OSPF	The log comes from the RM module.
+544	ENTITYTRAP	ENTITYTRAP
+545	IFNET	This log comes from the ENTITYTRAP module.
+546	RIP	The log comes from the ENTITYTRAP module.
+547	ISIS	The log comes from the ISIS module.
+548	OSPF	The log comes from the OSPF module.
+549	TRILL	The log comes from the TRILL module.
+550	LSPM	The log comes from the TUNNEL module.
+551	NQA	Module: NQA (Network Quality Assurance)
+552	VFS	The log comes from the SNMP module.
+553	SNMP	This log likely comes from the ACL module.
+554	OPSA	This log comes from the SNMP module.
+555	HTTP	The log comes from the AAA module.
+556	BGP	The log comes from the BGP module.
+557	DHCP	The log comes from the ACL module.
+558	SYSTEM	The log comes from the PATCH module.
+559	ALML	The log comes from the HA (High Availability) module.
+560	ENTITYEXTTRAP	The log comes from the QOS module.
+561	ISIS	The log comes from the ISIS module.
+562	EVPN	This log likely comes from the OSPF module.
+563	NTP	The log comes from the SYSRES module.
+564	ISIS	The log comes from the ISIS module.
+565	SRM	The log comes from the POWER module.
+566	ISIS	The log comes from the ISIS module.
+567	FIB	This log likely comes from the FIB module (Forwarding Information Base) as it relates to message forwarding congestion on a board.
+568	UVM	The log comes from the CFG module (CONFIGURATION).
+569	QOS	QOS
+570	TNLM	The log comes from the TUNNEL module.
+571	DHCP	The log comes from the module named "FILE".
+572	LACP	Module: LACP
+573	UPDATE	The log comes from the IPS module.
+574	MCAST	The log comes from the VLAN module.
+575	MSTP	The log comes from the STP module.
+576	ENTITYTRAP	This log comes from the ALML module.
+577	BGP	Module: BGP
+578	RIP	The log comes from the RIP module.
+579	MCAST	The log comes from the ACL module.
+580	SRM	The log comes from the ENTITYTRAP module.
+581	SYSTEM	This log likely comes from the POWER module.
+582	DHCP	The log comes from the DHCPS module.
+583	ISIS	The log comes from the ISIS module.
+584	NTP	The log comes from the SYSRES module.
+585	ISIS	The log comes from the ISIS module.
+586	ISSU	The log "Data smoothing failed" likely comes from the module named QOS (Quality of Service).
+587	RADIUS	The log comes from the VPNBASE module.
+588	SSH	TFTP
+589	SRM	The log comes from the ENTITYTRAP module.
+590	IFNET	The log comes from the ENTITYTRAP module.
+591	BGP	This log comes from the ROUTE module.
+592	VRRP	This log comes from the VRRP module.
+593	ISIS	LSPM (Link State Protocol Module)
+594	CFM	TFTP
+595	OAM	The log comes from the LSPM module.
+596	TUNNEL	The log comes from the IFNET module.
+597	PKI	PKI
+598	IPFPM	The log comes from the IPFPM (IP Flow Performance Measurement) module.
+599	VRRP	The log comes from the VRRP module.
+600	CFM	The log comes from the CONFIGURATION module.
+601	VFS	The log comes from the ACL module.
+602	RIPNG	The log comes from the RIPNG module.
+603	RMON	The log comes from the ENTITYTRAP module.
+604	ISIS	The log comes from the ISIS module.
+605	ALML	The log comes from the POWER module.
+606	CSPF	The log comes from the OSPF module.
+607	BASETRAP	This log comes from the ENTITYEXTTRAP module.
+608	WLAN	The log comes from the module named "LIC".
+609	TRUNK	The log comes from the TRUNK module.
+610	SRM	This log comes from the ENTITYTRAP module.
+611	WLAN	The log comes from the WLAN module.
+612	ISIS	The log comes from the ISIS module.
+613	LSPM	The log comes from the TUNNEL module.
+614	TUNNEL	The log comes from the LSPM module.
+615	WEB	This log comes from the AAA module.
+616	FEI	This log comes from the IFNET module.
+617	SSH	The log comes from the IPSG (IP Source Guard) module.
+618	NTP	The log comes from the CLKSYNC module.
+619	FEI	QOS
+620	LSPM	The log comes from the SSP module.
+621	BGP	Module: BGP
+622	SECE	The log comes from the FILTER module.
+623	MSTP	Module: MSTP (Multiple Spanning Tree Protocol)
+624	DEVM	The log comes from the ENTITYTRAP module.
+625	BFD	The log comes from the SESSION module.
+626	PTP	This log comes from the HSC module.
+627	SNPG	Module: MCAST
+628	ISIS	The log comes from the ISIS module.
+629	BFD	The log comes from the SESSION module.
+630	SSH	The log comes from the CLI module.
+631	OSPF	The log comes from the LDP module.
+632	ISIS	The log comes from the OSPF module.
+633	SNMP	Module: SNMP
+634	ISIS	The log comes from the ISIS module.
+635	PIM	This log comes from the IGMP module.
+636	SECE	This log comes from the SESSION module.
+637	OSPF	This log comes from the OSPF module.
+638	LCS	The log comes from the GTL module.
+639	ISIS	The log comes from the ISIS module.
+640	EFM	LOOPDETECT
+641	CSSM	The log comes from the CSSM (CSS Management) module.
+642	FEI	Module: FIB (Forwarding Information Base)
+643	ALML	The log comes from the SENSOR module.
+644	SECE	The log comes from the ARP module.
+645	DHCP	The log comes from the DHCP module.
+646	RM	The log comes from the PAF module.
+647	SOCKET	The log comes from the TCP module.
+648	ISIS	The log comes from the ISIS module.
+649	IFPDT	Module: IFNET
+650	WLAN	The log comes from the WLAN module.
+651	PIM	The log comes from the module MCAST (Multicast).
+652	TRUNK	The log comes from the LACP module.
+653	TCP	The log comes from the TCP module.
+654	ENTITYEXTTRAP	The log comes from the SENSOR module.
+655	SNPG	The log comes from the MCAST module.
+656	BGP	Module: BGP
+657	SHELL	The log comes from the AAA module.
+658	STACKMNG	STACKMNG
+659	IFPDT	Module: TRUNK
+660	ISSU	The log comes from the ISSU module.
+661	EFM	This log comes from the SNMP module.
+662	OPSA	The log comes from the OPS module.
+663	CLKMIB	SYSRES
+664	ALML	The log comes from the module named "HWTACACS".
+665	BFD	FPGADRV
+666	NATPT	The log comes from the DHCP module.
+667	HA	The log comes from the PAF module.
+668	ALML	The log comes from the IFNET module.
+669	CLKMIB	This log comes from the CLKSYNC module.
+670	SMLK	Module: SMLK (Smart Link)
+671	WLAN	The log comes from the FAN module.
+672	ISIS	The log comes from the ISIS module.
+673	ISIS	The log comes from the ISIS module.
+674	ISIS	The log comes from the ISIS module.
+675	DHCPSNP	DHCPSNP
+676	OSPF	This log comes from the OSPF module.
+677	ISIS	The log comes from the ISIS module.
+678	FTPS	The log comes from the CFG module (CONFIGURATION).
+679	ISIS	The log comes from the ISIS module.
+680	SSH	Module: SSH
+681	ENTITYTRAP	ENTITYTRAP
+682	VFS	The log comes from the SYSMIB module.
+683	LLDP	The log comes from the LLDP module.
+684	RRPP	The log comes from the RRPP module.
+685	ARP	The log comes from the STP module.
+686	HOUP	The log comes from the PATCH module.
+687	ENTITYEXTTRAP	The log comes from the FIB module.
+688	WLAN	The log comes from the WLAN module.
+689	WLAN	The log comes from the WLAN module.
+690	SNMP	The log comes from the PROXY module.
+691	ERPS	This log likely comes from the RUMNG (Ring Management) module.
+692	OSPF	The log comes from the OSPF module.
+693	ISIS	The log comes from the ISIS module.
+694	ISIS	The log comes from the RM (Resource Manager) module.
+695	LDP	MCAST
+696	RMON	The log comes from the CFG module.
+697	BFD	The log comes from the CFG module (CONFIGURATION).
+698	AAA	The log likely comes from the USER module.
+699	IFNET	The log comes from the VOSMEM module.
+700	LDP	The log comes from the LDP (Label Distribution Protocol) module.
+701	OPSA	The log comes from the CLI module.
+702	MSTP	Module: MSTP (Multiple Spanning Tree Protocol)
+703	ISIS	The log comes from the ISIS module.
+704	LSPM	The log comes from the LDP module.
+705	DEVM	The log comes from the PKI module.
+706	PKI	This log likely comes from the RSA module.
+707	MSTP	The log comes from the STP module.
+708	ISSU	The log comes from the ISSU (In-Service Software Upgrade) module.
+709	ISIS	ISIS
+710	SNMP	ENTITYEXTTRAP
+711	OSPF	This log comes from the OSPF module.
+712	GRSA	This log comes from the PKI module.
+713	ISIS	The log comes from the LDP module.
+714	MSTP	The log comes from the STP module.
+715	RIP	The log comes from the RM module.
+716	FIB	The log comes from the OPS module.
+717	ISSU	The log comes from the ENGINE module.
+718	BFD	The log comes from the module named "ENGINE".
+719	OSPF	The log comes from the OSPF module.
+720	RRPP	The log comes from the RDS (Ring Detection Service) module.
+721	IFNET	The log comes from the IFNET module.
+722	RUMNG	The log comes from the module named "FIB".
+723	BFD	The log comes from the MODULE: HWCM (Hardware Component Management)
+724	FSP	The log comes from the ENTITYTRAP module.
+725	ISIS	The log comes from the ISIS module.
+726	NETCONFC	CONFIGURATION
+727	ALML	ENTITYTRAP
+728	PKI	The log comes from the PKI module.
+729	ARP	This log likely comes from the ARP module.
+730	OSPF	The log comes from the OSPF module.
+731	MCAST	This log message likely comes from the QUEUE module.
+732	SRM	The log comes from the PHY module.
+733	DLDP	The log comes from the DLDP module.
+734	RMON	The log comes from the VLAN module.
+735	TRILL	The log comes from the TRILL module.
+736	BGP	This log comes from the QOS module.
+737	FM	ENTITYEXTTRAP
+738	MAD	The log comes from the HA (High Availability) module.
+739	BGP	This log comes from the IP module.
+740	OSPF	The log comes from the OSPF module.
+741	ISIS	The log comes from the ISIS module.
+742	RM	The log comes from the CFG module.
+743	MCAST	The log comes from the FIB module.
+744	BASETRAP	ENTITYEXTTRAP
+745	ISIS	The log comes from the ISIS module.
+746	BFD	The log comes from the BACKUP module.
+747	DHCPS	The log comes from the DHCP module.
+748	CSISSU	The log comes from the CSS ISSU module.
+749	CONFIGURATION	The log comes from the CONFIGURATION module.
+750	OSPF	The log comes from the OSPF module.
+751	RM	The log comes from the module IPv6 Prefix Management (IPFPM).
+752	VFS	The log comes from the SHELL module.
+753	PIM	The log comes from the PIM module.
+754	BGP	The log comes from the BGP module.
+755	GRSA	The log comes from the CONFIGURATION module.
+756	RM	The log comes from the IP module.
+757	MSDP	This log comes from the IPSG (IP Source Guard) module.
+758	PIM	This log comes from the IGMP module.
+759	RM	TUNNEL
+760	AAA	This log likely comes from the AAA module.
+761	WLAN	The log comes from the WLAN module.
+762	OPSA	The log comes from the SCRIPT module.
+763	BGP	The log comes from the BGP module.
+764	SECE	The log comes from the DAI (Dynamic ARP Inspection) module.
+765	ENTITYEXTTRAP	The log comes from the PHY module.
+766	OSPF	The log comes from the OSPF module.
+767	DHCP	Module: DHCPS
+768	OSPF	Module: OSPF
+769	POE	IFNET
+770	ADPVXLAN	The log comes from the VXLAN module.
+771	SSH	This log comes from the SSH module.
+772	VBST	The log comes from the BPDU module.
+773	BGP	BGP
+774	ISIS	The log comes from the ISIS module.
+775	AAA	The log comes from the AAA module.
+776	RMON	The log comes from the SNMP module.
+777	PKI	The log comes from the SSH module.
+778	IFNET	The log comes from the IFNET module.
+779	IFPDT	The log comes from the IFNET module.
+780	SRM	The log comes from the ENTITYTRAP module.
+781	CLOCK	The log comes from the NTP module.
+782	SNPG	Module: MCAST (Multicast)
+783	OSPF	This log comes from the OSPF module.
+784	BGP	The log comes from the BGP module.
+785	IFPDT	Module: TRUNK
+786	WLAN	The log comes from the module named "APPHY".
+787	ASMNG	The log "Failed to reset AS. (AS Name=[STRING])" likely comes from the BGP module.
+788	SSH	SSH module
+789	WLAN	The log comes from the WLAN module.
+790	LDT	LOOPDETECT
+791	MSTP	This log comes from the VLAN module.
+792	OSPF	This log comes from the OSPF module.
+793	ISIS	The log comes from the ISIS module.
+794	RRPP	The log comes from the ISSU module.
+795	TNLM	The log comes from the TUNNEL module.
+796	WLAN	This log comes from the WLAN module.
+797	RSA	The log comes from the SSH module.
+798	OSPF	The log comes from the RM (Resource Management) module.
+799	OMNG	The log comes from the HA (High Availability) module.
+800	HOUP	This log comes from the SYSRES module.
+801	STACKMNG	The log comes from the STACKMNG module.
+802	OSPF	The log comes from the AM module.
+803	ENTITYTRAP	ENTITYTRAP
+804	POE	The log comes from the POE (Power over Ethernet) module.
+805	RM	The log comes from the RM (Resource Manager) module.
+806	CMREG	The log message "Register status changed from [STRING] to [STRING]" likely comes from the CFG module (Configuration).
+807	CFM	CONFIGURATION
+808	RSVP	The log comes from the RSVP module.
+809	TAD	The log comes from the IFNET module.
+810	ARP	This log comes from the VLAN module.
+811	ISIS	The log comes from the ISIS module.
+812	FTPS	The log comes from the FTP module.
+813	KEYCHAIN	The log comes from the ENGINE module.
+814	PKI	This log comes from the PKI module.
+815	AAA	The log comes from the AAA module.
+816	MFIB	This log comes from the VRRP module.
+817	ASMNG	The log comes from the IPSec module.
+818	GRE	TUNNEL
+819	DEBUG	The log comes from the MEMORY module.
+820	LACP	The log comes from the TRUNK module.
+821	ACLE	The log comes from the SYSRES module.
+822	SSH	The log comes from the SSH module.
+823	RSA	The log comes from the CONFIGURATION module.
+824	LSPM	This log comes from the LSPM (Label Switched Path Management) module.
+825	TRILL	The log comes from the TRILL module.
+826	OSPF	The log comes from the OSPF module.
+827	RM	The log comes from the ROUTE module.
+828	ISIS	ISIS
+829	POE	The log comes from the PD module.
+830	FPDT	The log comes from the IFNET module.
+831	CLOCK	The log comes from the HWCM module.
+832	CSPF	Module: OSPF
+833	CSISSU	The log comes from the CSS ISSU module.
+834	VBST	The log comes from the VBST module.
+835	OSPF	The log comes from the OSPF module.
+836	BFD	This log comes from the LSPM module.
+837	SECE	This log comes from the CPUDEFEND module.
+838	ND	The log comes from the ENTITYTRAP module.
+839	PKI	This log comes from the SSL module.
+840	WLAN	The log comes from the WLAN module.
+841	PM	The log comes from the FTP module.
+842	EFM	The log comes from the EFM module.
+843	MSTP	The log comes from the MSTP (Multiple Spanning Tree Protocol) module.
+844	BFD	The log comes from the IPCA module.
+845	SNPG	MCAST
+846	ISIS	The log comes from the ISIS module.
+847	ISIS	The log comes from the ISIS module.
+848	INTRA	TELNET
+849	AAA	The log comes from the SNMP module.
+850	OAM	The log comes from the LSPM module.
+851	DEFEND	The log comes from the ARP module.
+852	OPSA	The log comes from the SHELL module.
+853	ISIS	The log comes from the ISIS module.
+854	BASETRAP	This log comes from the ENTITYTRAP module.
+855	BGP	This log comes from the IPS module.
+856	REASM	The log comes from the IP module.
+857	FSP	The log comes from the STACKMNG module.
+858	OSPF	The log comes from the OSPF module.
+859	MCAST	This log comes from the MCAST module.
+860	BULKSTAT	This log comes from the FTP module.
+861	OAM	TUNNEL
+862	EFM	The log comes from the IFNET module.
+863	CFM	The log comes from the BACKUP module.
+864	AAA	The log comes from the AAA module.
+865	SECE	This log comes from the CPUDEFEND module.
+866	HOUP	The log comes from the SYSTEM module.
+867	KEYCHAIN	The log comes from the KEYCHAIN module.
+868	ISIS	This log comes from the ISIS module.
+869	SNMP	This log comes from the CPUDEFEND module.
+870	BGP	This log comes from the VPNBASE module.
+871	PKI	This log comes from the SSL module.
+872	CSSM	The log comes from the CSSM module.
+873	PKI	PKI
+874	VFS	The log comes from the SYSTEM module.
+875	BGP	Module: BGP
+876	RM	The log comes from the RM (Resource Manager) module.
+877	ENTITYTRAP	ENTITYTRAP
+878	CSSM	The log comes from the CSSM module.
+879	ISIS	The log comes from the ISIS module.
+880	MSTP	Module: MSTP
+881	LDP	This log comes from the BGP module.
+882	POE	The log likely comes from the PORT module.
+883	LSPM	The log comes from the LDP module.
+884	CLKMIB	This log comes from the CLKSYNC module.
+885	ISIS	The log comes from the ISIS module.
+886	SRM	The log likely comes from the SYSMIB module.
+887	HVRP	The log comes from the module HVRP (Huawei VLAN Routing Protocol).
+888	WLAN	The log comes from the WLAN module.
+889	DHCPSNP	The log comes from the DHCP module.
+890	ISIS	The log comes from the ISIS module.
+891	QOS	The log comes from the module: FIB.
+892	BGP	The log comes from the BGP module.
+893	LSPM	The log comes from the LSPM module.
+894	ISIS	The log comes from the ISIS module.
+895	CM	The log comes from the ACL module.
+896	OSPF	The log comes from the RM (Resource Manager) module.
+897	ENTITYEXTTRAP	This log comes from the FIB module.
+898	SYSMIB	The log comes from the PATCH module.
+899	OSPF	This log comes from the OSPF module.
+900	OSPF	The log comes from the OSPF module.
+901	ISIS	The log comes from the ISIS module.
+902	ISIS	The log comes from the ISIS module.
+903	RMON	The log comes from the AM (Alarm Management) module.
+904	ISIS	The log comes from the ISIS module.
+905	STACKMNG	The log comes from the STACKMNG module.
+906	PTP	The log comes from the CLOCK module.
+907	ISIS	This log comes from the ISIS module.
+908	MSTP	The log comes from the STP module.
+909	SSH	SSH
+910	OPSA	The log comes from the SCRIPT module.
+911	WLAN	The log comes from the WLAN module.
+912	LSPM	The log comes from the LSPM module.
+913	OSPF	This log comes from the OSPF module.
+914	OSPF	The log comes from the OSPF module.
+915	WLAN	The log comes from the WLAN module.
+916	PIM	This log comes from the IGMP module.
+917	GRSA	This log likely comes from the RSA module.
+918	BFD	The log comes from the SESSION module.
+919	RSVP	The log comes from the RSVP module.
+920	PM	The log comes from the module named "FM" (File Management).
+921	MCAST	The log comes from the VLAN module.
+922	BGP	This log comes from the BFD (Bidirectional Forwarding Detection) module.
+923	SNMP	The log comes from the SNMP module.
+924	GPM	This log comes from the DATABASE module.
+925	MK	The log comes from the module: SECE (Security)
+926	VRRP	This log comes from the EFM module.
+927	SRM	This log comes from the ENTITYTRAP module.
+928	VFS	The log comes from the IPCA module.
+929	SECE	The log comes from the CPUDEFEND module.
+930	DSA	SSH
+931	SRM	The log comes from the module: IFNET
+932	MRM	The log comes from the MRM (Multi-Protocol Routing Module) module.
+933	RUMNG	The log comes from the module named "RUUP" (Remote Unit Update).
+934	OSPF	The log comes from the IFNET module.
+935	WLAN	The log comes from the ALML (Alarm Management) module.
+936	ISIS	The log comes from the ISIS module.
+937	TELNET	The log comes from the AAA module.
+938	TRAFSTAT	The log comes from the LSPM module.
+939	CMD	The log comes from the CLI module.
+940	OSPF	The log comes from the LSPM module.
+941	QOS	QOS
+942	PAF	Module: HA (High Availability)
+943	RIP	The log comes from the BGP module.
+944	MLD	Module: MLD
+945	OSPF	The log comes from the OSPF module.
+946	PTP	The log comes from the SNMP module.
+947	DEVM	ENTITYTRAP
+948	OSPF	The log comes from the OSPF module.
+949	LSPM	The log comes from the LSPM module.
+950	WSTA	This log comes from the WLAN module.
+951	SRM	The log comes from the ENGINE module.
+952	TRAFSTAT	This log comes from the VPNBASE module.
+953	LSPM	The log comes from the LSPM module.
+954	SRM	The log comes from the IFNET module.
+955	MSTP	This log comes from the LLDP module.
+956	RIP	The log comes from the BGP module.
+957	SRM	The log comes from the FPGADRV module.
+958	RM	This log comes from the BGP module.
+959	OSPF	The log comes from the PAF module.
+960	QOS	QOS
+961	OSPF	This log comes from the OSPF module.
+962	VBST	The log comes from the VBST module.
+963	DEBUG	The log comes from the CPUDEFEND module.
+964	MGMD	The log comes from the IGMP module.
+965	CFM	CONFIGURATION
+966	ISIS	The log comes from the ISIS module.
+967	LDP	The log comes from the Route Management (RM) module.
+968	OSPF	IFNET
+969	QOS	The log comes from the SACL module.
+970	SRM	ENTITYEXTTRAP
+971	BFD	The log comes from the IPCA module.
+972	BGP	BGP
+973	MD	The log comes from the VPNBASE module.
+974	VFS	The log comes from the FILE module.
+975	OSPF	The log comes from the ISSU module.
+976	SNMP	The log message "All locks are unlocked" likely comes from the LOCK module.
+977	SNPG	The log comes from the MCAST module.
+978	FSP	The log comes from the STACKMNG module.
+979	SOCKET	The log comes from the QOS module.
+980	POE	The log "Reset this port [STRING]" likely comes from the PORT module.
+981	OSPF	The log comes from the ENGINE module.
+982	LDP	The log comes from the LDP module.
+983	WLAN	Module: SECE (Security)
+984	PKI	The log comes from the PKI module.
+985	OSPF	The log comes from the RM (Resource Manager) module.
+986	ISIS	The log comes from the ISIS module.
+987	STACKMNG	The log comes from the STACKMNG module.
+988	OPSA	This log comes from the SCRIPT module.
+989	OSPF	The log comes from the OSPF module.
+990	PIM	The log comes from the PIM module.
+991	ADDR	The log comes from the IFNET module.
+992	FSP	The log comes from the STACKMNG module.
+993	SNMP	The log comes from the PAF module.
+994	MSTP	Module: MSTP (Multiple Spanning Tree Protocol)
+995	LLDP	LLDP
+996	IGMP	The log comes from the ACL module.
+997	WLAN	The log comes from the module named "FAN".
+998	CLKM	The log comes from the SYSRES module.
+999	RUMNG	The log comes from the POE module.
+1000	RRPP	The log comes from the ERPS module.
+1001	OSPF	The log comes from the LICENSE module.
+1002	HOUP	TFTP
+1003	HTTP	The log comes from the ACL module.
+1004	OSPF	This log comes from the OSPF module.
+1005	VSTM	This log comes from the VSTM module.
+1006	SECE	The log comes from the IPSG (IP Source Guard) module.
+1007	IPLPM	This log comes from the QOS (Quality of Service) module.
+1008	BULKSTAT	This log comes from the FTP module.
+1009	ISIS	The log comes from the ISIS module.
+1010	ISSU	The log comes from the ISSU module.
+1011	ISIS	The log comes from the ISIS module.
+1012	OSPF	The log comes from the OSPF module.
+1013	OAM	The log comes from the OAM module.
+1014	RUMNG	This log comes from the ENTITYEXTTRAP module.
+1015	VFS	The log comes from the RUUP module.
+1016	ALML	The log comes from the APS module.
+1017	BFD	The log comes from the HA (High Availability) module.
+1018	RSVP	The log comes from the RSVP module.
+1019	WLAN	This log comes from the ENTITYTRAP module.
+1020	ISIS	The log comes from the ISIS module.
+1021	ISIS	The log comes from the ISIS module.
+1022	OSPF	The log comes from the BGP module.
+1023	IFPDT	The log comes from the IFNET module.
+1024	TPLMNG	The log comes from the SNMP module.
+1025	PIM	The log comes from the ACL module.
+1026	PTP	This log comes from the CLKSYNC module.
+1027	OSPF	This log comes from the OSPF module.
+1028	ISIS	The log comes from the ISIS module.
+1029	OSPF	The log comes from the OSPF module.
+1030	CLI	The log comes from the SSH module.
+1031	WLAN	This log comes from the WLAN module.
+1032	AAA	The log comes from the SNMP module.
+1033	UPDATE	The log comes from the IPS module.
+1034	VBST	The log comes from the DLDP module.
+1035	BGP	Module: BGP
+1036	SPM	The log comes from the ENGINE module.
+1037	QOS	The log comes from the QOS module.
+1038	DHCP	Module: DHCP
+1039	ALML	The log comes from the POWER module.
+1040	RIP	The log comes from the RIP module.
+1041	BGP	Module: BGP
+1042	DEVM	The log comes from the ENTITYTRAP module.
+1043	QOS	The log comes from the ACL module.
+1044	WSTA	This log comes from the WLAN module.
+1045	MSTP	The log comes from the MSTP (Multiple Spanning Tree Protocol) module.
+1046	LDP	The log comes from the MCAST module.
+1047	WLAN	The log comes from the AP module.
+1048	EZOP	This log comes from the FTP module.
+1049	FEI	FIBSPT
+1050	EZOP	The log comes from the EZOP module.
+1051	ASMNG	The log comes from the BGP module.
+1052	EFM	The log message "Interface starts loopback failed. (IfIndex=[IfIndex],IfName=[IfName])" likely comes from the LOOPDETECT module.
+1053	ISIS	The log comes from the ISIS module.
+1054	TNLM	TUNNEL
+1055	VBST	LOOPDETECT
+1056	ISIS	The log comes from the ISIS module.
+1057	WLAN	This log comes from the SSL module.
+1058	BFD	The log comes from the ENGINE module.
+1059	ISIS	The log comes from the ISIS module.
+1060	PKI	This log comes from the PKI module.
+1061	SYSTEM	SECE
+1062	ISSU	The log comes from the ISSU module.
+1063	DCB	The log comes from the IFNET module.
+1064	FEI	The log comes from the MACSEC module.
+1065	AAA	The log comes from the AAA module.
+1066	OSPF	The log comes from the OSPF module.
+1067	ISIS	The log comes from the ISIS module.
+1068	UVM	The log comes from the SNMP module.
+1069	WLAN	The log comes from the module named "BLE".
+1070	ISIS	The log comes from the ISIS module.
+1071	ISIS	The log comes from the ISIS module.
+1072	ENTITYTRAP	The log comes from the ENTITYTRAP module.
+1073	ISIS	The log comes from the ISIS module.
+1074	WEB	The log comes from the module named "AAA" (Authentication, Authorization, and Accounting).
+1075	MSTP	The log comes from the BPDU module.
+1076	WLAN	The log comes from the WLAN module.
+1077	RSVP	The log comes from the LSPM module.
+1078	ISSU	The log comes from the ENGINE module.
+1079	SSH	The log comes from the AAA module.
+1080	RIPNG	The log comes from the ENGINE module.
+1081	AM	The log comes from the DHCP module.
+1082	CM	The log comes from the ACL module.
+1083	PDF	The log comes from the module named "HA" (High Availability).
+1084	LINE	The log comes from the CLI module.
+1085	ISIS	The log comes from the ISIS module.
+1086	IP	This log comes from the IFNET module.
+1087	ISIS	The log comes from the ISIS module.
+1088	KEYCHAIN	The log comes from the KEYCHAIN module.
+1089	ALML	The log comes from the ENTITYTRAP module.
+1090	ISIS	The log comes from the ISIS module.
+1091	SECE	The log comes from the SSH module.
+1092	GTL	The log comes from the module named "LICENSE".
+1093	EFM	The log comes from the IFNET module.
+1094	ALML	The log comes from the RFID module.
+1095	HOUP	This log likely comes from the ISSU (In-Service Software Upgrade) module.
+1096	WLAN	This log comes from the ENTITYTRAP module.
+1097	MPLS	The log comes from the L2VPN module.
+1098	NATPT	The log comes from the NATPT module.
+1099	ISIS	This log comes from the LDP (Label Distribution Protocol) module.
+1100	CLOCK	The log comes from the HWCM (Hardware Component Management) module.
+1101	CONFIGURATION	This log comes from the STORAGE module.
+1102	ENTITYTRAP	The log comes from the ENTITYEXTTRAP module.
+1103	RMON	ALML
+1104	LDP	The log comes from the LDP (Label Distribution Protocol) module.
+1105	ENTITYTRAP	The log comes from the ENTITYTRAP module.
+1106	IFNET	The log comes from the BFD module.
+1107	MRM	Module: MCAST
+1108	IFNET	The log comes from the IFNET module.
+1109	FSP	This log comes from the SNMP module.
+1110	PIM	This log comes from the PIM module.
+1111	STACKMNG	STACKMNG
+1112	PKI	The log comes from the RSA module.
+1113	BFD	The log comes from the PAF module.
+1114	PIM	The log comes from the PIM module.
+1115	GRSA	The log comes from the KEYCHAIN module.
+1116	SECE	This log likely comes from the ACL module.
+1117	WLAN	This log comes from the CPUDEFEND module.
+1118	QOS	Module: FIB
+1119	RM	This log comes from the BGP module.
+1120	ISIS	The log comes from the ISIS module.
+1121	ISIS	The log comes from the ISIS module.
+1122	LACP	Module: LACP
+1123	SYSMIB	The log comes from the ISSU (In-Service Software Upgrade) module.
+1124	WLAN	This log comes from the CPUDEFEND module.
+1125	LSPM	The log comes from the MPLS module.
+1126	OAM	The log comes from the TUNNEL module.
+1127	OSPF	This log comes from the BGP module.
+1128	SA	The log comes from the ENGINE module.
+1129	SRM	The log comes from the HWCM module.
+1130	PIM	The log comes from the PIM module.
+1131	MRM	This log comes from the PIM module.
+1132	POE	The log comes from the POE module.
+1133	LSPM	The log comes from the LSPM module.
+1134	SECE	The log comes from the ARP module.
+1135	IGMP	The log comes from the IGMP module.
+1136	WLAN	The log comes from the WLAN module.
+1137	RM	The log comes from the IFNET module.
+1138	SNPG	The log comes from the MCAST module.
+1139	DEFD	The log comes from the DEFD module.
+1140	LACP	Module: LACP
+1141	SRM	The log likely comes from the SYSMIB module.
+1142	IFNET	The log comes from the ENGINE module.
+1143	RM	This log comes from the BGP module.
+1144	SHELL	The log comes from the AAA module.
+1145	LCS	GTL

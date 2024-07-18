@@ -1,0 +1,444 @@
+0	AUTOCFG	The log comes from the AUTOCFG module.
+1	ATK	This log comes from the IPS module.
+2	PTP	This log comes from the PTP module.
+3	DEV	The log comes from the module PHYD (Physical Device).
+4	PTP	The log comes from the module named "PHYD" (Physical Device).
+5	OSPF	The log comes from the OSPF module.
+6	DIAG	The log comes from the module named "SYSLOG".
+7	PTS	The log "Failed to start selfverify" likely comes from the module named DRVPLAT.
+8	SSLVPN	The log comes from the FILTER module.
+9	HTTPD	The log likely comes from the SSHS module (SSH Server).
+10	ETHOAM	This log comes from the ETHOAM module.
+11	SSLVPN	The log comes from the SSLVPN module.
+12	USER	The log comes from module SECDIAG.
+13	ATK	The log comes from the QACL module.
+14	AUDIT	This log comes from the Firewall module (FFILTER).
+15	ETHOAM	The log comes from the module ETH.
+16	CFD	The log comes from the ETH module.
+17	SSLVPN	The log comes from the CWS (Content Web Security) module.
+18	DIAG	Module: OPENSRC
+19	BLS	The log comes from the IPADDR module.
+20	AUDIT	The log comes from the CWS (Content Web Security) module.
+21	ATK	The log comes from the ATK (Attack) module.
+22	IRF	The log comes from the IRF module.
+23	ACL	The log comes from the PFILTER module.
+24	PPPOES	The log comes from the module DPPPOE.
+25	RPR	This log comes from the RPR module.
+26	TACACS	The log likely comes from the module CFGMAN (Configuration Management).
+27	AVC	CWS (Content Web Security)
+28	CWC	The log comes from the module WSA (Wireless Security Appliance).
+29	OFP	The log comes from the OFP (OpenFlow) module.
+30	OFP	The log comes from the OFP (OpenFlow) module.
+31	ARP	The log comes from the IPADDR module.
+32	RIR	The log comes from the SESSION module.
+33	BGP	The log comes from the BGP module.
+34	IPFW	This log comes from the LAGG module.
+35	WAF	The log comes from the ATK (Attack) module.
+36	OPTMOD	The log comes from the SENSOR module.
+37	SSLVPN	The log comes from the IPSEC module.
+38	IFNET	The log comes from the FNOTIFY module.
+39	OFP	The log comes from the OFP (OpenFlow) module.
+40	SSLVPN	The log comes from the PORT module.
+41	MACA	The log comes from the AAA module.
+42	SSLVPN	Module: NAT
+43	ATK	The log comes from the IPS module.
+44	SSLVPN	CWS (Content Web Security)
+45	SSLVPN	The log comes from the SSLVPN module.
+46	SYSEVENT	The log comes from module [NQA].
+47	MESH	The log comes from the LAGG module.
+48	PORTSEC	The log comes from the ACL module.
+49	DLDP	The log comes from the DLDP module.
+50	DOMAIN	The log comes from the IPREPUTATION module.
+51	SSLVPN	The log comes from the CFGMAN module.
+52	SSLVPN	CWS (Content Web Security)
+53	CWS	The log comes from the WIRELESS module.
+54	OFP	Module: OFP (OpenFlow)
+55	OPTMOD	This log likely comes from the PHYD module.
+56	BSP	The log comes from the module PHYD (Physical Device).
+57	QOS	The log comes from the module named QOS (Quality of Service).
+58	SSLVPN	This log comes from the SSLVPN module.
+59	FS	The log comes from the CFGLOG module.
+60	OBJP	The log comes from the FILTER module.
+61	PTP	The log comes from the PTP module.
+62	PHYD	The log comes from the module "FNOTIFY" (File Notify).
+63	SSLVPN	Module: SSLVPN
+64	SSLVPN	The log comes from the FFILTER module.
+65	FCOE	The log comes from the FCOE module.
+66	WIPS	The log comes from the WIPS (Wireless Intrusion Prevention System) module.
+67	PFILTER	The log comes from the IPV6 module.
+68	MACSEC	The log comes from the MACSEC module.
+69	BLS	The log comes from the IPADDR module.
+70	CFGMAN	The log comes from the module named "AUDIT".
+71	OFP	The log comes from the module OFP (OpenFlow Protocol).
+72	LLDP	The log comes from the LLDP module.
+73	SSLVPN	The log comes from the CFGMAN module.
+74	ATK	The log comes from the ATK (Attack) module.
+75	STAMGR	The log comes from the WIPS module.
+76	PING	The log comes from the ICMP module.
+77	STP	This log comes from the STP (Spanning Tree Protocol) module.
+78	MAC	FDB (Forwarding Database)
+79	PWDCTL	Module: PWDCTL
+80	SSLVPN	The log comes from module SSLVPN.
+81	IFNET	The log comes from the FNOTIFY module.
+82	ATK	The log comes from the ATK (Attack) module.
+83	RADIUS	The log likely comes from the module CFGMAN (Configuration Management).
+84	SSLVPN	The log comes from the SECDIAG module.
+85	NQA	NQA
+86	LLDP	The log comes from the PORT module.
+87	LS	This log comes from the TACACS module.
+88	VRRP	The log comes from the VRRP module.
+89	LB	The log comes from the LAGG module.
+90	SSLVPN	The log comes from the module "AAA" (Authentication, Authorization, and Accounting).
+91	FDB	The log comes from the PORT module.
+92	SECDIAG	The log message "Number of created contexts dropped below the threshold" likely comes from the module "SECDIAG" (Security Diagnostics).
+93	SSLVPN	The log comes from the NAT module.
+94	IPSEC	Module: IPSEC
+95	SSLVPN	The log comes from the PORT module.
+96	PWDCTL	PWDCTL
+97	SSLVPN	Module: VPN
+98	ATK	This log comes from the IPS module.
+99	ATK	This log comes from the ATK (Attack) module.
+100	PTS	The log "Failed to create selfverify counter" likely comes from the module named "SECDIAG" (Security Diagnostics).
+101	QOS	The log comes from the QACL module.
+102	MFIB	The log message "Failed to create [STRING] because of insufficient resources" likely comes from the module named "PHYD" (Physical Device).
+103	ATK	The log comes from the ATK (Attack) module.
+104	NQA	Module: NQA
+105	ATK	This log comes from the IPS module.
+106	PTS	The log comes from module HA (High Availability).
+107	LDP	The log comes from the SESSION module.
+108	ATK	The log comes from the ICMP module.
+109	AUTOCFG	The log comes from the AUTOCFG module.
+110	LSPV	The log comes from the module PING.
+111	NQA	The log comes from the NQA module.
+112	RPR	The log comes from the RPR module.
+113	GRPC	The log comes from the EVENT module.
+114	CC	This log comes from the WAF (Web Application Firewall) module.
+115	LS	Module: PWDCTL (Password Control)
+116	SHELL	The log comes from the SHELL module.
+117	USER	The log comes from the DEV module.
+118	OFC	The log comes from the FNOTIFY module.
+119	DRNI	The log comes from the PHYD module.
+120	PTS	Module: ATK (Attestation Key)
+121	STP	The log comes from the STP (Spanning Tree Protocol) module.
+122	SECP	The log comes from the FILTER module.
+123	SSLVPN	Module: SSLVPN
+124	LS	Module: PWDCTL (Password Control)
+125	NTP	The log comes from the NTP module.
+126	RIP	The log comes from the RIP module.
+127	DOMAIN	The log comes from the IPREPUTATION module.
+128	DPORTAL	The log comes from the VLAN module.
+129	SSLVPN	CWS (Content Web Security)
+130	PPPOES	The log comes from the module DPPPOE.
+131	FILTER	This log comes from the FIREWALL module.
+132	ADVPN	The log comes from the ADVPN module.
+133	BRIPRO	The log comes from the LAGG module.
+134	ARP	This log comes from the IPS module.
+135	BFD	The log comes from the SESSION module.
+136	SSLVPN	The log comes from the APMGR module.
+137	SSLVPN	Module: SSLVPN
+138	SSLVPN	The log comes from the module APMGR (Access Policy Manager).
+139	FIB	The log comes from the IPFW module.
+140	OBJP	The log comes from the ACL module.
+141	ATK	The log comes from the IPS module.
+142	TACACS	The log comes from the TACACS module.
+143	SHELL	The log comes from the SSHS module.
+144	NQA	NQA
+145	ATK	The log comes from the IPSEC module.
+146	ATK	The log comes from the Firewall module (FFILTER).
+147	ARP	The log comes from the ARP module.
+148	PPP	The log comes from the PPP module.
+149	CFD	The log comes from the ETH module.
+150	PFILTER	The log comes from the IPFW module.
+151	STAMGR	The log comes from the WLAN Service Assurance (WSA) module.
+152	ATK	The log comes from the IPS module.
+153	ATK	The log comes from the ATK (Attack Defense) module.
+154	DEV	The log comes from the DRVPLAT module.
+155	WEB	The log comes from the SSHS module.
+156	OPTMOD	The log comes from the PHYD module.
+157	ETHOAM	The log comes from the module IRF (Interface Remote Fault).
+158	ATK	The log comes from the IPS module.
+159	OPTMOD	The log comes from the IPS module.
+160	LS	PWDCTL
+161	PIM	This log comes from the IRDP module.
+162	IRF	The log comes from the IRF module.
+163	RIP	The log comes from the RIP module.
+164	SSLVPN	The log comes from the PORT module.
+165	DEV	The log comes from the module DEV (Device Management).
+166	SSLVPN	The log comes from the module PWDCTL (Password Control).
+167	ATK	This log comes from the IPS module.
+168	QOS	QOS
+169	ATK	The log comes from the ATK (Attack) module.
+170	DRVPLAT	The log comes from the module named "FABRIC".
+171	ETHOAM	The log comes from the module PHYD (Physical Device).
+172	PEX	The log comes from the STP module.
+173	CONNLMT	The log comes from the module named IPS.
+174	STAMGR	The log comes from the CFGMAN module.
+175	SCMD	The log comes from module DEV.
+176	SSLVPN	The log comes from the CFGMAN module.
+177	UDPI	The log comes from the module named "AVC" (Application Visibility and Control).
+178	OSPF	The log comes from the OSPF module.
+179	HA	The log comes from the module named "HA" (High Availability).
+180	PFILTER	The log comes from the MAC module.
+181	SECDIAG	The log comes from the SESSION module.
+182	SSLVPN	The log comes from the WAF (Web Application Firewall) module.
+183	FILTER	The log comes from the ACL module.
+184	PEX	The log comes from the CFGLOG module.
+185	DPPPOE	The log comes from the module: RESOURCE.
+186	ATK	This log comes from the IPS module.
+187	QOS	QOS
+188	EDEV	This log comes from the HA (High Availability) module.
+189	STAMGR	The log comes from the MACSEC module.
+190	IFNET	The log comes from the PHYD module.
+191	ATK	This log comes from the IPS module.
+192	LAGG	Module: LAGG (Link Aggregation)
+193	SCM	The log comes from the HA (High Availability) module.
+194	PFILTER	The log comes from the IPFW module.
+195	ATK	The log comes from the ICMP module.
+196	LS	Module: PWDCTL
+197	SSLVPN	The log comes from the CFGMAN module.
+198	IKE	The log comes from the IKE module.
+199	NAT	The log comes from module CFGLOG.
+200	ATK	The log comes from the IPS module.
+201	STP	The log comes from the DRVPLAT module.
+202	SSLVPN	The log comes from the ACL module.
+203	ATK	This log comes from the IPS module.
+204	LB	The log comes from the SLBG module (Server Load Balancing).
+205	ATK	This log comes from the ATK (Attack Defense) module.
+206	ATK	The log comes from the IPS module.
+207	SSLVPN	CWS (Content Web Security)
+208	QOS	The log comes from the SECDIAG module.
+209	SSLVPN	The log comes from the CFGMAN module.
+210	ATK	The log comes from the IPS module.
+211	IDENTITY	The log comes from the module IDENTITY.
+212	ATK	The log comes from the IPS module.
+213	APMGR	The log comes from the module named "APMGR" (Access Point Manager).
+214	SHELL	The log comes from the RPR module (Rollback Point).
+215	STAMGR	This log comes from the WIPS (Wireless Intrusion Prevention System) module.
+216	WMESH	The log comes from the LAGG module.
+217	ATK	The log comes from the IPS module.
+218	ATK	The log comes from the FW module.
+219	OBJP	The log comes from the FILTER module.
+220	BLS	The log comes from the IPADDR module.
+221	ATK	The log comes from the IPS module.
+222	LB	The log comes from the LAGG module.
+223	NAT	This log comes from the PORT module.
+224	SLBG	This log comes from the PORT module.
+225	DEV	Module: CFILTER
+226	RADIUS	The log comes from the RADIUS module.
+227	SECDIAG	The log comes from the IPSEC module.
+228	SSLVPN	The log comes from the module IPADDR.
+229	SCMD	The log comes from the module DRVPLAT (Driver Platform).
+230	HA	Module: HA (High Availability)
+231	ATK	This log comes from the IPS module.
+232	SHELL	The log comes from the SSHS module.
+233	ATK	The log comes from the FIREWALL module.
+234	OFP	The log comes from the OFP (OpenFlow Protocol) module.
+235	DRNI	The log comes from the CFGLOG module.
+236	DRNI	The log comes from the CFGMAN module.
+237	OFP	The log comes from the module DEV (Device Management).
+238	QACL	Module: MPLS
+239	ATK	The log comes from the IPS module.
+240	RTM	The log comes from the CFGMAN module.
+241	IFNET	This log comes from the ETH module.
+242	PKTCPT	The log comes from the PCAPWARE module.
+243	ATK	This log comes from the IPS module.
+244	STP	The log comes from the STP (Spanning Tree Protocol) module.
+245	VLAN	This log comes from the VLAN module.
+246	LB	LB (Load Balancer)
+247	SSLVPN	The log comes from the SSLVPN module.
+248	MACA	The log comes from the PORTSEC module.
+249	SSLVPN	The log comes from the SSLVPN module.
+250	STM	The log comes from the IRF module.
+251	SSLVPN	The log comes from the PORT module.
+252	SNMP	The log comes from the SNMP module.
+253	DPORTAL	The log comes from the PORTAL module.
+254	SSLVPN	The log comes from the CWS (Content Web Security) module.
+255	SSLVPN	The log comes from the WSA (Web Security Appliance) module.
+256	IPOE	The log comes from the ATK (Attack) module.
+257	ETHOAM	The log comes from the module ETHOAM (Ethernet Operations, Administration, and Maintenance).
+258	PWDCTL	PWDCTL
+259	SSLVPN	The log comes from the SSLVPN module.
+260	CFGMAN	This log comes from the CFGMAN module.
+261	BGP	The log comes from the BGP module.
+262	ISSU	The log comes from the CFGMAN module.
+263	STAMGR	The log comes from the WLAN module.
+264	LB	The log comes from the LB (Load Balancer) module.
+265	OPTMOD	The log comes from the IPS module.
+266	ATK	The log comes from the ATK (Attack) module.
+267	ATK	The log comes from the ATK (Attack) module.
+268	SSLVPN	The log comes from the AAA module.
+269	RIPNG	The log comes from the RIPNG module.
+270	OPTMOD	The log comes from the PHYD module.
+271	SSLVPN	The log comes from the SSLVPN module.
+272	UFLT	The log comes from the CWS (Content Web Security) module.
+273	ARP	The log comes from the ARP module.
+274	ATK	The log comes from the ATK (Attack) module.
+275	BGP	The log comes from the BGP module.
+276	SSLVPN	The log comes from the CFGMAN module.
+277	INTRACE	The log comes from the ACL module.
+278	CWS	Module: WIPS
+279	LPDT	The log comes from the VLAN module.
+280	PEX	The log comes from the module PPP.
+281	DEV	The log comes from module PWR.
+282	SSLVPN	The log comes from the module APMGR (Access Policy Manager).
+283	ATK	The log comes from the ATK (Attack) module.
+284	LSM	The log comes from the IPREPUTATION module.
+285	SSLVPN	The log comes from the module: MSG.
+286	SSLVPN	The log comes from the module PWDCTL.
+287	SCM	This log comes from the HA (High Availability) module.
+288	OPTMOD	The log comes from the PHYD module.
+289	PREPROVISION	The log comes from the PREPROVISION module.
+290	SCM	The log comes from module: SYSLOG
+291	ATK	The log comes from the IPS module.
+292	ETHOAM	ETHOAM
+293	SSLVPN	The log comes from the SSLVPN module.
+294	ATK	The log comes from the ATK (Attack) module.
+295	NQA	The log comes from the NQA module.
+296	PFILTER	The log comes from the IPv6 module.
+297	EM	The log likely comes from the SECDIAG module.
+298	LOAD	The log comes from the module CFGMAN (Configuration Management).
+299	ATK	The log comes from the ATK (Attack) module.
+300	QOS	The log comes from the QOS module.
+301	PIM	This log comes from the LLDP module.
+302	HQOS	The log comes from the CFGMAN module.
+303	TRILL	The log comes from the TRILL module.
+304	TELNETD	The log comes from the ACL module.
+305	DLDP	The log comes from the DLDP module.
+306	SSLVPN	The log comes from the PORTSEC module.
+307	SSLVPN	The log comes from the SSLVPN module.
+308	PTS	The log "Failed to create socket service" likely comes from the module SSHS (SSH Service).
+309	PTS	The log comes from the TPM module.
+310	MDC	The log comes from the MDC module.
+311	SSLVPN	The log comes from the CFGMAN module.
+312	SCM	The log comes from module CFGMAN.
+313	LDP	The log comes from the LDP module.
+314	LB	The log comes from the ETHOAM module.
+315	STAMGR	The log comes from the BAS module.
+316	DEV	The log comes from the SYSLOG module.
+317	VPLS	This log comes from the VPLS module.
+318	BLS	The log comes from the DOMAIN module.
+319	SSLVPN	The log comes from the SSLVPN module.
+320	ATK	The log comes from the IPS module.
+321	SSLVPN	The log comes from the PWDCTL module.
+322	LAGG	The log comes from the LAGG module.
+323	SECP	The log comes from the FILTER module.
+324	DRNI	The log comes from the CFGMAN module.
+325	ATK	This log comes from the ATK (Attack Defense) module.
+326	ATK	The log comes from the IPS module.
+327	SSLVPN	CWS (Content Web Security)
+328	SNMP	Module: SNMP
+329	SSLVPN	The log comes from the SSLVPN module.
+330	ATK	The log comes from the ATK (Attack) module.
+331	STP	The log comes from the STP module.
+332	ATK	The log comes from the ATK (Attack) module.
+333	ATK	The log comes from the FIREWALL module.
+334	IFNET	The log comes from the QOS module.
+335	PFILTER	The log comes from the ACL module.
+336	SSLVPN	CWS (Content Web Security)
+337	AUTOCFG	The log comes from the AUTOCFG module.
+338	AUDIT	The log comes from the CWS (Content Security) module.
+339	CWS	Module: WSA (Wireless Service Access)
+340	WMESH	The log comes from the module "MESH".
+341	SCM	The log comes from module PHYD.
+342	SSLVPN	The log comes from module: MSDP
+343	ATK	The log comes from the ATK (Attack Defense) module.
+344	ATK	The log comes from the ATK (Attack) module.
+345	OPTMOD	The log comes from the SENSOR module.
+346	PORTAL	The log comes from the PPP module.
+347	ATK	The log comes from the ATK (Attack Defense) module.
+348	ATK	This log comes from the FIREWALL module.
+349	ATK	The log comes from the ATK (Attack Defense) module.
+350	IPSEC	The log comes from the IPSEC module.
+351	PPPOES	The log comes from the PPPOES module.
+352	SSLVPN	The log comes from the SSLVPN module.
+353	RM	The log comes from the module BGP (Border Gateway Protocol).
+354	ND	The log comes from the NDP (Neighbor Discovery Protocol) module.
+355	SSLVPN	CWS (Content Web Security)
+356	CWS	The log comes from the module DEV (Device Management).
+357	GLB	The log comes from the HA (High Availability) module.
+358	PORTAL	The log comes from the CONNLMT module.
+359	BGP	The log comes from the BGP module.
+360	DEV	The log comes from module PWR.
+361	OFP	The log comes from the OFP (OpenFlow) module.
+362	ND	The log comes from the LAGG module.
+363	PFILTER	The log comes from the ACL module.
+364	MDC	The log comes from the MDC module.
+365	SSLVPN	Module: SSLVPN
+366	MACA	The log comes from the AAA module.
+367	SSLVPN	The log comes from the CFGMAN module.
+368	SANDBOX	The log comes from the IPS module.
+369	QOS	The log comes from the DPI (Deep Packet Inspection) module.
+370	SSLVPN	The log comes from the PWDCTL module.
+371	ATK	The log comes from the ATK (Attack) module.
+372	CWS	The log comes from the WSA module.
+373	ATK	This log comes from the ATK (Attack) module.
+374	SSLVPN	The log comes from the module APMGR (Access Policy Manager).
+375	MPLS	The log comes from the module: RESOURCE.
+376	SECDIAG	The log comes from module IFNET.
+377	ATK	The log comes from the ATK (Attack) module.
+378	ATK	This log comes from the ATK (Attack) module.
+379	OFP	The log comes from the OFP (OpenFlow) module.
+380	OBJP	The log comes from the module of IPS (Intrusion Prevention System).
+381	ATK	This log comes from the ATK (Attack) module.
+382	SECDIAG	QOS
+383	DEV	The log comes from the DRVPLAT module.
+384	LS	The log comes from the SSHS module.
+385	ATK	The log comes from the ACL (Access Control List) module.
+386	MPLS	The log comes from the MPLS module.
+387	PKTCPT	Module: PCAPWARE
+388	NETSHARE	The log comes from the SSLVPN module.
+389	SSLVPN	The log comes from the WSA (Web Security Appliance) module.
+390	AUDIT	The log comes from the CWS (Content Web Security) module.
+391	ATK	The log comes from the IPS module.
+392	DHCPS	The log comes from the module DHCPS.
+393	QOS	The log comes from the EDSG module.
+394	SECDIAG	This log comes from the QOS module.
+395	DRNI	The log comes from the IPS module.
+396	ND	This log likely comes from the module named "RESOURCE".
+397	IPFW	The log comes from the CFGMAN module.
+398	PPPOES	The log comes from the PPPOES module.
+399	KDNS	This log comes from the VPN module.
+400	SSLVPN	The log comes from the IPSEC module.
+401	ATK	The log comes from the ATK (Attack) module.
+402	ATK	The log comes from the ATK (Attack) module.
+403	QOS	The log comes from the QOS module.
+404	IPSG	The log comes from the IPSG module.
+405	ATK	The log comes from the ATK (Attack) module.
+406	BLS	The log comes from the IPADDR module.
+407	ATK	This log comes from the ATK (Attack) module.
+408	SSLVPN	Module: SSLVPN
+409	DFILTER	This log comes from the Firewall module (FFILTER).
+410	SSLVPN	Module: SSLVPN
+411	SSLVPN	The log comes from the QOS module.
+412	APMGR	The log comes from the BAS module.
+413	ATK	The log comes from the IPS module.
+414	BRIPRO	The log comes from the STP (Spanning Tree Protocol) module.
+415	UFLT	CWS (Content Web Security)
+416	SSLVPNK	The log comes from the SSHS module.
+417	BFD	The log comes from the BFD module.
+418	LPDT	The log comes from the STP (Spanning Tree Protocol) module.
+419	AUDIT	This log comes from the firewall module (FFILTER).
+420	SSLVPN	CWS (Content Web Security)
+421	SCRLSP	The log comes from the LSPV module.
+422	SCMD	The log comes from module: SYSLOG
+423	IPFW	The log comes from the IFNET module.
+424	SECDIAG	This log comes from the SESSION module.
+425	OPTMOD	The log comes from the module ETH.
+426	DLDP	This log comes from the LLDP module.
+427	USER	The log comes from module SECDIAG.
+428	ATK	The log comes from the ATK (Attack) module.
+429	ETHOAM	The log comes from the ETHOAM module.
+430	SECDIAG	This log likely comes from the QOS (Quality of Service) module.
+431	ETHOAM	The log comes from the ETHOAM module.
+432	AFT	This log comes from the NAT module.
+433	SECDIAG	The log comes from module LAGG (Link Aggregation).
+434	BGP	The log comes from the BGP module.
+435	ATK	The log comes from the IPS module.
+436	GRPC	The log comes from the SESSION module.
+437	SSLVPN	The log comes from the SSLVPN module.
+438	DHCPS	The log comes from the DHCPS module.
+439	PTS	Module: APMGR
+440	IPFW	The log comes from the FNOTIFY module.
+441	ATK	This log comes from the IPS module.
+442	BGP	The log comes from the BGP module.
+443	ATK	The log comes from the ATK (Attack) module.

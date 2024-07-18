@@ -1,0 +1,8 @@
+transformers
+numpy
+torch
+huggingface-hub
+vllm
+tokenizers
+scikit-learn
+tqdm

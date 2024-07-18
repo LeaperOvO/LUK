@@ -1,0 +1,241 @@
+0	IKE	IKE
+1	DHCPS	The log comes from the DHCP module.
+2	ATK	This log comes from the IPS module.
+3	ATK	The log comes from the ICMP module.
+4	OPTMOD	The log comes from the CFGMAN module.
+5	DPI	The log comes from the DPI (Deep Packet Inspection) module.
+6	PEX	The log comes from the PEX module.
+7	ATK	This log comes from the IPS module.
+8	ATK	The log comes from the ATK (Attack Defense) module.
+9	PFILTER	The log comes from the ACL module.
+10	SHELL	CFGMAN
+11	NQA	The log comes from the NQA module.
+12	PORTSEC	PORTSEC
+13	ATK	This log comes from the ATK (Attack Defense) module.
+14	SHELL	The log comes from the LOGIN module.
+15	ATK	This log comes from the FILTER module.
+16	DPI	The log comes from the DPI (Deep Packet Inspection) module.
+17	NTP	The log message "System stratum changed from [UINT32] to [UINT32] after clock update" likely comes from the NTP (Network Time Protocol) module.
+18	DIAG	The log comes from the SYSLOG module.
+19	APMGR	The log comes from the ACL module.
+20	ATK	The log comes from the FILTER module.
+21	VRRP	The log comes from the VRRP module.
+22	SHELL	CFGMAN
+23	EVB	The log comes from the EVB module.
+24	SHELL	This log comes from the ACL module.
+25	MACSEC	MACSEC
+26	BGP	The log comes from the BGP module.
+27	SECDIAG	This log likely comes from the SESSION module.
+28	ETHOAM	The log comes from the ETHOAM module.
+29	ATK	The log comes from the FILTER module.
+30	ATK	The log comes from the IPS module.
+31	IFNET	The log comes from the IFNET module.
+32	KHTTP	This log comes from the VPN module.
+33	ATK	This log comes from the ATK module.
+34	MDC	The log comes from the MDC module.
+35	UFLT	This log comes from the FILTER module.
+36	OPENSRC	The log comes from the FTP module.
+37	ARP	The log comes from the ARP module.
+38	NBAR	The log comes from the IPS module.
+39	ATK	The log comes from the ATK module.
+40	STAMGR	This log likely comes from the WLAN module.
+41	SECDIAG	This log comes from the QOS module.
+42	WFF	The log comes from the FIPS module.
+43	OBJP	The log comes from the ACL module.
+44	STM	The log comes from the DEV module.
+45	XMLSOAP	The log comes from the NETSHARE module.
+46	WIPS	This log comes from the WIPS (Wireless Intrusion Prevention System) module.
+47	PFILTER	This log comes from the ACL module.
+48	DEV	The log comes from the module named "PHYD" (Physical Device).
+49	QOS	The log comes from the QOS module.
+50	FILTER	This log comes from the FILTER module.
+51	IPSEC	The log comes from the IPSEC module.
+52	DEV	The log comes from the module named "PWRMON".
+53	SECDIAG	This log likely comes from the CONNLMT (Connection Limit) module.
+54	IFNET	The log comes from the IFNET module.
+55	CWS	The log comes from the module APMGR.
+56	PFILTER	This log comes from the MAC module.
+57	LLDP	The log comes from the LAGG module.
+58	ATK	This log comes from the IPSEC module.
+59	NAT	The log comes from the CFGMAN module.
+60	OPTMOD	The log comes from the PHYD module.
+61	ATK	This log comes from the ATK (Attack Defense) module.
+62	BGP	The log comes from the BGP module.
+63	SCM	The log comes from the module DEV (Device Management).
+64	NQA	The log comes from the ICMP module.
+65	ATK	This log comes from the VPN module.
+66	SHELL	The log comes from the SHELL module.
+67	OPTMOD	The log comes from the PHYD module.
+68	ARP	ARP
+69	LB	The log comes from the LAGG module.
+70	ATK	This log comes from the ATK (Attack Defense) module.
+71	OFP	Module: OFP (OpenFlow Protocol)
+72	BGP	The log comes from the BGP module.
+73	OFP	The log comes from the LSPV module.
+74	HA	This log comes from the HA (High Availability) module.
+75	WRDC	The log comes from the IDENTITY module.
+76	STP	The log comes from the STP (Spanning Tree Protocol) module.
+77	ATK	This log comes from the FILTER module.
+78	ATK	This log comes from the ATK (Attack Defense) module.
+79	ACL	The log comes from the CFGMAN module.
+80	AUDIT	The log comes from the FILTER module.
+81	CWC	Module: WIPS (Wireless Intrusion Prevention System)
+82	ATK	The log comes from the ACL (Access Control List) module.
+83	RPR	This log comes from the RPR module.
+84	ATK	This log comes from the FILTER module.
+85	ATK	This log comes from the FILTER module.
+86	PING	The log comes from the PING module.
+87	NAT	The log comes from the VLAN module.
+88	ATK	This log comes from the ATK (Attack Defense) module.
+89	ATK	This log comes from the VPN module.
+90	RPR	This log comes from the RPR module.
+91	APMGR	The log comes from the LS (Local Switch) module.
+92	ATK	This log comes from the FILTER module.
+93	ATK	This log comes from the ACL module.
+94	SSHC	The log comes from the SSHS module.
+95	ATK	This log comes from the ATK (Attack Defense) module.
+96	RTM	The log comes from the CFGMAN module.
+97	OPTMOD	The log comes from the PHYD module.
+98	ATK	The log comes from the IPS module.
+99	MACSEC	The log comes from the MACSEC module.
+100	ATK	This log comes from the FILTER module.
+101	LB	The log comes from the LB (Load Balancer) module.
+102	PFILTER	The log comes from the ACL module.
+103	ND	The log comes from the ARP module.
+104	ATK	The log comes from the FILTER module.
+105	SHELL	The log comes from the SHELL module.
+106	STAMGR	The log comes from the AAA module.
+107	ATK	This log comes from the VPN module.
+108	FFILTER	This log comes from the ACL (Access Control List) module.
+109	OPTMOD	The log comes from the CFGMAN module.
+110	ATK	This log comes from the ATK (Attack Defense) module.
+111	SECP	The log comes from the ACL module.
+112	PHYD	The log comes from the module "PHYD" (Physical Device).
+113	ATK	This log comes from the IPSEC module.
+114	DEV	The log comes from the RPS module.
+115	IRF	The log comes from the IRF module.
+116	ATK	The log comes from the IPS module.
+117	LLDP	The log comes from the LSPV module.
+118	STAMGR	The log comes from the WLAN module.
+119	OBJP	The log comes from the OBJP module (Object Policy).
+120	ATK	This log comes from the ACL module.
+121	ATK	The log comes from the ACL module.
+122	WEB	The log comes from the LOGIN module.
+123	ETHOAM	The log comes from the module named PHYD (Physical Layer Device).
+124	ATK	This log comes from the ACL module.
+125	CFD	The log comes from the ETHOAM module.
+126	ATK	This log comes from the ACL module.
+127	IPSEC	The log comes from the IPSEC module.
+128	RPR	This log comes from the RPR module.
+129	OPTMOD	The log comes from the IDS module.
+130	LAGG	Module: LAGG (Link Aggregation)
+131	IRF	The log comes from the IRF (Intelligent Resilient Framework) module.
+132	ATK	The log comes from the ACL module.
+133	EIGRP	The log comes from the EIGRP module.
+134	PFILTER	This log comes from the IPv6 module.
+135	OFP	The log "Failed to activate instance [UINT16]" likely comes from the module DEV (Device Management).
+136	CWC	The log comes from the CAPWAP module.
+137	LS	PWDCTL
+138	DEV	The log comes from the DIAG module.
+139	ATK	This log comes from the FILTER module.
+140	ATK	This log comes from the ATK (Attack Defense) module.
+141	SECDIAG	This log likely comes from the IPSEC module.
+142	LAGG	Module: LAGG (Link Aggregation)
+143	ATK	This log comes from the ACL module.
+144	IPSEC	The log comes from the IPSEC module.
+145	ACL	The log comes from the ACL module.
+146	CWC	The log comes from the FTP module.
+147	KDNS	This log comes from the VPN module.
+148	ATK	The log comes from the IPS module.
+149	ATK	This log comes from the ACL module.
+150	OSPF	The log comes from the OSPF module.
+151	ATK	The log comes from the IPS module.
+152	STAMGR	The log comes from the AAA module.
+153	IPSEC	The log comes from the IPSEC module.
+154	ATK	This log comes from the ACL (Access Control List) module.
+155	STAMGR	The log comes from the WLAN Mesh (WMESH) module.
+156	SECDIAG	LAGG (Link Aggregation)
+157	ATK	This log comes from the ACL module.
+158	ATK	This log comes from the ATK (Attack Defense) module.
+159	DEV	This log comes from the DIAG module.
+160	FFILTER	This log comes from the FILTER module.
+161	FCLINK	The log comes from the FCZONE module.
+162	IRF	The log comes from the IRF module.
+163	ETHOAM	The log comes from the ETHOAM module.
+164	RADIUS	The log comes from the AAA module.
+165	STP	The log comes from the VLAN module.
+166	AUDIT	The log comes from the FILTER module.
+167	CWC	The log comes from the module "WIPS" (Wireless Intrusion Prevention System).
+168	WMESH	The log comes from the MAC module.
+169	MBFD	The log comes from the SYSLOG module.
+170	ATK	This log comes from the ACL module.
+171	ANCP	The log comes from the ND (Neighbor Discovery) module.
+172	ATK	This log comes from the IPS module.
+173	DLDP	The log comes from the DLDP module.
+174	LDP	The log comes from the SESSION module.
+175	PPPOES	The log comes from the MAC module.
+176	CWS	The log comes from the WLAN module.
+177	SHELL	The log comes from the CFGMAN module.
+178	RPR	The log comes from the RPR module.
+179	LPDT	The log comes from the IFNET module.
+180	LAGG	The log comes from the LAGG (Link Aggregation) module.
+181	ATK	The log comes from the ICMP module.
+182	LS	The log comes from the module PWDCTL (Password Control).
+183	PIM	The log comes from the PIM module.
+184	ATK	This log comes from the ICMP module.
+185	NTP	The log comes from the NTP module.
+186	BGP	The log comes from the BGP module.
+187	OPTMOD	PHYD
+188	BGP	This log comes from the ROUTE module.
+189	VRRP	The log comes from the VRRP module.
+190	EVB	The log comes from the VRRP module.
+191	LB	The log comes from the LB (Load Balancer) module.
+192	AAA	Module: AAA
+193	ATK	This log comes from the ACL module.
+194	PFILTER	Module: ACL
+195	ATK	This log comes from the ACL (Access Control List) module.
+196	RM	The log comes from the BGP module.
+197	SSHS	The log comes from the AAA module.
+198	OFP	Module: OFP (OpenFlow Protocol)
+199	RPR	This log comes from the RPR module.
+200	ATK	This log comes from the ACL module.
+201	CWS	The log comes from the APMGR module.
+202	HTTPD	The log comes from the SSHS module.
+203	HA	The log comes from the module RM (Resource Management).
+204	DIAG	The log comes from the module QOS (Quality of Service).
+205	LAGG	Module: LAGG (Link Aggregation)
+206	ATK	This log comes from the ACL module.
+207	OSPF	The log comes from the OSPF module.
+208	LLDP	The log comes from the LLDP module.
+209	ATK	This log comes from the ATK (Attack Defense) module.
+210	ATK	The log comes from the ICMP module.
+211	OFP	Module: OFP (OpenFlow Protocol)
+212	OSPF	The log comes from the OSPF module.
+213	SCM	The log comes from the DIAG module.
+214	LS	The log comes from the AAA module.
+215	TACACS	The log comes from the AAA module.
+216	STAMGR	The log comes from the AAA module.
+217	ATK	This log comes from the ATK (Attack Defense) module.
+218	LB	The log comes from the LB (Load Balancer) module.
+219	OBJP	The log comes from the OBJP module (Object Policy).
+220	NAT	The log comes from the DHCP module.
+221	ATK	The log comes from the ATK module.
+222	ATK	This log comes from the ACL module.
+223	LB	The log comes from the LAGG module.
+224	OFP	The log comes from the OFP (OpenFlow) module.
+225	SESSION	This log comes from the IPS module (Intrusion Prevention System).
+226	ATK	This log comes from the ATK (Attack Defense) module.
+227	STAMGR	The log comes from the WLAN module.
+228	DEV	The log message "Temperature changed to normal on chassis [INT32] slot [INT32] sensor [STRING] [INT32]" likely comes from the DIAG module.
+229	DEV	The log comes from the module PHYD (Physical Device).
+230	OPTMOD	The log comes from the PHYD module.
+231	ETHOAM	Module: ETHOAM
+232	PEX	The log message "Status of [STRING] changed from [STRING] to down" most likely comes from the IFNET module.
+233	ISIS	The log comes from the ISIS module.
+234	PEX	The log comes from the PEX module.
+235	LS	The log comes from the PWDCTL module.
+236	PORTAL	The log comes from the AAA module.
+237	ATK	The log comes from the ATK (Attack Defense) module.
+238	ATK	This log comes from the ACL module.
+239	LB	LAGG (Link Aggregation)
+240	ATK	This log comes from the ATK (Attack Defense) module.

@@ -1,0 +1,181 @@
+0	ENTITYTRAP	The log comes from the ENTITYTRAP module.
+1	ISIS	This log comes from the IFNET module.
+2	LLDP	The log comes from the LLDP module.
+3	PKI	PKI
+4	IKE	IPSEC
+5	ISIS	This log comes from the OSPF module.
+6	CM	The log comes from the ACL module.
+7	DHCP	The log comes from the DHCP module.
+8	WSRV	The log comes from the AAA module.
+9	AM	The log comes from the DHCP module.
+10	WLAN	The log comes from the ENTITYTRAP module.
+11	WLAN	The log comes from the WLAN module.
+12	PIM	The log comes from the PIM (Protocol Independent Multicast) module.
+13	PKI	PKI
+14	ISIS	The log comes from the ISIS module.
+15	SECE	The log comes from the ACL module.
+16	WLAN	The log comes from the ACLE module.
+17	WLAN	The log comes from the WLAN module.
+18	WLAN	Module: POE (Power over Ethernet)
+19	WLAN	The log comes from the WLAN module.
+20	POE	The log comes from the POE (Power over Ethernet) module.
+21	CM	The log comes from the ACL module.
+22	DEV	The log likely comes from the ENVMON module, which is responsible for monitoring environmental conditions such as power status.
+23	WLAN	The log comes from the ACLE module.
+24	WLAN	The log comes from the ACLE (Access Control List Enforcement) module.
+25	PKI	PKI
+26	WLAN	The log comes from the WLAN module.
+27	WLAN	Without the specific log content provided, it is not possible to determine which module the log comes from.
+28	FTPS	The log comes from the AAA module.
+29	PKI	PKI
+30	DEV	The log likely comes from the ENTITYTRAP module.
+31	OSPF	This log comes from the OSPF module.
+32	DHCP	Module: DHCP
+33	DHCP	Module: DHCP
+34	IKE	The log comes from the IKE module.
+35	SYSMIB	The log comes from the UPGRADE module.
+36	WLAN	The log comes from the WLAN module.
+37	WLAN	The log comes from the WLAN module.
+38	OSPF	This log comes from the OSPF module.
+39	WLAN	The log comes from the WLAN module.
+40	DHCP	The log comes from the DHCP module.
+41	IFNET	The log comes from the IFNET module.
+42	RMON	The log comes from the FMAR module.
+43	IPSEC	IPSEC
+44	WLAN	The log comes from the WLAN module.
+45	WLAN	The log comes from the WLAN module.
+46	AM	DHCP
+47	ISIS	The log comes from the ISIS module.
+48	WLAN	WLAN
+49	PATCH	The log comes from the PATCH module.
+50	SECE	The log comes from the ACL module.
+51	AM	DHCP
+52	WLAN	The log comes from the WLAN module.
+53	VFS	The log comes from the HWCM module.
+54	MSTP	This log comes from the DEFD module.
+55	WLAN	The log comes from the WLAN module.
+56	WLAN	The log comes from the ACL module.
+57	MCAST	The log likely comes from the HWCM (Hardware Communication) module.
+58	DEV	The log comes from the BACKUP module.
+59	MSTP	The log comes from the MSTP module.
+60	WLAN	The log comes from the WLAN module.
+61	RMON	The log comes from the HSB (High Speed Bridge) module.
+62	SNPG	The log comes from the IFNET module.
+63	WLAN	The log comes from the ENVMON module.
+64	BGP	The log comes from the BGP module.
+65	DHCP	The log comes from the DHCP module.
+66	RDS	The log comes from the TACACS module.
+67	PKI	PKI
+68	GTL	The log comes from the ENTMIB module.
+69	OSPF	This log comes from the OSPF module.
+70	WLAN	The log comes from the WLAN module.
+71	WLAN	The log comes from the ENVMON module.
+72	RM	This log comes from the BGP module.
+73	WLAN	The log comes from the FMAR module.
+74	IPSEC	The log comes from the IPSEC module.
+75	ISIS	This log comes from the OSPF module.
+76	DEV	ENVMON
+77	PKI	This log likely comes from the PKI (Public Key Infrastructure) module.
+78	BFD	The log comes from the LACP module.
+79	POE	The log comes from the IFPDT module.
+80	WLAN	ENVMON
+81	RMON	The log comes from the ALARM module.
+82	WLAN	This log comes from the ERRDOWN module.
+83	AAA	The log comes from the AAA module.
+84	AAA	The log comes from the HSB module.
+85	IPSEC	The log comes from the IPSEC module.
+86	BFD	This log comes from the BFD module.
+87	ENTITYTRAP	The log comes from the SNMP module.
+88	AAA	The log comes from the WLAN module.
+89	AAA	The log comes from the AAA module.
+90	WLAN	The log comes from the ENTITYTRAP module.
+91	ISIS	This log comes from the SNMP module.
+92	SECE	The log comes from the IFNET module.
+93	WLAN	The log comes from the WLAN module.
+94	WLAN	This log likely comes from the UPGRADE module.
+95	WLAN	The log comes from the WLAN module.
+96	ENVMON	The log likely comes from the ENTITYTRAP module.
+97	AAA	The log comes from the AAA module.
+98	MSTP	This log comes from the MSTP (Multiple Spanning Tree Protocol) module.
+99	WLAN	The log comes from the FMAR module.
+100	RDS	The log comes from the AAA module.
+101	PKI	The log comes from the SSLA module.
+102	PKI	PKI
+103	UPGRADE	The log likely comes from the UPGRADE module.
+104	WLAN	The log comes from the ENTITYTRAP module.
+105	WLAN	The log comes from the WLAN module.
+106	CM	Without the specific log content provided, it is not possible to determine which module the log comes from.
+107	ISIS	This log comes from the OSPF module.
+108	IPSEC	The log comes from the IPSEC module.
+109	WLAN	The log comes from the HSB module.
+110	WLAN	The log comes from the HSB (High Speed Bridge) module.
+111	WLAN	MCAST
+112	IPSEC	The log comes from the IPSEC module.
+113	WLAN	The log comes from the WLAN module.
+114	WLAN	The log comes from the ENTITYTRAP module.
+115	AAA	The log comes from the AAA module.
+116	PIM	The log comes from the PIM (Protocol Independent Multicast) module.
+117	WLAN	The log comes from the ENVMON module (Environmental Monitoring).
+118	LACP	The log comes from the LACP module.
+119	WLAN	The log comes from the ENVMON module.
+120	WLAN	The log comes from the WLAN module.
+121	VRRP	The log comes from the VRRP module.
+122	WLAN	The log comes from the ENVMON module.
+123	WLAN	The log comes from the POE (Power over Ethernet) module.
+124	DHCP	DHCP
+125	PKI	PKI
+126	AM	The log comes from the DHCP module.
+127	ENTITYTRAP	ENTITYTRAP
+128	WLAN	The log comes from the SSLA module.
+129	CM	The log comes from the ACL module.
+130	ENTITYTRAP	ENTITYTRAP
+131	WEB	The log comes from the WEB module.
+132	WLAN	The log comes from the WLAN module.
+133	WEB	WEB
+134	WLAN	The log comes from the ACL module.
+135	LLDP	The log comes from the LLDP module.
+136	LLDP	The log comes from the IFNET module.
+137	VRRP	The log comes from the VRRP module.
+138	IFPDT	The log comes from the IFNET module.
+139	AAA	The log comes from the ENVMON module.
+140	WLAN	The log comes from the ENTITYTRAP module.
+141	ISIS	This log comes from the ISIS module.
+142	VFSTRAP	The log comes from the HWCM module.
+143	RM	This log comes from the BGP module.
+144	WLAN	The log comes from the WLAN module.
+145	SECE	The log comes from the ARP module.
+146	MSTP	The log comes from the HSB (High Speed Bridge) module.
+147	LACP	The log comes from the TRUNK module.
+148	DHCP	The log comes from the DHCP module.
+149	WLAN	The log comes from the ENTITYTRAP module.
+150	IKE	The log comes from the IPSEC module.
+151	AM	DHCP
+152	IFNET	The log comes from the HWCM (Hardware Component Monitoring) module.
+153	SECE	The log comes from the ARP module.
+154	IKE	The log comes from the SSLA (SSL Acceleration) module.
+155	MCAST	The log comes from the ACL module.
+156	OSPF	The log comes from the OSPF module.
+157	WLAN	The log comes from the ENTITYTRAP module.
+158	DHCP	Module: DHCP
+159	VRRP	The log comes from the VRRP module.
+160	ISIS	The log comes from the ISIS module.
+161	DHCP	Module: DHCP
+162	AM	This log comes from the DHCP module.
+163	ENVMON	The log likely comes from the ERROR module.
+164	PKI	PKI
+165	WLAN	The log comes from the WLAN module.
+166	PKI	PKI
+167	CM	The log comes from the RDS module.
+168	AM	DHCP
+169	SECE	This log comes from the IFNET module.
+170	PKI	PKI
+171	WEB	The log comes from the WEB module.
+172	UPGRADE	UPGRADE
+173	WLAN	The log comes from the WLAN module.
+174	TRUNK	The log comes from the TRUNK module.
+175	WLAN	MCAST (Multicast)
+176	WLAN	The log comes from the ENTITYTRAP module.
+177	OSPF	The log comes from the OSPF module.
+178	WLAN	The log comes from the WLAN module.
+179	MSTP	The log comes from the MSTP module.
+180	ENTITYTRAP	ENTITYTRAP

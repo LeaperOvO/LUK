@@ -1,0 +1,413 @@
+0	DHCP	Module: PFILTER
+1	RDDC	Module: HA
+2	ATK	This log comes from the VPN module.
+3	SSHS	The log comes from the SSHC module.
+4	DEV	The log comes from the module named "HA" (High Availability).
+5	ATK	This log comes from the FIREWALL module.
+6	LPDT	STP (Spanning Tree Protocol)
+7	ATK	This log comes from the ATTACK module.
+8	PKTCPT	The log comes from the PKTCPT module.
+9	PIM	This log likely comes from the ISIS module.
+10	QOS	This log likely comes from the AAA module.
+11	SHELL	CFGMAN
+12	ETHOAM	ETHOAM
+13	DEV	This log comes from the FIB (Forwarding Information Base) module.
+14	STAMGR	The log comes from the CFGMAN module.
+15	ATK	This log comes from the IPSG (IP Source Guard) module.
+16	OFP	The log comes from the OFP (OpenFlow) module.
+17	SSHC	This log comes from the SSHC module.
+18	OPTMOD	The log comes from the IDS module.
+19	MACSEC	MACSEC
+20	IPSG	This log likely comes from the QOS (Quality of Service) module.
+21	ND	The log comes from the ND module.
+22	DLDP	Module: DLDP
+23	ATTACK	This log comes from the IPSG (IP Source Guard) module.
+24	PFILTER	The log comes from the ACL module.
+25	IFNET	The log comes from the module FCS.
+26	DRVPLAT	VXLAN
+27	RESMON	The log comes from the RESMON module.
+28	IPFW	This log comes from the module named "RIP".
+29	BGP	This log comes from the CONNLMT module.
+30	DRNI	This log comes from the CFGMAN module.
+31	EVB	The log comes from the VCF (Virtual Chassis Fabric) module.
+32	FGROUP	This log comes from the FGROUP module.
+33	APMGR	The log comes from the WLAN module.
+34	QOS	This log likely comes from the PBR (Policy Based Routing) module.
+35	MSTP	STP
+36	ATK	The log comes from the ATK module.
+37	SYSLOG	Module: SYSLOG
+38	DIAG	The log comes from the module "SYSM" (System Management).
+39	ETHDRNI	The log comes from the ETHDRNI module.
+40	ATTACK	This log comes from the ATTACK module.
+41	DRNI	The log comes from the module DRVMNT (Driver Management).
+42	DEV	The log comes from the module DRVPLAT.
+43	IPFW	The log comes from the IFNET module.
+44	FCOE	This log comes from the module VFC (Virtual Fabric Channel).
+45	OPTMOD	The log likely comes from the ETH module.
+46	ATK	This log comes from the module IPFW (Internet Protocol Firewall).
+47	ATTACK	The log comes from the module PBR (Policy-Based Routing).
+48	WIPS	This log likely comes from the MAC module.
+49	RESMON	This log comes from the RESMON module.
+50	SRP	The log comes from the TE module.
+51	PEX	The log comes from module PBR (Policy-Based Routing).
+52	INQA	This log comes from the PBR (Policy Based Routing) module.
+53	ETHOAM	The log comes from the ETH module.
+54	POE	POE
+55	ATK	This log comes from the IPSG (IP Source Guard) module.
+56	ATTACK	This log comes from the IPSG (IP Source Guard) module.
+57	LDP	The log comes from the SESSION module.
+58	PORTSEC	The log comes from the ACL module.
+59	NTP	The log comes from the NTP (Network Time Protocol) module.
+60	ISIS	The log comes from the ISIS module.
+61	DEV	The log comes from the module named "RPS".
+62	PORTSEC	This log comes from the VLAN module.
+63	MSDP	The log comes from the IPSEC module.
+64	ATK	This log comes from the FIREWALL module.
+65	LAGG	LAGG
+66	IPSG	VLAN
+67	OPTMOD	The log comes from the SMARTMC module.
+68	ATK	The log comes from the module IPFW (Internet Protocol Firewall).
+69	IFNET	This log comes from the module DRVPLAT.
+70	STRUNK	The log comes from the SMARTMC module.
+71	PORTAL	The log comes from the module "AAA" (Authentication, Authorization, and Accounting).
+72	QOS	The log comes from the PBR (Policy Based Routing) module.
+73	PFILTER	This log comes from the IPFW module.
+74	ATTACK	The log comes from the module named "IPFW" (Internet Protocol Firewall).
+75	ETHOAM	ETHOAM
+76	SYSLOG	The log "Log file space is full" likely comes from the SYSLOG module.
+77	VXLAN	The log comes from the VXLAN module.
+78	MACSEC	The log comes from the MACSEC (MAC Security) module.
+79	OPTMOD	The log comes from the module "MOD".
+80	OFP	Module: OFP (OpenFlow Protocol)
+81	ATTACK	The log comes from the ICMP module.
+82	ATTACK	The log comes from the ATTACK module.
+83	LPDT	The log comes from the STP (Spanning Tree Protocol) module.
+84	TRILL	The log comes from the LIC (License) module.
+85	STM	The log comes from the module DRVMNT (Driver Management).
+86	OSPF	The log comes from the OSPF module.
+87	PKTCPT	The log comes from the module FTPD (FTP Daemon).
+88	OPTMOD	The log comes from the module named "SMARTMC".
+89	APMGR	This log comes from the module named "SYSM" (System Management).
+90	ATTACK	The log comes from the module PBR (Policy-Based Routing).
+91	ATK	This log comes from the FILTER module.
+92	STRUNK	The log comes from the module "SMARTMC" (Smart).
+93	MCS	The log comes from the module named "PIM" (Protocol Independent Multicast).
+94	OFP	This log comes from the PORTSEC module.
+95	STM	The log comes from the IRF (Intelligent Resilient Framework) module.
+96	CFGMAN	CFGMAN
+97	OPTMOD	The log comes from the IDS module.
+98	POE	POE
+99	AAA	The log comes from the AAA module.
+100	LDP	The log comes from the LDP module.
+101	ATTACK	This log comes from the IPSG (IP Source Guard) module.
+102	OFP	The log comes from the OFP (OpenFlow) module.
+103	POE	POE
+104	ATK	The log comes from the ATTACK module.
+105	DRV	The log comes from the module PHY.
+106	IPFW	The log comes from the FNOTIFY module.
+107	ATTACK	This log comes from the module IPOE (IP over Ethernet).
+108	PFILTER	This log comes from the ACL module.
+109	ATTACK	This log comes from the ATTACK module.
+110	ATTACK	This log comes from the IPSG (IP Source Guard) module.
+111	ATK	This log comes from the FIREWALL module.
+112	ATTACK	The log comes from the ATTACK module.
+113	ETHOAM	The log comes from the ETHOAM module.
+114	DRNI	The log comes from the module IFNET.
+115	PTS	This log comes from the FIPS module.
+116	ATK	This log comes from the ATTACK module.
+117	VCF	The log comes from the IPADDR module.
+118	ATK	This log comes from the IPSG (IP Source Guard) module.
+119	SHELL	The log comes from the CFGMAN module.
+120	GRPC	The log comes from the module SSHC.
+121	PFILTER	The log comes from the ACL module.
+122	SCM	The log comes from the SYSLOG module.
+123	PKTCPT	The log comes from the PKTCPT module.
+124	ATK	This log comes from the IPSG (IP Source Guard) module.
+125	ATTACK	This log comes from the ATTACK module.
+126	PTP	The log "Time not in locked state" likely comes from the module "HA" (High Availability).
+127	ARP	ARP
+128	DRNI	Module: SYSM
+129	FCZONE	The log comes from the FCZONE module.
+130	ATTACK	The log comes from the module PBR (Policy-Based Routing).
+131	NAT	The log comes from the NAT module.
+132	APMGR	The log comes from the CAPWAP module.
+133	LS	The log comes from the module: AAA
+134	ATTACK	The log comes from the ATTACK module.
+135	ATK	The log comes from the ATTACK module.
+136	LAGG	LAGG
+137	ETHOAM	The log "Peer interface [string] recovered" likely comes from the BFD (Bidirectional Forwarding Detection) module.
+138	SYSEVENT	The log comes from module [RPR].
+139	ATK	This log comes from the ATTACK module.
+140	POE	Module: POE
+141	OPTMOD	This log likely comes from the SMARTMC module.
+142	PKTCPT	The log comes from the PKTCPT module.
+143	ATTACK	This log comes from the ATTACK module.
+144	ATK	This log comes from the ATTACK module.
+145	ATK	The log comes from the module IPOE (IP over Ethernet).
+146	STM	The log comes from module "DRVMNT" (Driver Management).
+147	ARP	The log comes from the module CFGMAN (Configuration Management).
+148	IFNET	The log comes from module ETH.
+149	FIPSNG	This log comes from the FIPS module.
+150	ATK	The log comes from the module IPFW (Internet Protocol Firewall).
+151	OPTMOD	The log likely comes from the module "DRVPLAT" (Driver Platform).
+152	ETHOAM	The log comes from the ETH module.
+153	DRVPLAT	The log comes from the POE module.
+154	DEV	The log comes from module FNOTIFY.
+155	OPTMOD	This log likely comes from the module named ETH.
+156	VCF	SCMD
+157	NQA	NQA
+158	ATK	This log comes from the ATTACK module.
+159	MACSEC	The log comes from the module "CGROUP" (Control Group).
+160	MSTP	STP (Spanning Tree Protocol)
+161	SMARTMC	The log comes from the module PWDCTL (Password Control).
+162	DRV	This log likely comes from the SMARTMC module.
+163	LAGG	LAGG (Link Aggregation)
+164	NTP	The log comes from the NTP module.
+165	IPFW	This log comes from the FNOTIFY module.
+166	AFT	The log comes from the AFT module.
+167	OPTMOD	This log likely comes from the SMARTMC module.
+168	ATK	This log comes from the FIREWALL module.
+169	ATK	This log comes from the FIREWALL module.
+170	WIPS	The log comes from the MAC module.
+171	MTP	The log comes from the module PING.
+172	POE	POE
+173	ATTACK	This log comes from the ATTACK module.
+174	ATK	This log comes from the PBR (Policy-Based Routing) module.
+175	SSHS	The log comes from the SSHS module.
+176	APMGR	The log comes from the WLAN module.
+177	PTP	The log comes from the PTP module.
+178	QOS	QOS
+179	ETHOAM	ETHOAM
+180	ATK	This log comes from the PBR (Policy-Based Routing) module.
+181	PKTCPT	The log comes from the module PKTCPT (Packet Capture).
+182	RM	This log comes from the OSPF module.
+183	ATK	The log comes from the module named IPSG (IP Source Guard).
+184	ATK	This log comes from the ATTACK module.
+185	PWDCTL	The log comes from the module PWDCTL (Password Control).
+186	OFP	The log comes from the module "FILTER".
+187	OFP	The log comes from the OFP (OpenFlow) module.
+188	PKTCPT	The log comes from the PKTCPT module.
+189	STAMGR	This log comes from the IPADDR module.
+190	ATK	This log comes from the ATTACK module.
+191	IFNET	The log comes from the IFNET module.
+192	LAGG	LAGG
+193	IFNET	The log comes from the module DRVPLAT.
+194	ATK	This log comes from the IPSG (IP Source Guard) module.
+195	LAGG	LAGG (Link Aggregation)
+196	RPR	This log comes from the RPR module.
+197	RM	This log comes from the OSPF module.
+198	MSTP	STP (Spanning Tree Protocol)
+199	DRNI	This log comes from the DRNI (Distributed Resilient Networking Interface) module.
+200	PFILTER	This log comes from the IPFW module.
+201	EVIISIS	The log comes from the EVIISIS module.
+202	CLKM	The log comes from the module named "ETHDRNI".
+203	IFNET	This log comes from the module VLAN.
+204	PORTAL	This log likely comes from the LOGIN module.
+205	SSHC	The log comes from the SSHC module.
+206	ATK	This log comes from the FIREWALL module.
+207	NAT	The log comes from the OFP (OpenFlow Protocol) module.
+208	TRILL	The log comes from the TRILL module.
+209	OFP	The log comes from the OFP (OpenFlow) module.
+210	ARP	The log comes from the ARP module.
+211	ETH	The log comes from the MAC module.
+212	PTS	The log "Failed to create server check timer" likely comes from the module "SFLOW" (Sampled Flow).
+213	HA	Module: HA (High Availability)
+214	SSHS	This log likely comes from the MACSEC module.
+215	PORTAL	Module: CONNLMT
+216	DEV	The log comes from module FNOTIFY.
+217	UCM	SESSION
+218	VRRP	This log comes from the VRRP module.
+219	ATK	This log comes from the ATTACK module.
+220	SCMD	Module: SYSLOG
+221	STP	The log comes from the STP (Spanning Tree Protocol) module.
+222	QOS	QOS
+223	ARP	This log comes from the IPADDR module.
+224	LS	The log comes from the module PWDCTL (Password Control).
+225	ATK	This log comes from the ATTACK module.
+226	OSPF	The log comes from the OSPF module.
+227	ETHOAM	The log comes from the ETH module.
+228	FCZONE	This log comes from the FCZONE module.
+229	DHCPS	IPOE
+230	DEV	The log comes from the module "PWR".
+231	SSHS	The log comes from the SSHC module.
+232	ETHOAM	The log comes from the ETHOAM module.
+233	IFNET	This log comes from the IFNET module.
+234	OSPF	The log comes from the OSPF module.
+235	MAC	This log comes from the VLAN module.
+236	RPR	The log comes from the LAGG module.
+237	DEV	The log comes from the module DRVPDT.
+238	QOS	This log comes from the CFGMAN module.
+239	SSHS	This log likely comes from the MACSEC module.
+240	PBR	The log comes from the PFILTER module.
+241	OSPF	The log comes from the OSPF module.
+242	BFD	The log comes from the SESSION module.
+243	LLDP	The log comes from the PORTSEC module.
+244	PEX	The log comes from the PORTSEC module.
+245	VCF	The log comes from the module ETHDRNI (Ethernet Distributed Resilient Networking Interface).
+246	PFILTER	This log comes from the VLAN module.
+247	SHELL	This log comes from the module SSHC.
+248	IFNET	This log comes from the module QOS (Quality of Service).
+249	SHELL	CFGMAN
+250	IPOE	IPOE
+251	ATK	The log comes from the ICMP module.
+252	DRVPLAT	Module: POE (Power over Ethernet)
+253	ATTACK	This log comes from the IPSG (IP Source Guard) module.
+254	MBFD	The log comes from the module named "DRVPDT".
+255	PORTAL	Module: UCM (User Configuration Manager)
+256	ATK	This log comes from the ATTACK module.
+257	ETHOAM	ETHOAM
+258	RPR	The log comes from the RPR module.
+259	FGROUP	This log comes from the FGROUP module.
+260	PWDCTL	The log comes from the module PWDCTL (Password Control).
+261	XMLSOAP	The log comes from the NETCONF module.
+262	CFGMAN	The log comes from the USER module.
+263	SNMP	This log comes from the SNMP module.
+264	ATK	This log comes from the ICMP module.
+265	IPSG	QOS
+266	DRVPLAT	Module: ATTACK
+267	SHELL	CFGMAN
+268	ETHOAM	The log comes from the ETHOAM module.
+269	PIM	This log likely comes from the ISIS module.
+270	LLDP	The log comes from the LLDP module.
+271	MDC	The log comes from the module SYSLOG.
+272	ATTACK	This log comes from the ATTACK module.
+273	ATK	This log comes from the ATTACK module.
+274	ATK	This log comes from the FIREWALL module.
+275	MSTP	The log comes from the STP (Spanning Tree Protocol) module.
+276	DEV	The log likely comes from the SENSOR module.
+277	ATK	This log comes from the ATTACK module.
+278	OPTMOD	This log likely comes from the HLTH (Health) module.
+279	OFP	The log comes from the OFP (OpenFlow) module.
+280	VCF	The log comes from the CFGMAN module.
+281	MAC	This log likely comes from the PBR (Policy-Based Routing) module.
+282	SCRLSP	The log comes from the SCRLSP module.
+283	ATTACK	This log comes from the IPSG (IP Source Guard) module.
+284	ATTACK	The log comes from the ATTACK module.
+285	IPSG	The log comes from the ARP module.
+286	ATK	This log comes from the ATTACK module.
+287	LS	PWDCTL
+288	ND	This log likely comes from the module named "RESMON" (Resource Monitoring).
+289	STP	The log comes from the STP (Spanning Tree Protocol) module.
+290	ATK	This log comes from the PBR (Policy-Based Routing) module.
+291	PKG	The log comes from the CFGMAN module.
+292	IPOE	This log likely comes from the LOGIN module.
+293	ATTACK	This log comes from the ATTACK module.
+294	ND	The log comes from the NDP module.
+295	CFD	The log comes from the CFM module.
+296	ND	This log likely comes from the MAC module.
+297	RPR	Module: RPR
+298	FILTER	This log comes from the ACL module.
+299	DIAG	This log likely comes from the RESMON module.
+300	ATK	This log comes from the FIREWALL module.
+301	ATK	This log comes from the module IPOE (IP over Ethernet).
+302	IPFW	The log comes from the ATTACK module.
+303	RIPNG	The log comes from the module RIPNG.
+304	ATK	This log comes from the PBR (Policy-Based Routing) module.
+305	PFILTER	The log comes from the ACL module.
+306	IFNET	This log likely comes from the PORTSEC module.
+307	SSHS	The log comes from the TELNETD module.
+308	DEV	Module: SYSM
+309	IMA	The log comes from module CFGMAN (Configuration Management).
+310	VCF	The log comes from the DHCP module.
+311	LIC	The log comes from the SYSLOG module.
+312	OFP	The log comes from the OFP (OpenFlow) module.
+313	NAT	The log message "port block resources ran out in address group [UINT 16]" likely comes from the PORTSEC module.
+314	MAC	This log likely comes from the VLAN module.
+315	EVIISIS	The log comes from the EVIISIS module.
+316	ARP	This log likely comes from the ARP module.
+317	PING	This log comes from the PING module.
+318	DEV	The log comes from the module SYSM (System Management).
+319	APMGR	Module: LOCALSVR
+320	ATTACK	This log comes from the IPSG (IP Source Guard) module.
+321	FTPD	The log comes from the FTP module.
+322	HTTPD	This log comes from the PKI module.
+323	ATTACK	This log comes from the ATTACK module.
+324	DIAG	Module: SYSM
+325	ARP	Module: ATTACK
+326	UCM	This log likely comes from the LOGIN module.
+327	DRNI	This log comes from the CFGMAN module.
+328	SHELL	The log comes from the module: SHELL.
+329	STAMGR	This log likely comes from the PORTSEC module.
+330	PEX	The log comes from the PEX module.
+331	ETHOAM	The log comes from the ETHOAM module.
+332	OPTMOD	The log comes from the SMARTMC module.
+333	ATK	This log comes from the IPSG (IP Source Guard) module.
+334	NQA	NQA
+335	ATTACK	The log comes from the ATTACK module.
+336	STAMGR	This log likely comes from the WIPS (Wireless Intrusion Prevention System) module.
+337	ATTACK	The log comes from the module PBR (Policy-Based Routing).
+338	DEV	This log likely comes from the DRVMNT module.
+339	SSHS	The log comes from the USER module.
+340	EDEV	The log comes from the HA (High Availability) module.
+341	ETHOAM	ETHOAM
+342	LAGG	LAGG (Link Aggregation)
+343	OPTMOD	The log comes from the module: CFGMAN
+344	PFILTER	This log comes from the IPFW module.
+345	ATTACK	The log comes from the ICMP module.
+346	FCOE	FCOE
+347	PFILTER	Module: ACL
+348	OPTMOD	This log likely comes from the HLTH (Health) module.
+349	OFP	The log comes from the OFP (OpenFlow) module.
+350	ETHOAM	ETHOAM
+351	DIAG	The log comes from the module "SYSM" (System Management).
+352	DEV	The log comes from the module CLKM (Clock Management).
+353	RADIUS	The log comes from the module CFGMAN (Configuration Management).
+354	SSHC	The log comes from the SSHC module.
+355	ATK	This log comes from the IPSG (IP Source Guard) module.
+356	SFLOW	The log comes from the module IFNET.
+357	APMGR	The log comes from module: FTP
+358	ETHOAM	The log comes from the ETH module.
+359	FTP	The log comes from the ACL module.
+360	RTM	The log comes from the module: SHELL.
+361	EMDI	The log message "Maximum number of running instances on [STRING] already reached." likely comes from the module "CONNLMT" (Connection Limit).
+362	SCM	The log comes from the module DRVPLAT.
+363	LS	Module: AAA
+364	DEV	The log comes from the module named "HA" (High Availability).
+365	RSVP	The log comes from the SESSION module.
+366	DRVPLAT	The log comes from the PKT module.
+367	ATTACK	This log comes from the IPSG (IP Source Guard) module.
+368	ETHOAM	The log comes from the ETHOAM module.
+369	ATTACK	The log comes from the ATTACK module.
+370	PFILTER	The log comes from the ACL module.
+371	TACACS	The log comes from the TACACS module.
+372	STM	The log comes from the IRF module.
+373	ATK	This log comes from the module IPOE (IP over Ethernet).
+374	OPTMOD	The log comes from the module named "DRV".
+375	DIAG	The log comes from the SYSM module.
+376	ATTACK	The log comes from the ICMP module.
+377	TELNETD	TELNETD
+378	PEX	The log message "Status of [STRING] changed from [STRING] to down" most likely comes from the module named IFNET.
+379	ATK	This log comes from the FIREWALL module.
+380	ATK	This log comes from the ATTACK module.
+381	SRP	TE
+382	RPR	The log comes from the RPR module.
+383	QOS	This log likely comes from the QOS (Quality of Service) module.
+384	VCF	The log comes from the module DRVPDT.
+385	PCE	The log comes from the SESSION module.
+386	ATK	The log comes from the IPSG (IP Source Guard) module.
+387	SHELL	This log comes from the SHELL module.
+388	IPFW	This log comes from the DRV module.
+389	ATTACK	The log comes from the module IPFW (Internet Protocol Firewall).
+390	OFP	The log comes from the OFP (OpenFlow) module.
+391	PKI	This log comes from the PKI module.
+392	DRNI	The log comes from the DRVMNT module.
+393	OPTMOD	This log likely comes from the module ETH.
+394	ATK	This log comes from the IPSG (IP Source Guard) module.
+395	LPDT	This log comes from the STP (Spanning Tree Protocol) module.
+396	ND	The log comes from the IPFW module.
+397	SSHC	Module: SSHC
+398	TRILL	The log comes from the IFNET module.
+399	SWITCH	LAGG
+400	OPTMOD	HLTH
+401	OFP	The log comes from the OFP (OpenFlow) module.
+402	QOS	This log comes from the CFGMAN module.
+403	OPTMOD	The log comes from the module DRVPDT.
+404	WEB	The log comes from the LOGIN module.
+405	QOS	This log likely comes from the IPFW module.
+406	HTTPD	The log comes from the ACL module.
+407	CONNLMT	This log comes from the IPSG (IP Source Guard) module.
+408	SSHS	Module: AAA
+409	QOS	The log comes from the module CFGMAN (Configuration Management).
+410	ATK	This log comes from the FIREWALL module.
+411	PEX	The log comes from the STP (Spanning Tree Protocol) module.
+412	SYSLOG	This log comes from the SYSEVENT module.

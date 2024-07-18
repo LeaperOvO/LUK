@@ -1,0 +1,2003 @@
+[
+ [
+  "OPTMOD",
+  "SSLVPN",
+  "PWDCTL",
+  "CWC",
+  "CFD",
+  "SMLK",
+  "ND",
+  "IPOE",
+  "DEV",
+  "IRDP",
+  "ATK",
+  "APMGR",
+  "ETHOAM",
+  "FS",
+  "RPR",
+  "WIPS",
+  "AUTOCFG",
+  "SSLVPNK",
+  "MSDP",
+  "CWS",
+  "LLDP",
+  "LB",
+  "TACACS",
+  "VPLS",
+  "QOS",
+  "FCLINK",
+  "NAT",
+  "NETSHARE",
+  "RSVP",
+  "SESSION",
+  "OFP",
+  "QACL",
+  "SSHS",
+  "SHELL",
+  "PTP",
+  "POSA",
+  "DFILTER",
+  "IKE",
+  "DOMAIN",
+  "OBJP",
+  "PTS",
+  "ARP",
+  "IPSG",
+  "OSPF",
+  "AUDIT",
+  "FILTER",
+  "IRF",
+  "LPDT",
+  "NQAS",
+  "LAGG",
+  "HA",
+  "SECDIAG",
+  "PORTAL",
+  "SCMD",
+  "UDPI",
+  "DRVPLAT",
+  "FTP",
+  "PFILTER",
+  "LS",
+  "DIAG",
+  "NTP",
+  "PREPROVISION",
+  "SCM",
+  "MBFD",
+  "CFGLOG",
+  "OFC",
+  "RIPNG",
+  "DRNI",
+  "MACSEC",
+  "WMESH",
+  "MBUF",
+  "RIR",
+  "TRILL",
+  "IPREPUTATION",
+  "ISIS",
+  "IFNET",
+  "IDENTITY",
+  "VRRP",
+  "MGROUP",
+  "PKTCPT",
+  "STAMGR",
+  "PEX",
+  "WRDC",
+  "SECP",
+  "STP",
+  "RM",
+  "ACL",
+  "STM",
+  "PCE",
+  "CONNLMT",
+  "NQA",
+  "DRIVER",
+  "DIPOE",
+  "IPSEC",
+  "ATM",
+  "EVIISIS",
+  "DPORTAL",
+  "PKI",
+  "LIF",
+  "BGP",
+  "HTTPD",
+  "IPFW",
+  "LSM",
+  "TE",
+  "MAC",
+  "MFIB",
+  "WFF",
+  "WAF",
+  "VSRP",
+  "AAA",
+  "PS",
+  "BSP",
+  "PORTSEC",
+  "AFT",
+  "PPP",
+  "VLAN",
+  "BFD",
+  "SNMP",
+  "SIB",
+  "WEBCACHE",
+  "FCOE",
+  "FIPSNG",
+  "ASPF",
+  "LOCAL",
+  "DHCPS",
+  "MSC",
+  "IMA",
+  "DLDP",
+  "IPADDR",
+  "FCZONE",
+  "BLS",
+  "FDB",
+  "SYSLOG",
+  "DEVD",
+  "GRPC",
+  "BRIPRO",
+  "PBR",
+  "PPPOES",
+  "TBDL",
+  "DPPPOE",
+  "MDC",
+  "WEB",
+  "CLKM",
+  "ERPS",
+  "KDNS",
+  "LDP",
+  "RADIUS",
+  "UFLT",
+  "CGROUP",
+  "IPS",
+  "TELNETD",
+  "DBRAS",
+  "DHCP",
+  "CFGMAN",
+  "CC",
+  "PORT",
+  "FFILTER",
+  "SLBG",
+  "KHTTP",
+  "MPLS",
+  "MACA",
+  "LOAD",
+  "USER",
+  "SANDBOX",
+  "NETCONF",
+  "WAN",
+  "XMLCFG",
+  "FIB",
+  "LOGIN",
+  "XMLSOAP",
+  "EVB",
+  "INTRACE",
+  "PCAPWARE",
+  "TCSM",
+  "ETH",
+  "AVC",
+  "PBB",
+  "LOCALSVR",
+  "SFLOW",
+  "DYINGGASP",
+  "DHCPR",
+  "RRPP",
+  "SCRLSP",
+  "SCD",
+  "DPI",
+  "HQOS",
+  "STACK",
+  "LSPV",
+  "PIM",
+  "HOTPLUG",
+  "RDDC",
+  "ISSU",
+  "NPD",
+  "EIGRP",
+  "GLB",
+  "PING",
+  "FGROUP",
+  "DP",
+  "DSYSM",
+  "EM",
+  "RTM",
+  "OPENSRC",
+  "ADVPN",
+  "PHYD",
+  "RXTX",
+  "PKG",
+  "VLL",
+  "SSHC",
+  "MESH",
+  "RIP",
+  "NBAR",
+  "RBM",
+  "SLSP",
+  "FNOTIFY",
+  "ANCP",
+  "TERMINAL",
+  "FTPD",
+  "VXLAN",
+  "EDEV",
+  "MTLK",
+  "WSA",
+  "SYSEVENT",
+  "SWFA"
+ ],
+ [
+  "URL-based automatic\n  configuration started by [STRING] from [STRING].",
+  "AUTOCFG"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "PTP master clock property changed. (OldMasterClockId=[STRING], CurrentMasterClockId=[STRING], NewSourceIfIndex=[UINT16], OldSourcePortNum=[UINT16], CurrentSourcePortNum=[UINT16], OldSourcePortName=[STRING], CurrentSourcePortName=[STRING])",
+  "PTP"
+ ],
+ [
+  "Pattern 1 Fan [INT32] failed.Pattern 2 Chassis [STRING] fan [INT32] failed.",
+  "DEV"
+ ],
+ [
+  "The external time port became disconnect. (ExtTimePortType=[STRING])",
+  "PTP"
+ ],
+ [
+  "OSPF Process received system memory alert [STRING] event.",
+  "OSPF"
+ ],
+ [
+  "CPU usage was [STRING] in last minute.",
+  "DIAG"
+ ],
+ [
+  "Failed to start selfverify.",
+  "PTS"
+ ],
+ [
+  "Deleted access routes in policy-group [STRING] in context\n  [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "[STRING] client [STRING] disconnected from the server.",
+  "HTTPD"
+ ],
+ [
+  "The local OAM entity quit remote loopback as controlling DTE on OAM interface [string].",
+  "ETHOAM"
+ ],
+ [
+  "Failed to specify SSL client policy [STRING] for context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Form 1 The user number on slot [INT32] has recovered to normal state.Form 2 The user number on chassis [INT32] slot [INT32] has recovered to normal state.",
+  "USER"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; DstIPAddr(1007)=[IPADDR]; DstPort(1008)=[UINT16]; RcvVPNInstance(1041)=[STRING]; UpperLimit(1048)=[UINT32]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Protocol(1001)=[STRING];SrcIPAddr(1003)=[IPADDR];SrcPort(1004)=[UINT16];DstIPAddr(1007)=[IPADDR];DstPort(1008)=[UINT16];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];UserName(1113)=[STRING];PolicyName(1079)=[STRING];Application(1002)=[STRING];Behavior(1101)=[STRING];BehaviorContent(1102)={Account(1103)=[STRING],Password(1112)=[STRING],Content(1104)=[STRING]};Client(1110)=[STRING];SoftVersion(1111)=[STRING];Action(1053)=[STRING];",
+  "AUDIT"
+ ],
+ [
+  "The link is down on interface [string] because a remote failure occurred on peer interface.",
+  "ETHOAM"
+ ],
+ [
+  "MEP [UINT16] in SI [INT32] received an error CCM. It\u2019s SrcMAC is [MAC], SeqNum is [INT32], RMEP is [UINT16], MD ID is [STRING], MA ID is [STRING].",
+  "CFD"
+ ],
+ [
+  "Failed to create URL list [STRING] in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "CPU usage recovered to normal state.",
+  "DIAG"
+ ],
+ [
+  "DstIPAddr(1007)=[IPADDR];RcvVPNInstance(1042)=[STRING];SndDSLiteTunnelPeer(1041)=[STRING].",
+  "BLS"
+ ],
+ [
+  "Protocol(1001)=[STRING];SrcSrcIPv6Addr(1036)=[IPADDR];SrcPort(1004)=[UINT16];DstIPv6Addr(1037)=[IPADDR];DstPort(1008)=[UINT16];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];UserName(1113)=[STRING];PolicyName(1079)=[STRING];Application(1002)=[STRING];Behavior(1101)=[STRING];BehaviorContent(1102)={Account(1103)=[STRING],Content(1104)=[STRING]};Client(1110)=[STRING];SoftVersion(1111)=[STRING];Action(1053)=[STRING];",
+  "AUDIT"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "IRF port went blocked.",
+  "IRF"
+ ],
+ [
+  "[STRING] ([STRING])  Packet-filter IPv6 [UINT32] [STRING] [STRING] [UINT64] packet(s).",
+  "ACL"
+ ],
+ [
+  "Maximum number of PPPoE sessions for the interface already reached.",
+  "PPPOES"
+ ],
+ [
+  "A topology invalid defect is cleared on the ring corresponding to RPR logical interface [STRING].",
+  "RPR"
+ ],
+ [
+  "Failed to remove\n  servers in scheme [STRING].",
+  "TACACS"
+ ],
+ [
+  "Application(1002)=[STRING];UserName(1113)=[STRING];SrcIPv6Addr(1036)=[IPADDR];SrcPort(1004)=[USHORT];DstIPv6Addr(1037)=[IPADDR];DstPort(1008)=[USHORT];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];PolicyName(1079)=[STRING];VistTime(1114)=[STRING];Action(1053)=\n   [STRING];",
+  "AVC"
+ ],
+ [
+  "CAPWAP tunnel to Central AC [STRING] went down. Reason  [STRING].",
+  "CWC"
+ ],
+ [
+  "Openflow instance [UINT16] controller [CHAR]  add meter [STRING], xid 0x[HEX].",
+  "OFP"
+ ],
+ [
+  "Openflow instance [UINT16] controller [CHAR]  failed to add group [STRING].",
+  "OFP"
+ ],
+ [
+  "IP address [STRING] conflicted with global or imported IP address, sourced from [STRING].",
+  "ARP"
+ ],
+ [
+  "-SrcIPAddr=[IPADDR]-SrcPort=[UINT16]-DstIPAddr=[IPADDR]-DstPort=[UINT16]-Protocol=[STRING]-FlowID=[UINT32].\n  Selected a link (device [IPADDR], VPN instance [STRING], tunnel [UINT32]) for\n  the session.",
+  "RIR"
+ ],
+ [
+  "BGP [STRING].[STRING]  The ratio of the number of routes ([UINT32]) received from peer [STRING] ([STRING]) to the number of allowed routes ([UINT32]) has reached the threshold ([UINT32]%).",
+  "BGP"
+ ],
+ [
+  "The specified IP load sharing mode is not supported on this slot.",
+  "IPFW"
+ ],
+ [
+  "Protocol(1001)=[STRING];Application(1002)=[STRING];SrcIPAddr(1003)=[IPADDR];SrcPort(1004)=[UINT16];DstIPAddr(1007)=[IPADDR];DstPort(1008)=[UINT16];RcvVPNInstance(1042)=[STRING];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];UserName(1113)=[STRING];PolicyName(1079)=[STRING];AttackName(1088)=[STRING];AttackID(1089)=[UINT32];Category(1090)=[STRING];Protection(1091)=[STRING];SubProtection(1092)=[STRING];Severity(1087)=[STRING];Action(1053)=[STRING];CVE(1075)=[STRING];BID(1076)=[STRING];MSB(1077)=[STRING];HitDirection(1115)=[STRING];RealSrcIP(1100)=[STRING];SubCategory(1124)=[STRING];",
+  "WAF"
+ ],
+ [
+  "[STRING]  Temperature is normal.",
+  "OPTMOD"
+ ],
+ [
+  "Specified address-pool [STRING] mask [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "[STRING] is in controlled status, [STRING] flux falls below its\n  lower threshold [STRING].",
+  "IFNET"
+ ],
+ [
+  "Openflow instance [UINT16], controller [CHAR] is [STRING].",
+  "OFP"
+ ],
+ [
+  "Created port forwarding item [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "-IfName=[STRING]-MACAddr=[STRING]-VLANID=[STRING]-Username=[STRING]-UsernameFormat=[STRING]; MAC authentication user was logged off.",
+  "MACA"
+ ],
+ [
+  "Deleted the IPv4 address range of SNAT pool [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Icmpv6Type(1059)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Failed to delete the new content configuration for rewrite rule\n  [STRING] in file policy [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to disable automatic pushing of Web resources after IP\n   access client login in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Module [UINT32]'s processing for event [UINT32] timed out.Module [UINT32]'s processing for event [UINT32] on [STRING] timed\n  out.",
+  "SYSEVENT"
+ ],
+ [
+  "Switch an active link from [MAC] ([CHAR]) to [MAC] ([CHAR])  peer\n   quantity = [UINT64], link quantity = [UINT16], switch reason = [UINT32].",
+  "MESH"
+ ],
+ [
+  "-IfName=[STRING]-MACAddr=[STRING]; ACL authorization failed because [STRING].",
+  "PORTSEC"
+ ],
+ [
+  "DLDP detected a bidirectional link on interface [STRING].",
+  "DLDP"
+ ],
+ [
+  "-Domain=[STRING]-IPv6Usage=[STRING]-IPv6PoolUpperValue=[STRING]; IPv6 address resource usage reached or exceeded the upper threshold.",
+  "DOMAIN"
+ ],
+ [
+  "Deleted the idle-cut traffic threshold in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to specify URL list [STRING] for policy-group [STRING] in\n  context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "[STRING] CAPWAP tunnel to AP [STRING] went up.",
+  "CWS"
+ ],
+ [
+  "Openflow instance [UINT16] is in fail [STRING] mode.",
+  "OFP"
+ ],
+ [
+  "[STRING]  The transceiver information I/O failed.",
+  "OPTMOD"
+ ],
+ [
+  "Slot [STRING] subslot [STRING] Power error.",
+  "BSP"
+ ],
+ [
+  "The total UNI bandwidth is greater than the NNI bandwidth.The total UNI bandwidth is greater than the NNI bandwidth. The\n   bandwidth of [STRING] is changed.The total UNI bandwidth is greater than the NNI bandwidth. [STRING]\n   is created based on [STRING] of the UNI interface",
+  "QOS"
+ ],
+ [
+  "Failed to disable HTTP-redirect in gateway [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Partition [%s] is not formatted yet. Please format the partition\n  first.",
+  "FS"
+ ],
+ [
+  "RuleName(1080)=[STRING];Type(1067)=[STRING];Action(1053)=[STRING];",
+  "OBJP"
+ ],
+ [
+  "The PTP time offset exceeded the threshold. (TimeOffset=[UINT16], AlarmThresholdTimeOffset=[UINT16])",
+  "PTP"
+ ],
+ [
+  "-Slot=2.1; Detected receiving interface [STRING] status abnormal\n  on hardware fast-forwarding [STRING]. Checkpoint [STRING] failed.",
+  "PHYD"
+ ],
+ [
+  "Enabled SSL VPN logging globally.",
+  "SSLVPN"
+ ],
+ [
+  "Failed to delete TCP access filter in policy group [STRING] in\n  context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Because the aggregate interface [STRING] has been bound to a VFC interface, assigning the interface [STRING] that does not support FCoE to the aggregate interface might cause incorrect processing.",
+  "FCOE"
+ ],
+ [
+  "-VSD=[STRING]; AP flood detected.",
+  "WIPS"
+ ],
+ [
+  "Failed to apply or refresh the IPv6 default action to the [STRING] direction of VLAN [UINT16].",
+  "PFILTER"
+ ],
+ [
+  "The MKA session with CKN [STRING] was not secured on interface [STRING].",
+  "MACSEC"
+ ],
+ [
+  "SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; RcvVPNInstance(1041)=[STRING]; TTL(1051)=[STRING]; Reason(1052)=[STRING].",
+  "BLS"
+ ],
+ [
+  "-OperateType=[INT32]-OperateTime=[INT32]-OperateState=[INT32]-OperateEndTime=[INT32]; Operation completed.",
+  "CFGMAN"
+ ],
+ [
+  "The flow entry [UINT32] in table [CHAR] of instance [UINT16] was deleted because of an idle-time expiration.",
+  "OFP"
+ ],
+ [
+  "The number of [STRING] agent neighbors maintained by port [STRING] (IfIndex [UINT32]) is less than [UINT32], and new neighbors can be added.",
+  "LLDP"
+ ],
+ [
+  "Specified old content [STRING] for rewrite rule [STRING] in file\n  policy [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Client [MAC] on AP [STRING] Radio ID [STRING] failed to roam with\n  reason code [UINT32].",
+  "STAMGR"
+ ],
+ [
+  "[STRING] statistics for [STRING]  [UINT32] packets transmitted, [UINT32] packets received, [DOUBLE]% packet loss, round-trip min/avg/max/std-dev = [DOUBLE]/[DOUBLE]/[DOUBLE]/[DOUBLE] ms.",
+  "PING"
+ ],
+ [
+  "[STRING] [UINT32]'s port [STRING] received an inferior BPDU from a\n  designated port which is in forwarding or learning state.",
+  "STP"
+ ],
+ [
+  "The number of MAC address entries exceeded the maximum number [UINT32].",
+  "MAC"
+ ],
+ [
+  "Failed to write the password records to file.",
+  "PWDCTL"
+ ],
+ [
+  "Failed to enable service in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "[STRING] is in controlled status, [STRING] flux exceeds its upper\n  threshold [STRING].",
+  "IFNET"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Failed to remove\n  servers in scheme [STRING].",
+  "RADIUS"
+ ],
+ [
+  "Disabled force logout in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to enable the NQA server because the listening service's IP\n  address [STRING] is not available.",
+  "NQA"
+ ],
+ [
+  "The status of port [STRING] changed to up for the [STRING] agent.",
+  "LLDP"
+ ],
+ [
+  "User [STRING] from [STRING] failed reauthentication.",
+  "LS"
+ ],
+ [
+  "The [STRING] virtual router [UINT32] (configured on [STRING]) virtual forwarder [UINT32] detected status change (from [STRING] to [STRING])  [STRING].",
+  "VRRP"
+ ],
+ [
+  "The state of link group associated with action [STRING] was\n  changed, primary link group is [STRING], backup link group is [STRING], current\n  link group is [STRING].",
+  "LB"
+ ],
+ [
+  "User [STRING] of context [STRING] failed to log in from [STRING].\n  Reason  [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "The number of MAC address received in interface [STRING] reaches the upper limit.The number of MAC address received in VLAN [INT32] reaches the upper limit.",
+  "FDB"
+ ],
+ [
+  "Number of created contexts dropped below the\n  threshold.",
+  "SECDIAG"
+ ],
+ [
+  "Failed to delete IPv6 address range of SNAT pool [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to establish IPsec SA for the reason of [STRING]. The SA's source address is [STRING], and its destination address is [STRING].",
+  "IPSEC"
+ ],
+ [
+  "Specified port forwarding list [STRING] for policy-group [STRING]\n  in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "[STRING] changed the password because [STRING].",
+  "PWDCTL"
+ ],
+ [
+  "Failed to delete VPN instance for gateway [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; Protocol(1001)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; RcvVPNInstance(1041)=[STRING]; DstIPAddr(1007)=[IPADDR]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Failed to create selfverify counter.",
+  "PTS"
+ ],
+ [
+  "Failed to activate EDSG service policy [UINT32] on user [UINT32]. The EDSG service policy conflicts with existing configurationsin the [STRING] direction.",
+  "QOS"
+ ],
+ [
+  "Failed to create [STRING] because of insufficient resources.",
+  "MFIB"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "NQA entry ([ STRING ]- [ STRING ])  Failed to start the scheduled NQA operation because port [ STRING] used by the operation is not available.",
+  "NQA"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Failed to create server check timer.",
+  "PTS"
+ ],
+ [
+  "Session ([STRING], [STRING])  ([STRING]).",
+  "LDP"
+ ],
+ [
+  "Icmpv6Type(1059)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "URL-based automatic\n  configuration finished successfully.",
+  "AUTOCFG"
+ ],
+ [
+  "Ping statistics for [STRING]  [UINT32] packets transmitted, [UINT32] packets received, [DOUBLE]% packets loss, round-trip min/avg/max = [UINT32]/[UINT32]/[UINT32] ms.",
+  "LSPV"
+ ],
+ [
+  "NQA entry ([STRING]-[STRING])  The payload size exceeds 65503 bytes, and all IPv6 UDP probe packets will be dropped by the NQA server.",
+  "NQA"
+ ],
+ [
+  "A protection configuration defect is cleared on the ring corresponding to RPR logical interface [STRING].",
+  "RPR"
+ ],
+ [
+  "Failed to subscribe event [STRING].",
+  "GRPC"
+ ],
+ [
+  "Protocol(1001)=[STRING];Application(1002)=[STRING];SrcIPv6Addr(1036)=[IPADDR];SrcPort(1004)=[UINT16];DstIPv6Addr(1037)=[IPADDR];DstIPAddr(1007)=[IPADDR];DstPort(1008)=[UINT16];PolicyName(1079)=[STRING];RuleName(1080)=[STRING];ProtectedURL(1136)=[STRING];HitSrcIPv6Addr(1037)=[IPADDR];HitTime(1138)=[STRING];RequestRate(1139)=[UINT32];RequestConcentration(1140)=[UINT32];Action(1053)=[STRING];BlockTime(1141)=[UINT32].",
+  "CC"
+ ],
+ [
+  "User [STRING] changed the password because it was about to expire.",
+  "LS"
+ ],
+ [
+  "-User=[STRING]-IPAddr=[STRING]; Command [STRING] in view [STRING] failed to be executed.",
+  "SHELL"
+ ],
+ [
+  "[objectID=[UINT16]][slotID=[UINT16]][STRING][user info  [STRING]\n   ][trace info [STRING]]",
+  "USER"
+ ],
+ [
+  "App [CHAR] modified flow entry  [STRING].",
+  "OFC"
+ ],
+ [
+  "System MAC address changed from [STRING] to [STRING].",
+  "DRNI"
+ ],
+ [
+  "No certificate file found for attestation key [STRING].",
+  "PTS"
+ ],
+ [
+  "STP is now enabled on the device.",
+  "STP"
+ ],
+ [
+  "RuleName(1080)=[STRING];RuleID(1078)=[UINT32];Type(1067)=[STRING];",
+  "SECP"
+ ],
+ [
+  "Failed to enable SSL VPN logging globally.",
+  "SSLVPN"
+ ],
+ [
+  "User [STRING] changed the password because it had an invalid composition.",
+  "LS"
+ ],
+ [
+  "NTP server's IP address changed from [STRING] to [STRING].",
+  "NTP"
+ ],
+ [
+  "RIP [UINT32] Route limit reached",
+  "RIP"
+ ],
+ [
+  "-Domain=[STRING]-IPv6Usage=[STRING]-IPv6PoolLowerValue=[STRING]; IPv6 address resource usage reached or dropped below the lower threshold.",
+  "DOMAIN"
+ ],
+ [
+  "The [STRING] configuration conflicts with user-vlan configuration. To avoid conflicts, do not configure both features on interface [STRING].",
+  "DPORTAL"
+ ],
+ [
+  "Specified URL list [STRING] for policy-group [STRING] in context\n  [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Maximum number of PPPoE sessions for the user already reached.",
+  "PPPOES"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];Type(1067)=[STRING];ObjectPolicy(1072)=[STRING];RuleID(1078)=[UINT32];Protocol(1001)=[STRING];SrcIPv6Addr(1036)=[STRING];SrcPort(1004)=[UINT16];DstIPv6Addr(1037)=[STRING];DstPort(1008)=[UINT16];MatchCount(1069)=[UINT32];Event(1048)=[STRING];",
+  "FILTER"
+ ],
+ [
+  "ADVPN tunnel state changed from [STRING] to [STRING]  tunnel\n  interface=[STRING], private addr=[STRING], public addr=[STRING], peer private\n  addr=[STRING], peer public addr=[STRING], type=[STRING], last state=[STRING],\n  last state duration=[STRING], domain name=[STRING], ADVPN group\n  name=[STRING].",
+  "ADVPN"
+ ],
+ [
+  "Link aggregation load sharing not supported.",
+  "BRIPRO"
+ ],
+ [
+  "Target IP [STRING] was not the IP of the receiving interface [STRING].",
+  "ARP"
+ ],
+ [
+  "Sess[STRING], Ver, Sta  [STRING]->[STRING], Diag  [UINT32]",
+  "BFD"
+ ],
+ [
+  "Enabled IMC SMS message authentication in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Associated VPN instance [STRING] with context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to delete access routes in policy-group [STRING] in context\n  [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Failed to save the IP forwarding table due to lack of storage resources.",
+  "FIB"
+ ],
+ [
+  "Failed to apply policy [STRING]. Reason  [STRING].",
+  "OBJP"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "TACACS accounting\n  server was blocked  Server IP=[STRING], port=[UINT32],\n  VPN instance=[STRING].",
+  "TACACS"
+ ],
+ [
+  "[STRING] logged out from [STRING].",
+  "SHELL"
+ ],
+ [
+  "NQA entry ([STRING]-[STRING])  [STRING]",
+  "NQA"
+ ],
+ [
+  "IPOptValue(1057)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; Protocol(1001)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; DstIPv6Addr(1037)=[IPADDR]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Pattern 1 The maximum number of dynamic ARP entries for slot [INT32] reached.Pattern 2 The maximum number of dynamic ARP entries for chassis [INT32]\n   slot [INT32] reached.",
+  "ARP"
+ ],
+ [
+  "-UserName=[STRING]-IPAddr=[IPADDR]-IfName=[STRING]-OuterVLAN=[UINT16]-InnerVLAN=[UINT16]-MACAddr=[MAC]-Reason=[STRING]; The user failed to come online.",
+  "PPP"
+ ],
+ [
+  "[STRING] reached or exceeded the upper limit [STRING] on MEP\n  [UINT16] in service instance [INT32].",
+  "CFD"
+ ],
+ [
+  "Failed to apply or refresh the IPv6 default action to the [STRING] direction globally.",
+  "PFILTER"
+ ],
+ [
+  "Service failure occurred on BSS [STRING] after service template [STRING]\n  with SSID [STRING] was bound to radio [STRING] on AP [STRING] with AP ID\n  [STRING]. Reason  [STRING], code=0x[STRING].",
+  "STAMGR"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; DstIPv6Addr(1037)=[IPADDR]; DstPort(1008)=[UINT16]; RcvVPNInstance(1041)=[STRING]; UpperLimit(1048)=[UINT32]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "SubModule(1124)=[STRING];IPv6ExtHdrLimitValue(1142)=[UINT32];SrcZoneName(1025)=[STRING];SrcIPv6Addr(1036)=[IPADDR];DstIPv6Addr(1037)=[IPADDR];RcvVPNInstance(1042)=[STRING];Action(1053)=[STRING];BeginTime_c(1011)=[STRING];EndTime_c(1012)=[STRING];AtkTimes(1054)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Subcard was inserted in [STRING] subslot [INT32], type is [STRING].",
+  "DEV"
+ ],
+ [
+  "[STRING] logged out\n  from [STRING].",
+  "WEB"
+ ],
+ [
+  "[STRING]  Voltage is low.",
+  "OPTMOD"
+ ],
+ [
+  "A remote Critical event occurred on interface [string].",
+  "ETHOAM"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; Protocol(1001)=[STRING]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "[STRING]  [STRING] was detected.",
+  "OPTMOD"
+ ],
+ [
+  "User [STRING] changed the password because it was expired.",
+  "LS"
+ ],
+ [
+  "[STRING] Neighbor [STRING] ([STRING]) is down.",
+  "PIM"
+ ],
+ [
+  "IRF merge occurred. This IRF system does not need to reboot.",
+  "IRF"
+ ],
+ [
+  "RIP [UINT32] Route limit reached",
+  "RIP"
+ ],
+ [
+  "Failed to assign port forwarding item [STRING] to port forwarding\n  list [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Pattern 1 Power [INT32] is absent.Pattern 2 Chassis [STRING] power [INT32] is absent.",
+  "DEV"
+ ],
+ [
+  "Failed to configure authentication use [STRING] in context\n  [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Failed to apply or refresh QoS policy [STRING] to the [STRING] direction of interface [STRING]. [STRING].",
+  "QOS"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "At least one fabric module slot is empty. Make sure a blank filler module has been installed in each empty slot so the switch can work correctly.",
+  "DRVPLAT"
+ ],
+ [
+  "An errored symbol event occurred on the peer interface [string].",
+  "ETHOAM"
+ ],
+ [
+  "[STRING] was automatically set to dynamic aggregation mode and configured as an STP edge port.",
+  "PEX"
+ ],
+ [
+  "RcvIfName(1023)=[STRING];SrcIPv6Addr(1036)=[IPADDR];DstIPv6Addr(1037)=[IPADDR];ServicePort(1071)=[UINT16];RcvVPNInstance(1042)=[STRING];SndVPNInstance(1043)=[STRING];SndDSLiteTunnelPeer(1041)=[STRING];LimitRate(1073)=[UINT32];LimitRuleNum(1051)=[UINT16];Event(1048)=[STRING];",
+  "CONNLMT"
+ ],
+ [
+  "Delete BAS AC [STRING].",
+  "STAMGR"
+ ],
+ [
+  "Pattern 1 The process [STRING] has not finished starting in [UINT32] hours.Pattern 2 The process [STRING] on [STRING] [UINT16] has not finished\n   starting in [STRING] hours.",
+  "SCMD"
+ ],
+ [
+  "Specified new content [STRING] for rewrite rule [STRING] in file\n  policy [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Protocol(1001)= [STRING];SrcIPAddr(1003)= [IPADDR];SrcPort(1004)=\n  [UINT16];DstIPAddr(1007)= [IPADDR];DstPort(1008)= [UINT16]; User(1098)=%s;\n  Application(1002)= [STRING]; Account(1101)= [STRING].",
+  "UDPI"
+ ],
+ [
+  "OSPF [UINT16] Received newer self-originated network-LSAs. Possible conflict of IP address [IPADDR] in area [STRING] on interface [STRING].",
+  "OSPF"
+ ],
+ [
+  "Batch backup of standby board in [STRING] has finished.",
+  "HA"
+ ],
+ [
+  "Failed to apply or refresh the MAC default action to the [STRING] direction of interface [STRING].",
+  "PFILTER"
+ ],
+ [
+  "Session establishment rate reached the\n  threshold [STRING] on [STRING].",
+  "SECDIAG"
+ ],
+ [
+  "Failed to specify new content [STRING] for rewrite rule [STRING]\n  in file policy [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "RcvIfName(1023)=[STRING];Direction(1070)=[STRING];AclType(1067)=[STRING];Acl(1068)=[STRING];Protocol(1001)=[STRING];SrcIPAddr(1003)=[IPADDR];DstIPAddr(1007)=[IPADDR];IcmpType(1062)=[STRING]([UINT16]);IcmpCode(1063)=[UINT16];MatchAclCount(1069)=[UINT32];Event(1048)=[STRING];",
+  "FILTER"
+ ],
+ [
+  "[STRING] was removed from [STRING].",
+  "PEX"
+ ],
+ [
+  "No enough resource",
+  "DPPPOE"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Failed to apply or refresh QoS policy [STRING] to the [STRING] direction of VLAN [UINT32]. [STRING].",
+  "QOS"
+ ],
+ [
+  "Status of stateful failover group [STRING] with ID [UINT32] changed to\u00a0 [STRING].",
+  "EDEV"
+ ],
+ [
+  "-Username=[STRING]-UserMAC=[STRING]-SSID=[STRING]-VLANID=[STRING]-UsernameFormat=[STRING]; A user failed MAC authentication.",
+  "STAMGR"
+ ],
+ [
+  "Physical state on the interface [STRING] changed to [STRING].",
+  "IFNET"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Member port [STRING] of aggregation group [STRING] changed to the inactive state, because the physical state of the port is down.",
+  "LAGG"
+ ],
+ [
+  "The process [STRING] was skipped because it failed to start within 6 hours.",
+  "SCM"
+ ],
+ [
+  "Failed to apply or refresh the IPv4 default action to the [STRING] direction of interface [STRING].",
+  "PFILTER"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Failed to write the password records to file.",
+  "LS"
+ ],
+ [
+  "Failed to configure description [STRING] for shortcut [STRING] in\n  context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "The IKE phase 2 SA was deleted for the reason of [STRING]. The SA's source address is [STRING], and its destination address is [STRING].",
+  "IKE"
+ ],
+ [
+  "Pattern 1 Failed to recover the configuration of binding the service card on slot [UINT16] to interface [STRING], because [STRING].Pattern 2 Failed to recover the configuration of binding the service card on chassis [UINT16] slot [UINT16] to interface [STRING], because [STRING].",
+  "NAT"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "STG count [UINT32] is smaller than the MPU's STG count [UINT32].",
+  "STP"
+ ],
+ [
+  "Removed URI ACL [STRING] from URL item [STRING] in context\n   [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "The license for SLB has been installed. Server load balancing is available.",
+  "LB"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Failed to delete URL list [STRING] used by policy-group [STRING]\n  in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Failed to activate EDSG service policy [UINT32] on user [UINT32]. The EDSG service policy is not supported.",
+  "QOS"
+ ],
+ [
+  "Deleted the old content configuration for rewrite rule [STRING] in\n  file policy [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "IPOptValue(1057)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Started to import identity user accounts and groups automatically.",
+  "IDENTITY"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING].",
+  "ATK"
+ ],
+ [
+  "AP [STRING] came online. State changed to Run.",
+  "APMGR"
+ ],
+ [
+  "Failed to create a new rollback point.",
+  "SHELL"
+ ],
+ [
+  "Client [MAC] roamed from BSSID [MAC] on AP [STRING] Radio ID\n  [STRING] of AC IP [IPADDR] to BSSID [MAC] on AP [STRING] Radio ID [STRING] of\n  AC IP [IPADDR] successfully.",
+  "STAMGR"
+ ],
+ [
+  "Switch an active link from [MAC] ([CHAR]) to [MAC] ([CHAR])  peer\n  quantity = [UINT64], link quantity = [UINT16], switch reason = [UINT32].",
+  "WMESH"
+ ],
+ [
+  "Icmpv6Type(1059)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; DstIPAddr(1007)=[IPADDR]; DstPort(1008)=[UINT16]; RcvVPNInstance(1041)=[STRING]; UpperLimit(1048)=[UINT32]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "RuleName(1080)=[STRING];RuleID(1078)=[UINT32];Type(1067)=[STRING];Action(1053)=[STRING];",
+  "OBJP"
+ ],
+ [
+  "SrcIPv6Addr(1036)=[IPADDR];RcvVPNInstance(1042)=[STRING].",
+  "BLS"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Chassis [ChassisID],Slot [SlotID],CPU [CPUID]. The number of\n  connections of link member ([STRING]-[STRING]) was [USHORT], which had\n  reached the upper limit.",
+  "LB"
+ ],
+ [
+  "All port block resources ran out in address group [UINT 16].",
+  "NAT"
+ ],
+ [
+  "[STRING] was removed from group [UINT32] because group reached max\n  port limit after the interface-active event for the port.",
+  "SLBG"
+ ],
+ [
+  "CF card state changed to Fault in [STRING] [STRING].",
+  "DEV"
+ ],
+ [
+  "RADIUS accounting\n  server became active  Server IP=[STRING], port=[UINT32],\n  VPN instance=[STRING].",
+  "RADIUS"
+ ],
+ [
+  "Number of IPv6 security policy rules dropped\n  below the threshold.",
+  "SECDIAG"
+ ],
+ [
+  "Failed to delete IP address pool [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Kernel init in sequence\n  [STRING] function [STRING] is still starting for [UINT32] minutes.",
+  "SCMD"
+ ],
+ [
+  "Standby board in [STRING] changed to the master.",
+  "HA"
+ ],
+ [
+  "SubModule(1124)=SINGLE;SrcZoneName(1025)=[STRING];SrcIPAddr(1003)=[IPADDR];SndDSLiteTunnelPeer(1041)=[STRING];DstIPAddr(1007)=[IPADDR];RcvVPNInstance(1042)=[STRING];Action(1053)=[STRING].",
+  "ATK"
+ ],
+ [
+  "-Line=[STRING]-IPAddr=[STRING]-User=[STRING]; Command is [STRING]",
+  "SHELL"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; DstIPAddr(1007)=[IPADDR]; DstPort(1008)=[UINT16]; RcvVPNInstance(1041)=[STRING]; UpperLimit(1048)=[UINT32]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "The table-miss flow entry in table [CHAR] of instance [UINT16] was deleted because of an idle-time expiration.",
+  "OFP"
+ ],
+ [
+  "System number changed from [STRING] to [STRING].",
+  "DRNI"
+ ],
+ [
+  "Global type [UINT16] configuration consistency check succeeded.",
+  "DRNI"
+ ],
+ [
+  "Failed to activate instance [UINT16].",
+  "OFP"
+ ],
+ [
+  "The MPLS TE reservable bandwidth configuration on Layer 3 aggregate interface [STRING] didn't work as expected due to insufficient hardware resources.",
+  "QACL"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Failed to execute Tcl-defined policy [STRING] because the policy's Tcl script file had been modified.",
+  "RTM"
+ ],
+ [
+  "On interface [STRING], the rate of [STRING] PFC packets of 802.1p\n  priority [INTEGER] exceeded the PFC early-warning threshold [INTEGER] pps.\n  The current rate is [INTEGER].",
+  "IFNET"
+ ],
+ [
+  "Failed to start packet capture. Reason  TCP or UDP port binding faults.",
+  "PKTCPT"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "PVST BPDUs were received on port [STRING], which is enabled with PVST BPDU protection.",
+  "STP"
+ ],
+ [
+  "Failed to add interface [STRING] to the default VLAN.",
+  "VLAN"
+ ],
+ [
+  "Chassis [ChassisID],Slot [SlotID],CPU [CPUID]. The number of\n  connections of real server member ([STRING]-[STRING]-[USHORT]) was [USHORT],\n  which had recovered to normal state.",
+  "LB"
+ ],
+ [
+  "Failed to configure the maximum number of SSL VPN users in context\n  [UINT32].",
+  "SSLVPN"
+ ],
+ [
+  "MAC authentication is enabled but is not effective on interface [STRING].",
+  "MACA"
+ ],
+ [
+  "Enabled automatic IP access client startup after Web login in\n   context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "IRF port [UINT32] came up.",
+  "STM"
+ ],
+ [
+  "Failed to add port forwarding entry local-port [STRING] local-name\n  [STRING] remote-server [STRING] remote-port [STRING] [STRING] in port\n  forwarding list [STRING] in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "SNMP [STRING] from [STRING] is rejected due to ACL restriction.",
+  "SNMP"
+ ],
+ [
+  "PORTAL session $1 get no enough resource when adding a port to a link-aggregation group. This session will not take effect.",
+  "DPORTAL"
+ ],
+ [
+  "Failed to set URL (URL [STRING]) for file policy [STRING] in\n  context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to URL masking for URL item [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "An HTTP/HTTPS attack was detected, and the attacked destination IP was [ IPADDR] in VPN [STRING].",
+  "IPOE"
+ ],
+ [
+  "A remote Link Fault event occurred on interface [string].",
+  "ETHOAM"
+ ],
+ [
+  "[STRING] changed the password because [STRING].",
+  "PWDCTL"
+ ],
+ [
+  "Failed to specify SSL server policy [STRING] for gateway [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "The system will replace running configuration with a remote file\n  in 1 minute  File=[STRING]",
+  "CFGMAN"
+ ],
+ [
+  "BGP [STRING]  Number of [STRING] routes reached the license limit.",
+  "BGP"
+ ],
+ [
+  "The rollback might not be able to restore the previous version for [STRING] because the status is not normal.",
+  "ISSU"
+ ],
+ [
+  "-Username=[STRING]-UserMAC=[STRING]-SSID=[STRING]-VLANID=[STRING]-UsernameFormat=[STRING]; A user passed MAC authentication and came online.",
+  "STAMGR"
+ ],
+ [
+  "LB link can't start template [STRING] to probe because of exceeded\n  memory threshold.",
+  "LB"
+ ],
+ [
+  "[STRING]  [STRING] was detected.",
+  "OPTMOD"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "IPOptValue(1057)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Specified AAA domain [STRING] for context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "RIPng [UINT32] Route limit reached",
+  "RIPNG"
+ ],
+ [
+  "[STRING]  RX power is normal.",
+  "OPTMOD"
+ ],
+ [
+  "Specified template [STRING] for SSL VPN webpage customization in\n  context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Protocol(1001)=[STRING];Application(1002)=[STRING];UserName(1113)=[STRING];SrcMacAddr(1021)=[STRING];SrcIPAddr(1003)=[IPADDR];SrcPort(1004)=[UINT16];NATSrcIPAddr(1005)=[IPADDR];NATSrcPort(1006)=[UINT16];DstIPAddr(1007)=[IPADDR];DstPort(1008)=[UINT16];NATDstIPAddr(1009)=[IPADDR];NATDstPort(1010)=[UINT16];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];PolicyName(1079)=[STRING];URLCategory(1094)=[STRING];URL(1093)=[STRING];VistTime(1114)=[STRING];Client(1110)=[STRING];Action(1053)=[STRING];",
+  "UFLT"
+ ],
+ [
+  "Detected an IP address conflict. The device with MAC address [STRING] connected to interface [STRING] in VSI [STRING] and the device with MAC address [STRING] connected to interface [STRING] in VSI [STRING] were using the same IP address [IPADDR].",
+  "ARP"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "BGP [STRING].[STRING]  The number of routes ([UINT32]) from peer [STRING] ([STRING]) exceeds the limit [UINT32].",
+  "BGP"
+ ],
+ [
+  "Failed to delete the old content configuration for rewrite rule\n  [STRING] in file policy [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "-[STRING]; Failed to add ACL rule [STRING] [UINT16] -> [STRING] [UINT16] to the whitelist, VRF  [UINT16], error code  0x[UINT32].",
+  "INTRACE"
+ ],
+ [
+  "CAPWAP tunnel to local AC [STRING] went down. Reason  [STRING].",
+  "CWS"
+ ],
+ [
+  "A loop was removed on [STRING] in VLAN [UINT16].",
+  "LPDT"
+ ],
+ [
+  "PE CSP timed out on interface [STRING].",
+  "PEX"
+ ],
+ [
+  "Pattern 1 Power [INT32] failed.Pattern 2 Chassis [STRING] power [INT32] failed.",
+  "DEV"
+ ],
+ [
+  "Failed to create policy group [STRING] in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "IPOptValue(1057)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Label ([STRING]) for prefix ([STRING]) has been used by prefix ([STRING]).",
+  "LSM"
+ ],
+ [
+  "Deleted message server in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to delete address-pool in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "The standby process [STRING] failed to switch to the active process due to uncompleted synchronization, and was restarted.",
+  "SCM"
+ ],
+ [
+  "[STRING]  Voltage is normal.",
+  "OPTMOD"
+ ],
+ [
+  "Preprovision check on slot [UINT32] failed because of mismatching\n  model or interface information  Preprovisioned model=[STRING], installed\n  model=[STRING]. Preprovisioned interface type=[STRING], actual interface\n  type=[STRING].",
+  "PREPROVISION"
+ ],
+ [
+  "Pattern 1 The process [STRING] can't be restored. Reboot now.Pattern 2 The process [STRING] can't be restored. Reboot [STRING] now.",
+  "SCM"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; DstIPv6Addr(1037)=[IPADDR]; DstPort(1008)=[UINT16]; RcvVPNInstance(1041)=[STRING]; UpperLimit(1048)=[UINT32]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Interface [string] quit Ethernet OAM because it received no\n  Information OAMPDU before the timer times out.",
+  "ETHOAM"
+ ],
+ [
+  "Created SSL VPN gateway [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "NQA entry admin-name [STRING] operation-tag [STRING]  [STRING].",
+  "NQA"
+ ],
+ [
+  "Failed to apply or refresh the IPv6 default action to the [STRING] direction of VLAN [UINT16]. The resources are insufficient.",
+  "PFILTER"
+ ],
+ [
+  "[STRING] sent out a seizure signal.",
+  "EM"
+ ],
+ [
+  "Board in chassis [INT32] slot [INT32] is loading software images.",
+  "LOAD"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Failed to activate EDSG service policy [UINT32] on user [UINT32]. The rate limit mode for the EDSG service policy is different from the rate limit mode for an existing EDSG service policy.",
+  "QOS"
+ ],
+ [
+  "[STRING] Neighbor [STRING] ([STRING]) is up.",
+  "PIM"
+ ],
+ [
+  "Failed to set drop profile [STRING] globally.",
+  "HQOS"
+ ],
+ [
+  "TRILL process receive system memory alert [STRING] event.",
+  "TRILL"
+ ],
+ [
+  "The Telnet Connection [IPADDR]([STRING]) request was denied according to ACL rules.",
+  "TELNETD"
+ ],
+ [
+  "DLDP detected a unidirectional link on interface [STRING]. [STRING].",
+  "DLDP"
+ ],
+ [
+  "Failed to specify port forwarding list [STRING] for policy-group\n  [STRING] in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Failed to delete SSL VPN context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Failed to create socket service.",
+  "PTS"
+ ],
+ [
+  "Hash value computed based on Package IML is not consistent with\n  that in PCR ([UINT]).",
+  "PTS"
+ ],
+ [
+  "The MDC feature is being disabled, because it has no license.",
+  "MDC"
+ ],
+ [
+  "Disabled global URL masking in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to finish loading [STRING] in [UINT32] minutes.",
+  "SCM"
+ ],
+ [
+  "Please reset LDP sessions if you want to make the new MPLS LSR ID\n  take effect.",
+  "LDP"
+ ],
+ [
+  "The probe state of link [STRING] template [STRING] was changed to\n  [STRING].",
+  "LB"
+ ],
+ [
+  "Add BAS AC [STRING].",
+  "STAMGR"
+ ],
+ [
+  "A reboot command was executed while the system status was not Stable.",
+  "DEV"
+ ],
+ [
+  "The number of ACs or PWs in the VSI has reached the limit.",
+  "VPLS"
+ ],
+ [
+  "User(1098)=[STRING]; TTL(1055)=[STRING]; Reason(1056)=[STRING]; DomainName(1099)\n  =[STRING].",
+  "BLS"
+ ],
+ [
+  "Set the SSL VPN RBM port to [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "IPv6ExtHeader(1060)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Enabled password-authentication in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to assign automatic assignment-enabled interface [STRING]\n  to an aggregation group. Please check the configuration on the interface.",
+  "LAGG"
+ ],
+ [
+  "RuleName(1080)=[STRING];Type(1067)=[STRING];Action(1053)=[STRING];",
+  "SECP"
+ ],
+ [
+  "Configuration for IPP [UINT16] was removed from interface [STRING].",
+  "DRNI"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "Failed to set the content type for file policy [STRING] in context\n  [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to authenticate SNMP message.",
+  "SNMP"
+ ],
+ [
+  "Failed to delete SSL client policy for context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "DR role assignment finished. Please verify that the local device\n  and the peer device have consistent global and DR-interface-specific STP\n  settings.",
+  "STP"
+ ],
+ [
+  "Icmpv6Type(1059)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; DstIPv6Addr(1037)=[IPADDR]; DstPort(1008)=[UINT16]; RcvVPNInstance(1041)=[STRING]; UpperLimit(1048)=[UINT32]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "[STRING] congestion on queue [UINT32] of [STRING] is cleared.\n  [UINT64] packets are discarded.",
+  "IFNET"
+ ],
+ [
+  "ACL [STRING] [STRING] rule [STRING] [STRING], [UINT64] packet(s).",
+  "PFILTER"
+ ],
+ [
+  "Deleted URL list [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "URL-based automatic\n  configuration service by [STRING] from [STRING] failed.",
+  "AUTOCFG"
+ ],
+ [
+  "Protocol(1001)=[STRING];SrcIPv6Addr(1036)=[IPADDR];SrcPort(1004)=[UINT16];DstIPv6Addr(1037)=[IPADDR];DstPort(1008)=[UINT16];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];UserName(1113)=[STRING];PolicyName(1079)=[STRING];Application(1002)=[STRING];Behavior(1101)=[STRING];BehaviorContent(1102)={Sender_addr(1106)=[STRING],Receiver_addr(1107)=[STRING],Subject(1108)=[STRING],Body(1109)=[STRING]};Client(1110)=[STRING];SoftVersion(1111)=[STRING];Action(1053)=[STRING];",
+  "AUDIT"
+ ],
+ [
+  "Failed to download image file [STRING] for the AP. AC memory is not enough.",
+  "CWS"
+ ],
+ [
+  "Mesh link on interface [CHAR] is up  peer MAC = [MAC], peer radio\n  mode = [UINT32], RSSI = [CHAR].",
+  "WMESH"
+ ],
+ [
+  "The process [STRING] in [STRING] [UINT16] can't be restored. Reboot [STRING] [UINT16] now.",
+  "SCM"
+ ],
+ [
+  "Failed to delete message server in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Icmpv6Type(1059)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "[STRING]  Temperature is normal.",
+  "OPTMOD"
+ ],
+ [
+  "-UserName=[STRING]-IPAddr=[IPADDR]-IfName=[STRING]-OuterVLAN=[UINT16]-InnerVLAN=[UINT16]-MACAddr=[MAC]-Reason=[STRING]; User failed to come online.",
+  "PORTAL"
+ ],
+ [
+  "IPOptValue(1057)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; Protocol(1001)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "SubModule(1124)=[STRING];IPv6ExtHdrLimitValue(1142)=[UINT32];RcvIfName(1023)=[STRING];SrcIPv6Addr(1036)=[IPADDR];DstIPv6Addr(1037)=[IPADDR];RcvVPNInstance(1042)=[STRING];Action(1053)=[STRING];BeginTime_c(1011)=[STRING];EndTime_c(1012)=[STRING];AtkTimes(1054)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Established IPsec SA. The SA's source address is [STRING], destination address is [STRING], protocol is [STRING], and SPI is [UINT32].",
+  "IPSEC"
+ ],
+ [
+  "Maximum number of PPPoE sessions for the VLAN already reached.",
+  "PPPOES"
+ ],
+ [
+  "Specified SSL client policy [STRING] for context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Max active [STRING] routes [UINT32] reached in URT of [STRING]",
+  "RM"
+ ],
+ [
+  "Dropped RA messages with the source IPv6 address [STRING] on interface [STRING]. [STRING] messages dropped in total on the interface.",
+  "ND"
+ ],
+ [
+  "Failed to delete the URL configuration for file policy [STRING] in\n  context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "AP [STRING] started to download the system software image file [STRING].",
+  "CWS"
+ ],
+ [
+  "The default synchronization group member [STRING] disconnected\n  from [STRING] due to configuration changes.",
+  "GLB"
+ ],
+ [
+  "User failed to come online. Reason=BAS global access limit already reached.",
+  "PORTAL"
+ ],
+ [
+  "BGP egress-engineering incoming label [STRING] is out of range.",
+  "BGP"
+ ],
+ [
+  "Pattern 1 Power [INT32] recovered.Pattern 2 Chassis [INT32] power [INT32] recovered.",
+  "DEV"
+ ],
+ [
+  "Openflow instance [UINT16] controller [CHAR]  delete table miss flow entry, xid 0x[HEX], cookie 0x[HEX], table id [STRING].",
+  "OFP"
+ ],
+ [
+  "Detected a user (IPv6 address [IPV6ADDR], MAC address [STRING])\n   moved to another interface. Before user move  interface [STRING], SVLAN\n   [STRING], CVLAN [STRING]. After user move  interface [STRING], SVLAN\n   [STRING], CVLAN [STRING].",
+  "ND"
+ ],
+ [
+  "Failed to apply or refresh [STRING] ACL [UINT] to the [STRING] direction of VLAN [UINT16]. [STRING] ACL [UINT] has already been applied to the VLAN.",
+  "PFILTER"
+ ],
+ [
+  "MDC [UINT16] is online now.",
+  "MDC"
+ ],
+ [
+  "Failed to associate VPN instance [STRING] with context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "-IfName=[STRING]-MACAddr=[STRING]-VLANID=[STRING]-Username=[STRING]-UsernameFormat=[STRING]; User passed MAC authentication and came online.",
+  "MACA"
+ ],
+ [
+  "Failed to delete file policy [STRING] in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "SandboxType(1143)=[STRING];FileType(1096)=[STRING];FileName(1097)=[STRING];Protocol(1001)=[STRING];Application(1002)=[STRING];SrcIPv6Addr(1036)=[IPADDR];SrcPort(1004)=[UINT16];DstIPv6Addr(1037)=[IPADDR];DstPort(1008)=[UINT16];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];UserName(1113)=[STRING];TrtType(1144)=[STRING];Severity(1087)=[STRING];MD5(1129)=[STRING];BeginTime_c(1011)=[STRING];ThreatDir(1170)=[UINT16];AttackName(1088)=[STRING];ThreatAct(1171)=[STRING];ThreatFmly(1172)=[UINT16];StatusCode(1167)=[STRING];ThreatHttpContentLen(1173)=[STRING];RealSrcIP(1100)=[STRING];",
+  "SANDBOX"
+ ],
+ [
+  "Failed to apply classifier-behavior [STRING] in policy [STRING] to the\u00a0 [STRING] direction globally. [STRING].",
+  "QOS"
+ ],
+ [
+  "Disabled dynamic-password in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "CAPWAP tunnel to local AC [STRING] went up.",
+  "CWS"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Failed to delete policy group [STRING] in context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "No enough resource",
+  "MPLS"
+ ],
+ [
+  "Number of Layer 3 aggregate interfaces\n  reached the threshold [STRING].",
+  "SECDIAG"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Protocol(1001)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Openflow instance [UINT16] controller [CHAR]  add table miss flow entry, xid 0x[HEX], cookie 0x[HEX], table id [CHAR].",
+  "OFP"
+ ],
+ [
+  "Failed to accelerate [STRING] object-policy [STRING].",
+  "OBJP"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Inbound traffic exceeded the total\n  bandwidth usage threshold [STRING] Mbps.",
+  "SECDIAG"
+ ],
+ [
+  "Subcard was removed from [STRING] subslot [INT32], type is [STRING].",
+  "DEV"
+ ],
+ [
+  "User [STRING]'s login idle timer timed out.",
+  "LS"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING];DstIPAddr(1007)=[IPADDR];RcvVPNInstance(1042)=[STRING];UpperLimit(1049)=[UINT32];Action(1053)=[STRING];BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "No enough hardware resource for MPLS.",
+  "MPLS"
+ ],
+ [
+  "Failed to start or continue packet capture. Reason  Operation timed out.",
+  "PKTCPT"
+ ],
+ [
+  "SrcIPAddr(1003)=[IPADDR];UserName(1113)=[STRING];RcvVPNInstance(1042)=[STRING];TerminalNum(1125)=[UINT16];PolicyName(1079)=[STRING];Action(1053)=[STRING];FreezeTime(1126)=[UINT16].",
+  "NETSHARE"
+ ],
+ [
+  "Failed to configure domain mapping for URL item [STRING] in\n   context [STRING]  mapped domain name=[STRING], URL rewriting=[STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Protocol(1001)=[STRING];SrcIPv6Addr(1036)=[IPADDR];SrcPort(1004)=[UINT16];DstIPv6Addr(1037)=[IPADDR];DstPort(1008)=[UINT16];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];UserName(1113)=[STRING];PolicyName(1079)=[STRING];Application(1002)=[STRING];Behavior(1101)=[STRING];BehaviorContent(1102)={Account(1103)=[STRING],Content(1104)=[STRING]};Client(1110)=[STRING];SoftVersion(1111)=[STRING];Action(1053)=[STRING];",
+  "AUDIT"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; Protocol(1001)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; RcvVPNInstance(1041)=[STRING]; DstIPAddr(1007)=[IPADDR]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING].",
+  "ATK"
+ ],
+ [
+  "DHCP server received a DHCP client's request packet on interface [STRING], and allocated an IP address [IPADDR](lease [UINT32] seconds) for the DHCP client(MAC [MAC]) from [STRING] pool.",
+  "DHCPS"
+ ],
+ [
+  "Failed to activate EDSG service policy [UINT32] on user [UINT32]. The EDSG service policy ID is out of range.",
+  "QOS"
+ ],
+ [
+  "Number of Layer 3 aggregate interfaces dropped\n  below the threshold.",
+  "SECDIAG"
+ ],
+ [
+  "The status of IPP [STRING] changed to blocked.",
+  "DRNI"
+ ],
+ [
+  "Not enough resources to complete the operation.",
+  "ND"
+ ],
+ [
+  "Delete an interface-based entry  Packet type=[STRING]; Interface=[STRING].",
+  "IPFW"
+ ],
+ [
+  "Maximum number of PPPoE sessions already reached.",
+  "PPPOES"
+ ],
+ [
+  "Failed to bind UDP [STRING] connection port [NUMBER] to VPN\n  instance [STRING] for the DNS listener because the port has already been\n  allocated.",
+  "KDNS"
+ ],
+ [
+  "Enabled IP tunnel access logging in context [STRING]. Log type is\n  [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Icmpv6Type(1059)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Failed to configure queue [UINT32] in queue management profile [STRING]. [STRING].",
+  "QOS"
+ ],
+ [
+  "Failed to delete an IP source guard binding (IP [STRING], MAC [STRING], and VLAN [STRING]) on interface [STRING]. [STRING].",
+  "IPSG"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "DstIPv6Addr(1037)=[IPADDR];RcvVPNInstance(1042)=[STRING].",
+  "BLS"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Failed to configure SSL VPN [STRING] login message [STRING] in\n  context [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Protocol(1001)=[STRING];Application(1002)=[STRING];DataDirection(1081)=[STRING];RuleName(1080)=[STRING];PolicyName(1079)=[STRING];SrcIPAddr(1003)=[IPADDR];SrcPort(1004)=[UINT16];DstIPAddr(1007)=[IPADDR];DstPort(1008)=[UINT16];SrcZone(1025)=[STRING];DstZone(1035)=\n  [STRING];UserName(1113)=[STRING];Action(1053)=[STRING];",
+  "DFILTER"
+ ],
+ [
+  "Failed to disable certificate-authentication in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Failed to delete the rate limit configuration for IP tunnel\n   [STRING] traffic in context [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Add BAS AC [STRING].",
+  "APMGR"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "PVST is not supported on this board.",
+  "BRIPRO"
+ ],
+ [
+  "Updated the URL filtering signature library successfully.",
+  "UFLT"
+ ],
+ [
+  "User [STRING] of context [STRING] from [STRING] permitted to\n  access [STRING] (server-IP=[STRING],port-number=[STRING]).",
+  "SSLVPNK"
+ ],
+ [
+  "Interface [STRING] has been configured as a dedicated BFD MAD port.",
+  "BFD"
+ ],
+ [
+  "A loop was detected on [STRING] in VLAN [UINT16].",
+  "LPDT"
+ ],
+ [
+  "Protocol(1001)=[STRING];SrcIPAddr(1003)=[IPADDR];SrcPort(1004)=[UINT16];DstIPAddr(1007)=[IPADDR];DstPort(1008)=[UINT16];SrcZoneName(1025)=[STRING];DstZoneName(1035)=[STRING];UserName(1113)=[STRING];PolicyName(1079)=[STRING];Application(1002)=[STRING];Behavior(1101)=[STRING];BehaviorContent(1102)={Account(1103)=[STRING],Content(1104)=[STRING]};Client(1110)=[STRING];SoftVersion(1111)=[STRING];Action(1053)=[STRING];",
+  "AUDIT"
+ ],
+ [
+  "Deleted Web access filter in policy group [STRING] in context\n  [STRING].",
+  "SSLVPN"
+ ],
+ [
+  "Incoming label [INT32] for static CRLSP [STRING] is duplicate.",
+  "SCRLSP"
+ ],
+ [
+  "Pattern 1 The process [STRING]\n  was skipped because it failed to start within 6 hours.Pattern 2 The process [STRING] on\n  [STRING] [UINT16] was skipped because it failed to start within 6 hours.",
+  "SCMD"
+ ],
+ [
+  "Add an interface-based entry  Packet type=[STRING]; Interface=[STRING].",
+  "IPFW"
+ ],
+ [
+  "Number of concurrent sessions dropped\n  below the threshold on [STRING].",
+  "SECDIAG"
+ ],
+ [
+  "[STRING]  The transceiver is [STRING].",
+  "OPTMOD"
+ ],
+ [
+  "A neighbor on interface [STRING] was deleted because a [STRING] packet arrived. The neighbor's system MAC is [MAC], and the port index is [UINT16].",
+  "DLDP"
+ ],
+ [
+  "Form 1 The user number on slot [INT32] is above the upper warning threshold (UpperThreshold=[INT32]).Form 2 The user number on chassis [INT32] slot [INT32] is above the upper warning threshold (UpperThreshold=[INT32]).",
+  "USER"
+ ],
+ [
+  "SrcZoneName(1025)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ],
+ [
+  "Interface [string] removed the OAM connection because it received no Information OAMPDU before the timer times out.",
+  "ETHOAM"
+ ],
+ [
+  "Inbound traffic dropped below total\n  bandwidth usage threshold.",
+  "SECDIAG"
+ ],
+ [
+  "The configuration failed on OAM interface [string] because of\n  insufficient resources.",
+  "ETHOAM"
+ ],
+ [
+  "Protocol(1001)= [STRING]; SrcIPAddr(1003)= [IPADDR];SrcPort(1004)= [UINT16]; NatSrcIPv6Addr(1038)= [IPADDR];NatSrcPort(1006)= [UINT16]; DstIPAddr(1003)= [IPADDR];DstPort(1008)= [UINT16]; NatDstIPv6Addr(1039)= [IPADDR];NatDstPort(1010)= [UINT16];InitPktCount(1044)= [UINT32];InitByteCount(1046)= [UINT32];RplyPktCount(1045)= [UINT32];RplyByteCount(1047)= [UINT32];RcvVPNInstance(1042)= [STRING];SndVPNInstance(1043)= [STRING];BeginTime_e(1013)= [STRING];EndTime_e(1014)= [STRING];Event(1048)= ([UNIT16])[STRING].",
+  "AFT"
+ ],
+ [
+  "Number of Layer 2 aggregate interfaces\n  reached the threshold [STRING].",
+  "SECDIAG"
+ ],
+ [
+  "BGP [STRING].[STRING]  [STRING] state has changed from [STRING] to [STRING].",
+  "BGP"
+ ],
+ [
+  "Icmpv6Type(1059)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPv6Addr(1036)=[IPADDR]; DstIPv6Addr(1037)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "[STRING] logged out, session id [INT32].",
+  "GRPC"
+ ],
+ [
+  "Failed to create SSL VPN gateway [STRING]",
+  "SSLVPN"
+ ],
+ [
+  "Illegal DHCP client-PacketType=[STRING]-ClientAddress=[MAC];",
+  "DHCPS"
+ ],
+ [
+  "Inconsistent authorization data for attestation key [STRING].",
+  "PTS"
+ ],
+ [
+  "Insert into AVL tree failed for flow-based entry  Family=[UINT32]; DstPort=[UINT16]; VRF=[UINT16].",
+  "IPFW"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; SrcZoneName(1025)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING].",
+  "ATK"
+ ],
+ [
+  "BGP [STRING].[STRING]  The route [STRING] [STRING]/[UINT32] learned from peer [STRING] ([STRING]) flapped.",
+  "BGP"
+ ],
+ [
+  "IcmpType(1058)=[UINT32]; RcvIfName(1023)=[STRING]; SrcIPAddr(1003)=[IPADDR]; DSLiteTunnelPeer(1040)=[STRING]; DstIPAddr(1007)=[IPADDR]; RcvVPNInstance(1041)=[STRING]; Action(1049)=[STRING]; BeginTime_c(1011)=[STRING]; EndTime_c(1012)=[STRING]; AtkTimes(1050)=[UINT32].",
+  "ATK"
+ ]
+]

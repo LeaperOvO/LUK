@@ -1,0 +1,1014 @@
+0	APF	This log comes from the module "IPSEC".
+1	DHCP	This log comes from the DHCP module.
+2	CAPWAP	The log comes from the WLAN module.
+3	IMGR	The log comes from the FIPS module.
+4	LWAPP	The log comes from the WLAN module.
+5	BOOTP	The log comes from the module "SYS".
+6	OSAPI	The log "MSG_TRACEBACK" likely comes from the DEBUG module.
+7	SIM	The log "Failed to create optimized join image" likely comes from the LWAPP module.
+8	BOOTP	This log likely comes from the SYS module.
+9	RFID	RFID
+10	DTLS	The log comes from the DTLS module.
+11	SYSTEM	This log likely comes from the module "CHKPT" (Checkpoint).
+12	SSHPM	The log comes from the SSLMGR module.
+13	UPDATE	The log comes from the module named "SYS".
+14	MM	This log comes from the LWAPP module.
+15	EMWEB	Module: WEB
+16	SERVICES	The log comes from the module "SYSHW".
+17	SIM	The log comes from the WLAN module.
+18	DMI	The log message "process is in steady state" most likely comes from the module "SYS".
+19	RRC	The log comes from the TIMER module.
+20	SSHPM	TUNNEL
+21	NIM	The log message "All ports have been already configured" likely comes from the module CONFIGSYNC.
+22	SIM	The log comes from the DEBUG module.
+23	NIM	This log comes from the module "PORT".
+24	SYSTEM	The log "MSG_TRACEBACK" likely comes from the DEBUG module.
+25	PEM	The log comes from the DEBUG module.
+26	AAA	The log comes from the WLAN module.
+27	DMI	The log "Failed to connect to network element" likely comes from the module "SYSNET" (System Networking).
+28	RRC	This log comes from the ACL module.
+29	CHKPT	The log comes from the OSAPI module.
+30	LWAPP	WLAN
+31	DMI	The log comes from the DMI module.
+32	SXP	This log likely comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+33	LWAPP	The log comes from the module KEYSTORE.
+34	SIM	The log comes from the module named "SYS".
+35	SYSNET	This log comes from the LOGGER module.
+36	MM	This log comes from the WLAN module.
+37	LWAPP	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+38	LWAPP	This log likely comes from the SYS module.
+39	LWAPP	This log likely comes from the DEBUG module.
+40	SSHPM	This log comes from the FIREWALL module.
+41	RBCP	The log comes from the RBCP module.
+42	OSAPI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+43	CTS	The log comes from the DEBUG module.
+44	SSHPM	This log comes from the IPSEC module.
+45	PMALLOC	The log comes from the PMALLOC module.
+46	OSAPI	IOS
+47	LWAPP	This log comes from the WLCNGBOOT module.
+48	CMRP	The log comes from the POWER module.
+49	MM	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+50	LWAPP	This log comes from the WLAN module.
+51	SSHPM	The log comes from the PEM module.
+52	USMDB	The log comes from the module "REGISTRY".
+53	APF	This log comes from the WLAN module.
+54	NIM	The log comes from the module "PORT".
+55	APF	The log comes from the WLAN module.
+56	CMCC	The log comes from the module named "SYSHW" (System Hardware).
+57	LWAPP	This log comes from the module "CAPWAP" (Control and Provisioning of Wireless Access Points).
+58	REGISTRY	The log message "Attempt to overwrite a set sequence function (%s)" likely comes from the DEBUG module.
+59	USMDB	Module: ACL
+60	UPDATE	The log comes from the DEBUG module.
+61	LWAPP	LOG
+62	PNP	UPDATEIP
+63	LWAPP	This log comes from the WLAN module.
+64	LICENSE	LOG
+65	SXP	This log likely comes from the DHCP module.
+66	APF	The log comes from the SEC module (Security).
+67	PMALLOC	The log comes from the MALLOC module.
+68	NIM	The log message "Task initialization failure. Waiting on handle %s failed" likely comes from the OS module.
+69	LWAPP	The log comes from the module "APF" (Access Point Forwarding).
+70	DTL	The log comes from the DEBUG module.
+71	CMCC	This log likely comes from the module "SYSNET" (System Networking).
+72	VMAN	WEB
+73	APF	The log comes from the BONJOUR module.
+74	HREAP	ACL
+75	DHCP	The log comes from the module "CONFIGSYNC".
+76	DTLS	The log comes from the DTLS module.
+77	NIM	This log comes from the REGISTRY module.
+78	CHKPT	The log comes from the CHKPT module.
+79	DMI	The log comes from the DMI module.
+80	LWAPP	The log comes from the NTP module.
+81	DTLS	The log comes from the DTLS module.
+82	AAA	EAP
+83	LWAPP	This log comes from the module WIDS (Wireless Intrusion Detection System).
+84	APF	The log comes from the SYS module.
+85	LWAPP	The log comes from module "SYS".
+86	DMI	The log comes from the module "SYS".
+87	DMI	The log "Failed to initialize the syncfd daemon" likely comes from the SYNC module.
+88	UPDATE	The log comes from the OS module.
+89	CAPWAP	The log comes from the module APF.
+90	APF	This log likely comes from the WLAN module.
+91	ISSU	Module: SYS
+92	DTLS	The log comes from the DTLS module.
+93	AAA	The log comes from the RADIUS module.
+94	CMRP	This log comes from the FMANRP module.
+95	MM	The log "MSG_TRACEBACK" comes from the DEBUG module.
+96	NIM	This log comes from the CONFIGSYNC module.
+97	BCAST	This log likely comes from the IPSTAT module.
+98	WLAN	This log comes from the WLAN module.
+99	ETHOIP	ETHOIP
+100	DMI	The log message "process has initialized" likely comes from the INIT module.
+101	IM	The log comes from the IOXMGR module.
+102	CMFP	The log comes from the HIFN module.
+103	NIM	The log comes from the module "ETHOIP" (Ethernet over IP).
+104	PMAN	The log comes from the module: SYS
+105	OSAPI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+106	EMWEB	WEB
+107	DTLS	The log comes from the KEYSTORE module.
+108	SIM	This log comes from the module "WIDS" (Wireless Intrusion Detection System).
+109	APF	This log comes from the module "WIDS" (Wireless Intrusion Detection System).
+110	CAPWAP	This log comes from the DTLS module.
+111	CMRP	The log comes from the CHASFS module.
+112	STACKMGR	The log comes from the STACKMGR module.
+113	RFID	The log message "Error retrieving file %s." likely comes from the FILE module.
+114	SSHPM	This log comes from the SSLMGR module.
+115	APF	The log comes from the IPC module.
+116	WPS	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+117	INIT	The log comes from the SEC (Security) module.
+118	CCX	The log comes from the CCX module.
+119	LMRP	The log message "Failed to relay a message because %s" likely comes from the RELAY module.
+120	OSAPI	The log comes from the module "SYS".
+121	SSHPM	This log likely comes from the DEBUG module.
+122	VMAN	WEB
+123	CMRP	The log comes from the module SYSPLAT (System Platform).
+124	CHKPT	OSAPI
+125	CCX	This log message likely comes from the module "CAPWAP" (Control and Provisioning of Wireless Access Points).
+126	SXP	The log "Could not create semaphore for %s" likely comes from the OSAPI module.
+127	APF	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+128	PMAN	The log comes from the module "SYS".
+129	SIM	The log comes from the LAG module.
+130	NIM	This log likely comes from the TRAPMGR module.
+131	INIT	The log comes from the ETHOIP module.
+132	CMRP	The log comes from the PEM module.
+133	LWAPP	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+134	SSHPM	This log comes from the CAPWAP module.
+135	LOG	The log comes from the OSAPI module.
+136	LWAPP	This log likely comes from the module "WIDS" (Wireless Intrusion Detection System) as it is related to monitoring and analyzing packets in a wireless network.
+137	CMRP	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+138	SISF	The log entry "Entry deleted %s" likely comes from the CMCC module.
+139	IOXCAF	The log comes from the module "SYSNET".
+140	WLAN	This log comes from the WLAN module.
+141	LWAPP	FMANFP
+142	AAA	The log message "Running %s..." most likely comes from the module named CLI.
+143	UPDATEIP	The log comes from the UPDATEIP module.
+144	CNFGR	This log comes from the DHCP module.
+145	AAA	RADIUS
+146	SIM	The log comes from the module named "SYS".
+147	WPS	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+148	SSHPM	This log comes from the KEYSTORE module.
+149	CCX	The log "Unable to load e2e configuration" likely comes from the CONFIGSYNC module.
+150	LWAPP	The log comes from the module "APF" (Access Point Framework).
+151	LRADSIM	This log comes from the IPSEC module.
+152	MM	This log likely comes from the DEBUG module.
+153	CCX	The log comes from the CCX module.
+154	EAP	The log comes from the EAP module.
+155	CMCC	This log comes from the module "IOXMGR".
+156	OSAPI	The log comes from the DEBUG module.
+157	SSHPM	The log comes from the WEB module.
+158	IM	The log comes from the IOXMGR module.
+159	WLAN	This log comes from the WLAN module.
+160	CMRP	The log comes from the module FMANFP.
+161	BCRPGC	The log comes from the module "DEBUG".
+162	OSAPI	The log comes from the module "MTD".
+163	CMCC	The log comes from the LOGGER module.
+164	SUBSYS	The log comes from the CMCC module.
+165	APF	The log comes from the DEBUG module.
+166	USMDB	The log comes from the USMDB module.
+167	MM	This log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+168	DTL	The log "MSG_TRACEBACK" comes from the DEBUG module.
+169	OSAPI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+170	SYSTEM	The log comes from the SYSTEM module.
+171	TOOL	The log comes from the FILE module.
+172	CMFP	The log comes from the module "SYS".
+173	USMDB	This log comes from the USMDB module.
+174	SIM	This log comes from the LAG module.
+175	LWAPP	This log likely comes from the WLAN module.
+176	HREAP	The log "MSG_TRACEBACK" comes from the DEBUG module.
+177	SYSTEM	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+178	BOOTP	This log likely comes from the WEB module.
+179	DMI	This log likely comes from the AAA module.
+180	SMAN	The log comes from the UPGRADE module.
+181	APF	The log "MSG_TRACEBACK" likely comes from the DEBUG module.
+182	NMSP	The log comes from the NMSP module.
+183	LWAPP	This log likely comes from the module "SSLVPNMGR" (SSL VPN Manager) as it mentions "Private key decryption failed" which is related to SSL encryption and decryption processes.
+184	SIM	The log comes from the WLAN module.
+185	CAPWAP	The log comes from the CCX module.
+186	UPDATE	The log "Failed to disable rate limiter in the NPU" likely comes from the module named FMANFP.
+187	DHCP	This log likely comes from the module "SYSNET" (System Networking).
+188	MM	The log message "Failed to send a ping %s packet to %s" most likely comes from the module ICMP.
+189	CMCC	The log comes from the SYS module.
+190	OSAPI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+191	APF	The log comes from the VPN module.
+192	MM	This log comes from the module "WLCNGBOOT".
+193	LWAPP	The log comes from the LWAPP module.
+194	IAPP	The log comes from the ICMP module.
+195	SIM	The log comes from the SIM module.
+196	APF	WLAN
+197	EMT	The log "Failed to create EMT Hello Timer" comes from the EMT module.
+198	SECTUN	SECTUN
+199	DTL	The log "MSG_TRACEBACK" comes from the DEBUG module.
+200	SSHPM	This log comes from the SSLMGR module.
+201	WCP	The log "Failed to Create WCP Task" comes from the WCP module.
+202	SCOOBY	The log comes from the module "SYSNET".
+203	WEB	The log comes from the WEB module.
+204	PEM	This log comes from the WLAN module.
+205	UPGRADE	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+206	AAA	This log likely comes from the RADIUS module.
+207	LWAPP	The log comes from the LWAPP module.
+208	LWAPP	This log likely comes from the module "WIDS" (Wireless Intrusion Detection System) as it mentions receiving a response from an unknown access point, which is a common scenario in wireless intrusion detection.
+209	IPSTAT	The log comes from the IPSTAT module.
+210	WLAN	The log comes from the WLAN module.
+211	SMAN	The log comes from the module "CAPWAP" (Control and Provisioning of Wireless Access Points).
+212	HREAP	The log comes from the DEBUG module.
+213	BCAST	The log "Mgid queue is empty!" likely comes from the MM (Multicast Manager) module.
+214	AAA	The log comes from the AAA module.
+215	LWAPP	The log comes from the IDS module.
+216	CTS	The log comes from the DEBUG module.
+217	HREAP	Module: ACL
+218	SIM	The log comes from the module "IFMAP" (Interface Mapping).
+219	SMAN	This log comes from the BIPC module.
+220	NMSP	The log comes from the NMSP module.
+221	CAPWAP	WEB
+222	SYSTEM	The log comes from the CONFIGSYNC module.
+223	DHCP	The log comes from the module "WLCNGBOOT".
+224	BOOTP	The log comes from the BOOTP module.
+225	NIM	This log likely comes from the module "PORT".
+226	DMI	The log comes from the DMI module.
+227	BONJOUR	This log comes from the INIT module.
+228	RMGR	This log comes from the IKE module.
+229	OSAPI	This log likely comes from the DEBUG module.
+230	EMWEB	WEB
+231	DEBUG	CLI
+232	OSAPI	The log comes from the LICENSE module.
+233	MM	The log comes from the ICMP module.
+234	CMRP	The log message "System shutdown will occur in %d minutes." most likely comes from the SYSTEM module.
+235	DTL	The log comes from the LWAPP module.
+236	SXP	This log likely comes from the DHCP module.
+237	LWAPP	This log comes from the WIDS module.
+238	DTL	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+239	AAA	This log comes from the AAA module.
+240	LWAPP	This log likely comes from the module "IPSEC" as it mentions encryption and public key.
+241	SYS	The log comes from the APF module.
+242	APF	The log comes from the DEBUG module.
+243	LWAPP	The log comes from the TIME module.
+244	SIM	The log message "Failed to create a heart beat timer" likely comes from the SYS module.
+245	MMC	The log comes from the module "SYS".
+246	APF	The log comes from the DEBUG module.
+247	LWAPP	The log comes from the WLAN module.
+248	ACL	Module: ACL
+249	PMALLOC	The log message "Memory threshold reached. Not allocating memory." likely comes from the MALLOC module.
+250	SIM	The log comes from the module named "SYS".
+251	CHKPT	The log comes from the TIMER module.
+252	APF	The log comes from the WLAN module.
+253	BOOT	The log comes from the module "SYS".
+254	CMRP	The log comes from the module "SYSNET".
+255	LWAPP	The log likely comes from the PKTDEBUG module.
+256	WEB	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+257	SIM	The log message "Transfer cannot happen in CCO Mode Suggested version not available" likely comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+258	AAA	The log comes from the SECURITY module.
+259	CMCC	The log comes from the module "SYS".
+260	SYSTEM	This log likely comes from the SSLVPNMGR module.
+261	RFID	This log likely comes from the module "WIDS" (Wireless Intrusion Detection System) as it mentions "Cisco tag data" which is related to wireless security and monitoring.
+262	CAPWAP	The log comes from the SYS module.
+263	MM	This log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+264	BCAST	This log likely comes from the BCAST module.
+265	SYSTEM	The log message "Print Task Not Ready. Unable to print data." most likely comes from the PRINT module.
+266	MDR	The log comes from the module "ISSU" (In-Service Software Upgrade).
+267	DTLS	This log comes from the SSLMGR module.
+268	SYSNET	This log comes from the SNMP module.
+269	SSHPM	This log comes from the IPSEC module.
+270	BONJOUR	This log likely comes from the module "SYSNET" (System Networking).
+271	DTL	This log comes from the TUNNEL module.
+272	DMI	The log comes from the DMI module.
+273	SIM	The log message "Unable to create the %s interface" most likely comes from the ETHOIP module.
+274	SIM	This log comes from the VLAN module.
+275	SSHPM	This log comes from the AAA module.
+276	LWAPP	This log likely comes from the WLAN module.
+277	OSAPI	The log comes from the module named "SYS".
+278	SSHPM	TUNNEL
+279	DC	The log message "Check Table Initialization failed while reading %s" likely comes from the DBMS module.
+280	CMRP	The log comes from the module "CISCO".
+281	LWAPP	This log likely comes from the SYS module.
+282	DMI	The log comes from the module "TTYMON".
+283	UIPEER	The log comes from the DEBUG module.
+284	RMGR	Module: SYS
+285	NIM	This log likely comes from the module "WPS" (Wi-Fi Protected Setup) as it involves a Registrar ID, which is related to the process of setting up Wi-Fi connections securely.
+286	EMWEB	The log comes from the SSHPM module.
+287	DHCP	The log "select system call failed." likely comes from the module SYS.
+288	EPM	The log comes from the POLICY module.
+289	SSHPM	This log likely comes from the FIREWALL module.
+290	LWAPP	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+291	BCAST	Module: LWAPP
+292	CMRP	The log comes from the IOXMGR module.
+293	LWAPP	The log "Linktest to AP failed." likely comes from the WLAN module.
+294	DEBUG	This log likely comes from the WLAN module.
+295	CMCC	The log comes from the module CMFC.
+296	MM	This log likely comes from the module "SYS".
+297	CAPWAP	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+298	PMAN	The log message appears to be related to the DEBUG module.
+299	CNFGR	Module: LICENSE
+300	APF	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+301	IM	The log comes from the LOGGER module.
+302	SSHPM	The log comes from the KEYSTORE module.
+303	LWAPP	The log comes from the module IDS (Intrusion Detection System).
+304	CAPWAP	This log comes from the CAPWAP module.
+305	AAA	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+306	SSHPM	The log comes from the KEYSTORE module.
+307	CMCC	This log likely comes from the CAPWAP module.
+308	DMI	This log comes from the CMCC module.
+309	SISF	The log comes from the module RRM (Radio Resource Management).
+310	IM	The log comes from the SYS module.
+311	SSHPM	The log comes from the FIREWALL module.
+312	SSHPM	This log comes from the SSLVPNMGR module.
+313	PEM	The log comes from the DEBUG module.
+314	SXP	This log likely comes from the DHCP module.
+315	TFTP	TFTP
+316	AAA	The log "MSG_TRACEBACK" comes from the DEBUG module.
+317	MM	This log likely comes from the SYS module.
+318	CGC	DEBUG
+319	DTLS	The log comes from the DTLS module.
+320	DMI	The log comes from the DMI module.
+321	OSAPI	The log comes from the OSAPI module.
+322	CCX	The log comes from the WLAN module.
+323	APF	This log comes from the module "DBMS" (Database Management System).
+324	APF	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+325	SSHPM	CMRP
+326	SSHPM	This log comes from the IPSEC module.
+327	IM	This log comes from the module "SYS".
+328	IAPP	The log comes from the IAPP module.
+329	HREAP	The log comes from the DEBUG module.
+330	TUNNEL	The log message "Configuring message queue for %s failed." likely comes from the module named "SYS".
+331	MBOX	This log comes from the EVENTLIB module.
+332	OSAPI	The log comes from the SYS module.
+333	SSHPM	This log comes from the IPSEC module.
+334	SYSTEM	The log comes from the MALLOC module.
+335	SECTUN	SECTUN
+336	SIM	This log comes from the VLAN module.
+337	OSAPI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+338	CHKPT	This log message likely comes from the module "LOGGER".
+339	DX	The log comes from the DX module.
+340	CCX	The log comes from the WLAN module.
+341	APF	This log likely comes from the WLAN module.
+342	OSC	This log likely comes from the CMCC module (Configuration Management and Control Center).
+343	APF	The log comes from the WLAN module.
+344	CONFIGSYNC	CONFIGSYNC
+345	OSAPI	The log comes from the module "SYSNET" (System Networking).
+346	CMFP	This log comes from the module "SYSNET".
+347	LWAPP	The log comes from the WLAN module.
+348	SMAN	This log comes from the module "SYS".
+349	DMI	The log comes from the CONFIGSYNC module.
+350	APF	The log comes from the SECURITY module.
+351	APF	This log likely comes from the SWITCH module.
+352	BONJOUR	The log comes from the module BONJOUR.
+353	MIRROR	This log comes from the module "AVL" (Address Verification List).
+354	LOG	The log likely comes from the module "SYS".
+355	NIM	The log comes from the module "PHY".
+356	SIM	The log message "Failed to delete interface '%s'" likely comes from the module "IFMAP" (Interface Mapping).
+357	SM	This log likely comes from the EVENTLIB module.
+358	PEM	The log message "Add Client %02x %02x %02x %02x %02x %02x to SCB failed" likely comes from the WLAN module.
+359	HOTSPOT	The log comes from the HOTSPOT module.
+360	NDBUTIL	The log comes from the module called "RFC" (Request for Comments).
+361	OSAPI	DHCP"
+362	SYSTEM	The log comes from the MALLOC module.
+363	LMRP	The log comes from the module named "SYS".
+364	CONFIGSYNC	This log comes from the CMCC module.
+365	BOOTP	This log likely comes from the TIME module.
+366	BOOT	Module: BOOT
+367	CCX	The log "Unable to load L2Roam configuration" likely comes from the WLAN module.
+368	SSHPM	This log likely comes from the SSLMGR module.
+369	CHKPT	The log comes from the API module.
+370	DMI	The log comes from the module "SYS".
+371	MDR	RRC (Radio Resource Control)
+372	EMWEB	The log comes from the module "SYS".
+373	TRAPMGR	The log comes from the DTL module.
+374	EMWEB	The log comes from the CLI module.
+375	OSAPI	The log comes from the OSAPI module.
+376	LWAPP	The log message "Linktest request not sent since previous request is still pending ltid %d" likely comes from the module WLCNGBOOT.
+377	APF	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+378	SYSTEM	The log comes from the MALLOC module.
+379	LWAPP	This log likely comes from the module "WIDS" (Wireless Intrusion Detection System) as it mentions processing updates from an Access Point (AP).
+380	LWAPP	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+381	CMRP	The log comes from the module "UPGRADE".
+382	OSAPI	The log comes from the module "SYS".
+383	EMWEB	The log comes from the WEB module.
+384	CLIWEB	WEB
+385	SYS	This log comes from the CLI module.
+386	APF	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+387	LWAPP	The log comes from the module "WLAN".
+388	SIM	The log comes from the INTERFACE module.
+389	TUNNEL	TUNNEL
+390	APF	The log "MSG_TRACEBACK" comes from the DEBUG module.
+391	SIM	The log message "Unable to set %s profile for %s qos priority level" likely comes from the QoS module.
+392	RFID	The log comes from the RFID module.
+393	CNFGR	Module: CAPWAP
+394	LICENSE	This log comes from the KEYSTORE module.
+395	CAPWAP	This log comes from the DTLS module.
+396	DHCP	The log comes from the DHCP module.
+397	APF	This log likely comes from the module "DBMS" (Database Management System).
+398	CLI	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+399	TOOL	This log likely comes from the module "PKTDEBUG" (Packet Debug).
+400	SSHPM	This log comes from the EPM module.
+401	MM	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+402	SNMPUTIL	This log comes from the CONFIGSYNC module.
+403	BOOTP	The log comes from the BOOTP module.
+404	DEBUG	This log comes from the WLAN module.
+405	CAPWAP	The log comes from the APF module.
+406	DTLS	This log likely comes from the RRC module.
+407	ISSU	The log comes from the ISSU module.
+408	BCAST	BCRDU
+409	PEM	The log comes from the module "FDB" (Forwarding Database).
+410	MM	The log likely comes from the WIDS (Wireless Intrusion Detection System) module.
+411	AAA	The log comes from the RADIUS module.
+412	MIRROR	MIRROR
+413	SYS	The log comes from the WLAN module.
+414	DNS	The log comes from the DNS module.
+415	BOOT	The log comes from the BOOT module.
+416	DTL	FDB (Forwarding Database)
+417	SYSHW	The log comes from the module: DMI
+418	CAPWAPPING	The log comes from the DTL module.
+419	KEYSTORE	The log comes from the KEYSTORE module.
+420	DEBUG	This log likely comes from the module "WIDS" (Wireless Intrusion Detection System) as it mentions troubleshooting information for MAC addresses, which is relevant to wireless network security.
+421	MAB	This log likely comes from the AAA module.
+422	WLAN	This log comes from the WLAN module.
+423	OSAPI	The log comes from the DEBUG module.
+424	HREAP	This log likely comes from the LOGGER module.
+425	CHKPT	The log "MSG_TRACEBACK" comes from the DEBUG module.
+426	UPGRADE	Module: WLCNGBOOT
+427	MDR	RRC (Minimal Disruptive Restart)
+428	CLIWEB	This log comes from the WEB module.
+429	NIM	This log likely comes from the CONFIGSYNC module.
+430	OSAPI	The log comes from the OSAPI module.
+431	APF	This log likely comes from the WLAN module.
+432	DTL	The log comes from the DEBUG module.
+433	APF	 module
+434	WUILOGIN	The log comes from the WUILOGIN module.
+435	SSHPM	This log comes from the IPSEC module.
+436	RRM	This log likely comes from the WIDS (Wireless Intrusion Detection System) module.
+437	SYSTEM	This log comes from the CONFIGSYNC module.
+438	DTL	The log comes from the DEBUG module.
+439	UPGRADE	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+440	APF	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+441	SSHPM	SSLVPNMGR
+442	DMI	The log comes from the CLI module.
+443	BOOT	Module: BOOT
+444	HMAN	The log comes from the IPSTAT module.
+445	SEC	The log comes from the RADIUS (RDS) module.
+446	EMWEB	This log likely comes from the WEB module.
+447	SYSHW	This log likely comes from the module "SYS".
+448	WEB	This log likely comes from the UI module.
+449	RMGR	The log comes from the DEBUG module.
+450	SSHPM	The log message "Error reading file %s" likely comes from the FILE module.
+451	EMWEB	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+452	CMRP	Module: IOS
+453	VMAN	The log comes from the WEB module.
+454	BROFFU	The log comes from the module "DP".
+455	CLIWEB	This log comes from the WEB module.
+456	MM	This log likely comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+457	BUFF	The log comes from the module "BUFF" (Buffer).
+458	SSHPM	This log likely comes from the SSLVPNMGR module.
+459	CNFGR	The log message "Native IPv6 enable failed." likely comes from the module "IPSEC".
+460	CTS	The log comes from the CTS (Cisco TrustSec) module.
+461	SSHPM	This log comes from the SSLMGR module.
+462	MM	The log comes from the module LWAPP (Lightweight Access Point Protocol).
+463	AAA	Module: AAA
+464	THERMAL	The log comes from the THERMAL module.
+465	LWAPP	This log likely comes from the WLAN module.
+466	CAPWAP	The log comes from the PKTDEBUG module.
+467	SNTP	SNTP
+468	SSHPM	KEYSTORE
+469	APF	This log likely comes from the WLAN module.
+470	LWAPP	The log comes from the module "BIPCMGR" (Buffer IPC Manager).
+471	TOOL	This log comes from the PKTDEBUG module.
+472	LWAPP	This log comes from the WLAN module.
+473	DMI	The log comes from the DMI module.
+474	DTL	The log comes from the DEBUG module.
+475	CLI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+476	SSHPM	The log comes from the WEB module.
+477	RRM	This log likely comes from the RRM (Radio Resource Management) module.
+478	SSHPM	The log comes from the LOGGER module.
+479	SSHPM	WEB
+480	AAA	Module: AAA
+481	DEBUG	The log comes from the module named "SYS".
+482	STACKMGR	The log comes from the module "SYS".
+483	MM	This log comes from the WLAN module.
+484	BOOTP	The log "Waiting for the BOOTP Reply" comes from the BOOTP module.
+485	WLAN	This log comes from the WLAN module.
+486	CLIWEB	The log likely comes from the module "SYSNET" (System Networking).
+487	WPS	The log "MSG_SECURITY" comes from the module "SEC" (Security).
+488	CMRP	The log comes from the module "SYS".
+489	CAPWAPPING	This log comes from the ARP module.
+490	SXP	The log comes from the SYS module.
+491	INIT	The log message "No transceivers detected." most likely comes from the module "SYSHW".
+492	PTHUTIL	The log "Task %s stack overflow" likely comes from the MALLOC module.
+493	SIM	WLAN
+494	LMRP	The log comes from the PLATFORM module.
+495	AAA	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+496	APF	The log comes from the DEBUG module.
+497	DMI	The log comes from the CMCC module.
+498	MM	The log comes from the IPSTAT module.
+499	CMRP	The log comes from the POWER module.
+500	FMANRP	The log comes from the module IPC.
+501	IM	VMAN
+502	UPDATE	This log likely comes from the module "AVL" (Temporal Logic Verifier).
+503	CDP	CDP (Cisco Discovery Protocol)
+504	OSAPI	The log comes from the DEBUG module.
+505	DTL	The log comes from the DEBUG module.
+506	BOOT	The log comes from the BOOT module.
+507	PEM	The log comes from the APF module (AP Fast Path).
+508	PEM	The log comes from the IPSEC module.
+509	WEB	The log "MSG_TRACEBACK" comes from the DEBUG module.
+510	PBUF	The log comes from the DEBUG module.
+511	MM	This log comes from the UI module.
+512	SSHPM	IPSEC
+513	CMFP	The log message "Peroidic Heartbeat message from RP timed out" likely comes from the module RRC (Radio Resource Control).
+514	RFID	RFID
+515	MAB	This log likely comes from the AAA module.
+516	ETHOIP	ETHOIP
+517	EPM	The log comes from the AAA module.
+518	IM	The log comes from the VMAN (Virtualization Manager) module.
+519	INIT	UPDATE
+520	CDP	The log "cdp queue is full." comes from the CDP (Cisco Discovery Protocol) module.
+521	CAPWAPPING	Module: CAPWAP
+522	LWAPP	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+523	DMI	The log comes from the EVENTLIB module.
+524	EPM	The log comes from the POLICY module.
+525	CCX	The log "cannot start L2ROAM List Update timer." comes from the WLAN module.
+526	TFTP	TFTP
+527	WLAN	The log comes from the WLAN module.
+528	DX	This log comes from the module CMEM.
+529	LWAPP	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+530	EMWEB	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+531	PEM	The log comes from the module POLICY.
+532	LWAPP	The log comes from the module KEYSTORE.
+533	DTL	The log comes from the TUNNEL module.
+534	CMRP	The log comes from the LICENSE module.
+535	APF	The log message "enabling WLANs failed for AP %s" likely comes from the WLAN module.
+536	LOG	The log comes from the OSAPI module.
+537	VMAN	WEB
+538	IM	The log comes from the PMALLOC module.
+539	PMALLOC	DHCP
+540	CHKPT	CMCC
+541	VMAN	WEB
+542	EVUTIL	The log comes from the OS module.
+543	APF	This log comes from the module "WIDS" (Wireless Intrusion Detection System).
+544	CAPWAP	This log likely comes from the module "SYS".
+545	CHKPT	CHKPT
+546	OSAPI	This log likely comes from the TIMER module.
+547	LWAPP	WLAN
+548	OSAPI	The log comes from the ROUTE module.
+549	CMCC	Module: CHASFS
+550	MM	The log comes from the module "MM" which stands for Mobility Manager.
+551	CCX	The log comes from the CCX module.
+552	CAPWAP	The log comes from module WLCNGBOOT.
+553	EAP	The log comes from the FIPS module.
+554	DMI	The log comes from the CMCC module.
+555	NIM	The log comes from the LAG module.
+556	CAPWAPPING	The log comes from the ICMP module.
+557	SIM	This log comes from the VLAN module.
+558	DBAL	The log comes from the BIPC module.
+559	SIM	The log comes from the USB module.
+560	SSHPM	The log comes from the PEM (Public Key Encryption Module) module.
+561	WLAN	This log comes from the WLAN module.
+562	DHCP	This log likely comes from the DHCP module.
+563	BCAST	The log comes from the module "IPSTAT".
+564	OSAPI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+565	CMCC	This log comes from the SYS module.
+566	PEM	WEB (Web Server)
+567	AAA	Module: AAA
+568	CMRP	The log comes from the POWER module.
+569	CMRP	The log comes from the module "SYS".
+570	RMGR	The log "MSG_TRACEBACK" comes from the DEBUG module.
+571	DTL	The log comes from the ARP module.
+572	SIM	The log comes from the module "HA" (High Availability).
+573	MMC	This log comes from the module "SYSNET".
+574	CMRP	The log comes from the module "SYSHW" (System Hardware).
+575	OSAPI	This log likely comes from the ROUTE module.
+576	APF	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+577	SPECTRUM	The log comes from the SPECTRUM module.
+578	LWAPP	The log comes from the LOGGER module.
+579	CAPWAP	This log message does not provide enough information to determine which module it comes from.
+580	BONJOUR	The log message "Internal Error %s" likely comes from the module SYS.
+581	LWAPP	The log comes from the LWAPP module.
+582	VMAN	WEB
+583	CMCC	The log comes from the CMCC module.
+584	AAA	This log comes from the CONFIGSYNC module.
+585	VMAN	The log comes from the IOS module.
+586	PEM	The log comes from the module "RADIUS".
+587	PEM	The log message "Delete Client %02x %02x %02x %02x %02x %02x from SCB failed" likely comes from the WLAN module.
+588	IOS	This log comes from the SSLMGR module.
+589	LWAPP	The log comes from the module "CAPWAP" (Control and Provisioning of Wireless Access Points).
+590	SYSPLAT	The log comes from the module IOXMGR.
+591	SIM	DTL
+592	SECTUN	SECTUN
+593	DC	This log likely comes from the module "CFG" (Configuration).
+594	POE	The log comes from the POWER module.
+595	CNFGR	The log comes from the LICENSE module.
+596	SSHPM	The log comes from the L2TP module.
+597	APF	This log comes from the WLAN module.
+598	LWAPP	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+599	IM	The log comes from the CMCC module.
+600	KEYSTORE	The log comes from the KEYSTORE module.
+601	TTYMON	The log comes from the CMCC module.
+602	SYSNET	This log comes from the CAPWAP module.
+603	BROFFU	SYS
+604	DTL	This log comes from the ARP module.
+605	MM	This log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+606	SSHPM	The log comes from the KEYSTORE module.
+607	APF	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+608	UIPEER	This log comes from the BIPC module.
+609	AAA	The log comes from the AAA module.
+610	RMGR	This log likely comes from the DEBUG module.
+611	PEM	The log comes from the PEM module.
+612	DHCP	DHCP
+613	WEBSERVER	The log comes from the UI module.
+614	FILTER	The log comes from the LOGGER module.
+615	UPDATE	This log likely comes from the BOOT module.
+616	BCAST	The log message "Message queue creation error.BCAST sub-system not initialized" comes from the BCAST module.
+617	RRC	The log message "Failed to create the timer for %s." likely comes from the TIMER module.
+618	APF	This log likely comes from the WLAN module.
+619	CCX	The log message "%s msg queue does not exist. Exiting..." likely comes from the module named "SYS".
+620	APF	The log comes from the WLAN module.
+621	CAPWAP	This log comes from the IPSEC module.
+622	EAP	The log comes from the PPTP module.
+623	VMAN	WEB
+624	DTL	The log "MSG_TRACEBACK" comes from the DEBUG module.
+625	SSHPM	SECTUN
+626	BOOTP	The log comes from the ETHOIP module.
+627	SNTP	The log comes from the module "SYS".
+628	USMDB	The log comes from the module: DEBUG.
+629	SIM	This log likely comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+630	DMI	The log comes from the module "SYS".
+631	CLIWEB	The log message "Unable to initialize. Reason %s." likely comes from the INIT module.
+632	CAPWAP	This log likely comes from the module "SYS".
+633	CAPWAP	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+634	MM	This log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+635	LWAPP	The log comes from the WLAN module.
+636	VMAN	WEB
+637	EMT	The log message "Unable to allocate semaphore" likely comes from the MALLOC module.
+638	SSHPM	The log comes from the PMALLOC module.
+639	OSAPI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+640	OSAPI	The log comes from the DEBUG module.
+641	CMCC	The log comes from the module "IOXMGR".
+642	SSHPM	This log likely comes from the SSLMGR module.
+643	BONJOUR	The log comes from the CMCC module.
+644	ISSU	The log comes from the ISSU module.
+645	DX	The log message "Node create received for non key node %d %d" likely comes from the CMCC module.
+646	ETHOIP	This log comes from the module LWAPP.
+647	KEYSTORE	This log comes from the ISSU module.
+648	WPS	The log comes from the SECURITY module.
+649	PEM	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+650	CLI	The log "MSG_TRACEBACK" comes from the DEBUG module.
+651	SIM	This log comes from the LAG module.
+652	EMWEB	WEB
+653	DHCP	The log comes from the DHCP module.
+654	PMAN	The log comes from the module "SYS".
+655	SIM	The log comes from the VLAN module.
+656	DHCP	DHCP
+657	EMWEB	The log "failed to create the sleeping client timer" likely comes from the WLAN module.
+658	PEM	The log "simMsPortChange Error in queuing pem message" likely comes from the SIM module.
+659	DTL	The log "MSG_TRACEBACK" comes from the DEBUG module.
+660	IM	The log comes from the IOXMGR module.
+661	PEM	The log comes from the DEBUG module.
+662	CONFIGSYNC	The log comes from the CONFIGSYNC module.
+663	EPM	The log comes from the POLICY module.
+664	SSHPM	The log comes from the PEM module.
+665	CCX	This log comes from the WLAN module.
+666	CAPWAP	The log comes from the module CMCC.
+667	WPS	The log comes from the SECURITY module.
+668	SIM	This log comes from the WLCNGBOOT module.
+669	APF	This log comes from the module "DBMS" (Database Management System).
+670	CMRP	The log comes from the ISSU module.
+671	SYSHW	This log likely comes from the module named "IOXMGR".
+672	APF	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+673	UIPEER	The log comes from the module "SYS".
+674	SSHPM	The log comes from the LOGGER module.
+675	BROFFU	The log comes from the module "PBUF" (Packet Buffer).
+676	OSAPI	The log message "Unable to start ICMP ping to host %s. %s" likely comes from the SYS module.
+677	MM	This log comes from the WLAN module.
+678	BONJOUR	The log comes from the BONJOUR module.
+679	OSAPI	The log comes from the OS module.
+680	OPENDNS	The log comes from the OPENDNS module.
+681	DC	The log message "total checks %d exceeds the max supported %d." likely comes from the module CMEM (Check Memory).
+682	AAA	The log comes from the SECURITY module.
+683	AAA	This log likely comes from the WLAN module.
+684	OSAPI	The log message "Time Drift Detected in %s Task %d - %d = %d." likely comes from the TIME module.
+685	SYSTEM	This log comes from the DTLS module.
+686	NMSP	The log message "%s Failed to create %s" is likely from the ERROR module.
+687	MM	The log "Failed to register callback for interface changes" likely comes from the module "SYSNET" (System Networking).
+688	AUTOINST	The log comes from the AUTOINST module.
+689	ETHOIP	Module: ETHOIP
+690	SSHPM	This log likely comes from the WLAN module.
+691	DMI	This log comes from the CMCC module.
+692	DHCP	This log message likely comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+693	RMGR	Module: ISSU
+694	RRC	The log "Failed to find an admission request" likely comes from the RRM (Radio Resource Management) module.
+695	SYSTEM	This log likely comes from the CONFIGSYNC module.
+696	LWAPP	The log message "Waiting for %d APs to complete their Pre-Download Image - For scheduled autoreboot" likely comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+697	LWAPP	This log comes from the WLAN module.
+698	LMRP	The log comes from the SYS module.
+699	LWAPP	The log comes from the ETHOIP module.
+700	LWAPP	This log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+701	LWAPP	The log comes from the LWAPP module.
+702	CMRP	The log comes from the module "SYSHW" (System Hardware).
+703	SSHPM	This log likely comes from the UIPEER module.
+704	PEM	The log comes from the PEM module.
+705	APF	This log likely comes from the WLAN module.
+706	APF	This log comes from the WLAN module.
+707	PEM	The log comes from the PEM module.
+708	SUBSYS	This log likely comes from the CMEM module.
+709	AAA	This log comes from the WLAN module.
+710	SSHPM	The log comes from the SSHPM module.
+711	IM	The log comes from the UIPEER module.
+712	SSHPM	The log comes from the POLICY module.
+713	APF	The log comes from the APF module.
+714	SSHPM	The log "Cannot give semaphore %s" likely comes from the OSAPI module.
+715	APF	The log comes from the SEC module.
+716	LWAPP	The log comes from the WLAN module.
+717	OSAPI	The log comes from the module: SYS
+718	IM	The log comes from the IOXMGR module.
+719	VMAN	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+720	CONFIGSYNC	The log comes from the module "APF" (Access Point Framework).
+721	LICENSE	This log comes from the KEYSTORE module.
+722	FMANFP	This log comes from the SXP (Security Group Tag Exchange Protocol) module.
+723	MALLOC	The log comes from the DEBUG module.
+724	PMALLOC	Module: MALLOC
+725	BOOTP	The log comes from the DEBUG module.
+726	SYSTEM	The log comes from the DEBUG module.
+727	PEM	The log comes from the PEM module.
+728	SSHPM	This log likely comes from the module "SYS".
+729	SIM	The log comes from the module "OOM" (Out of Memory).
+730	SPECTRUM	The log message "Unknown message type %d received for processing." likely comes from the module DEBUG.
+731	DMI	The log comes from the CLI module.
+732	LICENSE	This log likely comes from the UPDATE module.
+733	LWAPP	The log comes from the TIME module.
+734	DEBUG	This log likely comes from the module "WIDS" (Wireless Intrusion Detection System) as it mentions troubleshooting information for MAC addresses, which is relevant to wireless network security and monitoring.
+735	VMAN	The log comes from the HA module.
+736	ETHOIP	ETHOIP
+737	DMI	The log comes from the SSHPM module.
+738	APF	The log comes from the AAA module.
+739	PEM	WLAN
+740	IMGR	The log comes from the FIPS module.
+741	INIT	This log likely comes from the "FMANRP" module.
+742	MM	This log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+743	BOOT	The log comes from the IOS module.
+744	CCX	The log "Unable to load L2ROAM configuration" likely comes from the WLAN module.
+745	CAPWAP	The log comes from the CAPWAP module.
+746	DBAL	The log message "MQIPC advance error [%s] reader [%s]" likely comes from the module named MBOX.
+747	OSAPI	The log comes from the SYS module.
+748	CAPWAP	The log comes from the CAPWAP module.
+749	BONJOUR	This log likely comes from the PKTLOG module.
+750	LICENSE	The log comes from the EAP module.
+751	CAPWAP	WLAN
+752	INIT	SSLVPNMGR
+753	APF	This log likely comes from the WLAN module.
+754	HREAP	The log comes from the WLAN module.
+755	PKTLOG	The log comes from the DEBUG module.
+756	UPDATEIP	The log comes from the UPDATEIP module.
+757	OSAPI	This log likely comes from the module "SYS".
+758	DHCP	The log comes from the DHCP module.
+759	LWAPP	The log comes from the UI module.
+760	WPS	The log comes from the SECURITY module.
+761	UPDATE	This log comes from the CONFIGSYNC module.
+762	SYSTEM	The log message "Invalid buffer length %u. Internal system error." likely comes from the module BIPCMGR.
+763	APF	This log likely comes from the RRM (Radio Resource Management) module.
+764	BONJOUR	The log comes from the BONJOUR module.
+765	CMRP	The log comes from the CHASFS module.
+766	DMI	The log comes from the CLI module.
+767	CMCC	Module: IOS
+768	CMRP	Module: ISSU
+769	LMRP	Module: CHASFS
+770	DTL	The log comes from the module SNMP.
+771	MM	This log likely comes from the SSLVPNMGR module.
+772	OSAPI	The log "Failed to close file" likely comes from the module FILE.
+773	ETHOIP	This log comes from the module LWAPP.
+774	NIM	The log message "Failed to create the task %s" likely comes from the TASK module.
+775	MM	This log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+776	BOOTP	This log likely comes from the module "SYSNET" (System Networking).
+777	NIM	This log likely comes from the DEBUG module.
+778	DTL	The log "MSG_TRACEBACK" comes from the DEBUG module.
+779	ETHOIP	ETHOIP
+780	DTL	This log likely comes from the WLAN module.
+781	EMWEB	The log comes from the SSHPM module.
+782	ACL	The log comes from the DEBUG module.
+783	APF	This log comes from the WIDS module.
+784	REGISTRY	The log comes from the CMCC module.
+785	RRC	This log likely comes from the DHCP module.
+786	LICENSE	The log comes from the LICENSE module.
+787	APF	This log likely comes from the WLAN module.
+788	APF	The log comes from the module "SEC" (Security).
+789	SIM	This log comes from the WLAN module.
+790	OSAPI	DHCP"
+791	EMWEB	The log "caught sig int in redirect thread" likely comes from the module "SYS".
+792	LWAPP	CMCC
+793	MM	The log comes from the WLAN module.
+794	APF	The log "MSG_TRACEBACK" comes from the DEBUG module.
+795	SMAN	The log comes from the module: UI.
+796	SSHPM	This log likely comes from the KEYSTORE module.
+797	BOOTP	This log likely comes from the module DHCP.
+798	CAPWAP	This log likely comes from the module "CAPWAP" (Control and Provisioning of Wireless Access Points).
+799	LICENSE	The log comes from the module "WLCNGBOOT".
+800	SSHPM	KEYSTORE
+801	UIPEER	The log comes from the module "UIPEER".
+802	STACKMGR	The log comes from the STACKMGR module.
+803	STACKMGR	The log comes from the STACKMGR module.
+804	BCRDU	This log comes from the PATCH module.
+805	LWAPP	This log comes from the WLAN module.
+806	LICENSE	The log comes from the module CMCC.
+807	LWAPP	The log comes from the APF module.
+808	APF	The log comes from the WIDS (Wireless Intrusion Detection System) module.
+809	OSAPI	The log comes from the module named "SYS".
+810	MM	The log comes from the ICMP module.
+811	APF	The log comes from the SECURITY module.
+812	RFID	RFID
+813	AAA	Module: AAA
+814	EPM	The log comes from the POLICY module.
+815	LWAPP	The log comes from the LOG module.
+816	APF	The log comes from the WLAN module.
+817	DTLS	This log likely comes from the ALARM module.
+818	RMGR	The log message "Unable to start ICMP ping to host %s. %s" likely comes from the SYS module.
+819	ETHOIP	Module: ETHOIP (Ethernet-over-IP)
+820	DHCP	The log "Unable to delete the address on interface" likely comes from the module IPSTAT.
+821	APF	This log likely comes from the EAP module.
+822	SIM	The log comes from the LAG (Link Aggregation) module.
+823	MIRROR	MIRROR
+824	VMAN	The log comes from the CMCC module.
+825	CMCC	The log comes from the module DMI (Desktop Management Interface).
+826	OSAPI	The log comes from the module named "SYS".
+827	UPDATE	The log comes from the module "FLASH".
+828	MM	The log comes from the WLAN module.
+829	MM	The log comes from the WLAN module.
+830	APF	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+831	CMCC	The log comes from the CHASFS module.
+832	DSJIB	The log comes from the DSJIB module.
+833	BCAST	This log likely comes from the WLAN module.
+834	IAPP	The log comes from the DEBUG module.
+835	SYSTEM	This log likely comes from the SSLVPNMGR module.
+836	CLIWEB	WEB
+837	APF	This log comes from the WLAN module.
+838	SIM	The log message "Physical port %d is up!." likely comes from the module "SYSNET".
+839	MM	WLAN
+840	CHKPT	The log comes from the CMCC module.
+841	DHCP	The log comes from the DHCP module.
+842	SERVICES	This log comes from the FRU module.
+843	SSHPM	The log comes from the PMALLOC module (Policy Manager Allocation).
+844	AAA	This log message likely comes from the UI module.
+845	LWAPP	This log comes from the WLAN module.
+846	MM	This log likely comes from the WIDS (Wireless Intrusion Detection System) module.
+847	LWAPP	The log comes from the LWAPP module.
+848	SSHPM	This log likely comes from the WEB module.
+849	LWAPP	The log comes from the CCX module.
+850	PEM	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+851	SISF	The log message "Entry created %s" most likely comes from the DBMS module.
+852	INIT	The log comes from the module "PRINTF".
+853	OSAPI	This log likely comes from the ROUTING module.
+854	SSHPM	The log comes from the POLICY module.
+855	CAPWAP	This log likely comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+856	OSAPI	 module.
+857	CAPWAP	This log likely comes from the WLAN module.
+858	APF	The log comes from the module "WIDS" (Wireless Intrusion Detection System).
+859	LWAPP	The log comes from the WLAN module.
+860	SPECTRUM	The log comes from the OSAPI module.
+861	HREAP	The log "MSG_TRACEBACK" comes from the DEBUG module.
+862	APF	This log comes from the WLAN module.
+863	SSHPM	The log comes from the KEYSTORE module.
+864	RRM	RRM (Radio Resource Management)
+865	IM	VMAN
+866	MIRROR	The log comes from the AVL module.
+867	INIT	The log comes from the LICENSE module.
+868	USMDB	The log comes from the TIME module.
+869	RRC	This log likely comes from the module "WIDS" (Wireless Intrusion Detection System) as it is related to network monitoring and security.
+870	DTL	The log comes from the DEBUG module.
+871	SXP	DHCP
+872	VMAN	WEB
+873	PPTP	The log comes from the PPTP module.
+874	DTLS	The log comes from the DTLS module.
+875	HIFN	The log "MSG_TRACEBACK" comes from the DEBUG module.
+876	SXP	The log comes from the CTS module.
+877	PBUF	The log comes from the DEBUG module.
+878	CAPWAP	This log comes from the module "WLCNGBOOT".
+879	CMRP	This log comes from the IOS module.
+880	CAPWAPPING	The log comes from the CAPWAPPING module.
+881	APF	This log likely comes from the EPM (Encryption Policy Manager) module.
+882	USMDB	This log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+883	NIM	The log comes from the module "IFMAP" (Interface Mapping).
+884	SIM	The log comes from the FILE module.
+885	BONJOUR	The log message "Queue does not exist %s" likely comes from the module named LOGGER.
+886	SECTUN	SECTUN
+887	AAA	The log comes from the DEBUG module.
+888	IM	The log comes from the LOGGER module.
+889	SSHPM	The log comes from the SSHPM module.
+890	SMAN	This log comes from the CLI module.
+891	CAPWAP	The log comes from the BONJOUR module.
+892	SYSTEM	The log comes from the MALLOC module.
+893	SSHPM	The log message "Unable to allocate memory for %s key" likely comes from the MALLOC module.
+894	ISSU	The log comes from the PACKAGE module.
+895	AAA	The log comes from the UI module.
+896	CMFP	The log message likely comes from the MODULE module.
+897	LWAPP	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+898	TUNNEL	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+899	MM	SSHPM
+900	LWAPP	The log comes from the LWAPP module.
+901	LWAPP	WLAN
+902	DHCP	This log likely comes from the SYS module.
+903	CAPWAP	The log comes from the WLAN module.
+904	HREAP	This log comes from the WIDS module.
+905	AAA	The log "MSG_SECURITY" likely comes from the module "SEC" (Security).
+906	CMRP	This log likely comes from the SYS module.
+907	CCX	The log "Created CCX RM Task" comes from the CCX module.
+908	ETHOIP	ETHOIP
+909	CMRP	The log comes from the LICENSE module.
+910	MM	This log likely comes from the module "SYS".
+911	CAPWAP	This log comes from the module "CAPWAP" (Control and Provisioning of Wireless Access Points).
+912	CMRP	This log likely comes from the module "SYS" (System).
+913	CHKPT	Module: OOM (Out of Memory)
+914	VMAN	The log comes from the module "IOXMGR".
+915	MM	The log comes from the DEBUG module.
+916	STACKMGR	The log comes from the module "SYS".
+917	CMRP	This log comes from the module "CHASFS" (Chassis File System).
+918	PKTDEBUG	The log comes from the PKTLOG module.
+919	OSAPI	The log comes from the module named "SYS".
+920	LWAPP	The log comes from the module "KEYSTORE".
+921	APF	The log comes from the DEBUG module.
+922	SYS	This log comes from the APF module.
+923	LMRP	The log comes from the module "SYSHW" (System Hardware).
+924	PTHUTIL	The log message "Timer %s update of %s not updated %d" likely comes from the TIMER module.
+925	SSHPM	The log comes from the WCP module.
+926	WLAN	This log comes from the DHCP module.
+927	LWAPP	This log likely comes from the LWAPP module.
+928	APF	This log likely comes from the VLAN module.
+929	CMCC	This log comes from the CONFIGSYNC module.
+930	SSHPM	The log comes from the PMALLOC module (Policy Manager Allocation).
+931	CMFP	The log comes from the SYS module.
+932	LWAPP	The log comes from the LRADSIM module.
+933	SIM	This log comes from the module "WIDS" (Wireless Intrusion Detection System).
+934	APF	The log comes from the module "AVL" (Auto-Containment).
+935	PPTP	The log "Unable to open listener socket." likely comes from the module "SYSNET".
+936	CHASFS	Module: CHASFS
+937	BCAST	BCAST (Broadcast)
+938	UPDATE	The log comes from the module "SYS".
+939	IM	VMAN
+940	SIM	Module: LICENSE
+941	SYSTEM	The log comes from the module "MBOX".
+942	DX	This log comes from the CMEM module.
+943	CCX	This log comes from the WLAN module.
+944	CHKPT	This log comes from the module CHKPT (Checkpoint).
+945	LICENSE	This log comes from the WIDS module.
+946	MM	The log comes from the MM module.
+947	CMCC	CHASFS
+948	LOG	The log comes from the module "SYS".
+949	CMCC	SYSHW
+950	CMRP	The log comes from the IPC module.
+951	CCX	Module: CCX
+952	MM	The log comes from the WLAN module.
+953	PMAN	The log comes from the module "SYS".
+954	BOOT	The log comes from the ISSU module.
+955	APF	The log comes from the WARP module.
+956	BASE	The log comes from the module "LIF".
+957	DHCP	The log message "Registering IP on mscb failed for station%02x %02x %02x %02x %02x %02x" likely comes from the WLAN module.
+958	NIM	The log comes from the TRAPMGR module.
+959	LWAPP	This log comes from the module "WIDS" (Wireless Intrusion Detection System).
+960	APF	WLAN
+961	CHKPT	CHKPT
+962	APF	The log likely comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+963	GNMIB	The log comes from the MODULE: SYS.
+964	EMWEB	The log comes from the SECURITY module.
+965	VMAN	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+966	IPSEC	The log comes from the IPSEC module.
+967	STACKMGR	The log comes from the module "SYS".
+968	OSAPI	The log comes from the DEBUG module.
+969	APF	RRC (Radio Resource Control)
+970	UPGRADE	The log comes from the module "WLCNGBOOT" (Wireless LAN Controller Next Generation Boot).
+971	LWAPP	The log comes from the module "CAPWAP".
+972	WEB	This log likely comes from the module "DBMS" (Database Management System) as it indicates a failure in searching for a specific string within a database.
+973	DMI	CONFIGSYNC
+974	CMRP	The log comes from the POWER module.
+975	APF	The log comes from the DEBUG module.
+976	SSHPM	The log comes from the PMAN (Policy Manager) module.
+977	RRM	The log comes from the WLAN module.
+978	SXP	The log comes from the CTS module.
+979	PMAN	The log comes from the DEBUG module.
+980	OSAPI	DEBUG
+981	DTLS	This log message likely comes from the module "SYS".
+982	SYSTEM	The log comes from the module "OOM" (Out of Memory).
+983	CMRP	Module: IOS
+984	RFID	The log comes from the RFID module.
+985	DHCP	DHCP
+986	TFTP	TFTP
+987	INIT	The log message "Failed to open the file %s." most likely comes from the FILE module.
+988	OSAPI	This log likely comes from the module "SYSNET" (System Networking).
+989	APF	The log likely comes from the WLAN module.
+990	NIM	The log comes from the module "SYS".
+991	DMI	The log comes from the module "SYSNET".
+992	OSAPI	The log comes from the OSAPI module.
+993	OSAPI	TRAPMGR
+994	SYSPLAT	The log comes from the module "SYSNET".
+995	RMGR	This log likely comes from the STATE module.
+996	CMRP	The log comes from the FIPS module.
+997	LWAPP	The log comes from the WLAN module.
+998	IM	The log comes from the IOXMGR module.
+999	PEM	The log comes from the PEM module.
+1000	SECTUN	SECTUN
+1001	DTLS	This log comes from the WLAN module.
+1002	DTL	The log comes from the DEBUG module.
+1003	APF	This log comes from the WLAN module.
+1004	DTL	The log comes from the module "EMD" (Enhanced Network Driver).
+1005	MX	This log likely comes from the THERMAL module.
+1006	CMCC	The log comes from the module "IOXMGR".
+1007	THERMAL	The log comes from the THERMAL module.
+1008	NMSP	The log comes from the NMSP module.
+1009	APF	Module: MALLOC
+1010	DTL	The log "MSG_TRACEBACK" comes from the DEBUG module.
+1011	OSAPI	The log comes from the ROUTE module.
+1012	OSAPI	The log comes from the SYSTEM module.
+1013	CMCC	This log likely comes from the FPGA module.

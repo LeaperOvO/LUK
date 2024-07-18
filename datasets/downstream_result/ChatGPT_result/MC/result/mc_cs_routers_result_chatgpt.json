@@ -1,0 +1,2421 @@
+0	IPCGRP	The log comes from the module SYS.
+1	IPSEC	The log comes from the IPSEC module.
+2	SNASW	The log comes from the module CCM (Call Control Manager).
+3	AAAA	The log comes from the NOMEMORY module.
+4	SNASW	The log comes from the LINK module.
+5	MCASTRED	The log comes from the module SYNC.
+6	MCASTRED	Module: MRIB
+7	SYS	The log comes from the module INIT.
+8	DIALER	This log comes from the IFMGR module.
+9	GDOI	The log comes from the module DSCCLOCK.
+10	FNF	The log comes from the SNMP module.
+11	SYS	Module: MEM (Memory Management)
+12	TEMPLATE	The log comes from the TEMPLATE module.
+13	IPSEC	Without the specific log message provided, it is not possible to determine which module it comes from.
+14	SIBYTE	The log comes from the module DSMP.
+15	CONFIG	The log comes from the module LOGGER.
+16	SONETMIB	The log comes from the SONETMIB module.
+17	ISSU	The log comes from the module IDBMAN.
+18	PIM	The log comes from the SRP module.
+19	AUTOUPGRADE	The log comes from the HTTP module.
+20	DYNCMD	The log comes from the module of "LDP" (Label Distribution Protocol).
+21	MCASTRED	The log comes from the ISSU (In-Service Software Upgrade) module.
+22	LCMDC	The log "Trunk laser degrade" likely comes from the TRUNK module.
+23	ENVMON	Module: ENVIRONMENT
+24	SYS	The log comes from the module DSCEXTCLK.
+25	LDP	The log comes from the CLEAR module.
+26	MDT	It is not possible to determine which module the log comes from without more specific information.
+27	PNP	The log comes from the PNP module.
+28	ACE	The log comes from the IDS module.
+29	SYS	The log comes from the module NOMEMORY.
+30	SIPSPA	The log comes from the module DSIPPF.
+31	BGP	The log comes from the module RM (Resource Manager).
+32	GDOI	The log comes from the GDOI module.
+33	NAT	The log comes from the IDBMAN module.
+34	SYS	The log comes from module BUFCAP.
+35	FLEXVPN	The log comes from the LOGGER module.
+36	KEYSTORE	The log comes from the KEYSTORE module.
+37	SYS	The log comes from the module: SYS.
+38	IPACCESS	The log comes from the module RPC.
+39	DC	The log comes from the SYS module.
+40	GDOI	This log comes from the GDOI module.
+41	SIBYTE	The log comes from the module ETHCNTR.
+42	REGISTRY	The log comes from the module [RPC].
+43	TUNSS	The log comes from the PARSER module.
+44	FLASH	The log comes from the module "FLASH".
+45	CTS	The log comes from the LOGGER module.
+46	PKI	The log comes from the PKI module.
+47	LISP	LISP
+48	SYS	Module: CLOCK
+49	CELLWAN	The log comes from the AAA module.
+50	GK	The log comes from the module "LCON" (Local Connection).
+51	VQPCLIENT	VLAN
+52	IPRT	The log comes from the module "RPLIC".
+53	PKI	The log comes from the module: HTTP_REDIRECT
+54	SYS	The log comes from the CRYPTO module.
+55	IGMP	The log comes from the DNS module.
+56	SNASW	The log comes from the module AAA (Authentication, Authorization, and Accounting).
+57	CFT	The log comes from the module DSMIBPROV.
+58	VPDN	The log comes from the AUTHMGR module.
+59	RTT	The log comes from the IPNAT module.
+60	ACR	The log comes from the ACR module.
+61	OIR	TRANSCEIVER
+62	PA	The log comes from the module SPAWBCMTS.
+63	AUTOSEC	The log comes from the module AUTOSEC.
+64	LFD	The log comes from the ARP module.
+65	SYS	The log comes from module SYS.
+66	SNASW	The log comes from the module NOMEMORY.
+67	DIAG	The log comes from module ENSP.
+68	SYS	The log comes from the SYS module.
+69	DYNCMD	The log comes from the PARSER module.
+70	DBCONN	The log comes from the AUTHMGR module.
+71	CRYPTO	The log comes from the module "CPPHA" (CPP High Availability).
+72	PM	This log comes from the CEF module.
+73	IVR	The log comes from the LOGGER module.
+74	GDOI	The log comes from the module "HUNTGRP".
+75	SYS	The log comes from the module CPPEXMEM.
+76	DSMP	The log comes from the module "EVENTLIB".
+77	MKA	The log comes from the MKA module.
+78	SYS	The log comes from the module "DSG" (Dynamic Services Gateway).
+79	SYS	The log comes from the IPACCESS module.
+80	IPFLOW	The log comes from the QOSMGR module.
+81	ISSU	The log message "Endpoint is registered already" likely comes from the module called "AAA" (Authentication, Authorization, and Accounting).
+82	SYS	The log comes from the module LSD (Nonvolatile storage).
+83	GDOI	The log comes from the module GDOI (Group Domain of Interpretation).
+84		The log comes from the module LOGGER.
+85	FW	The log comes from the VPDN module.
+86	NP	The log comes from the module "CPPEXMEM" (Control buffer pool could not be created).
+87	DMVPN	The log comes from the DMVPN module.
+88	QM	The log comes from the module "QOS" (Quality of Service).
+89	SIP	This log comes from the LCRED module.
+90	RPLIC	The log comes from the module PHY.
+91	SYS	The log comes from the module LOGGER.
+92		The log likely comes from the SYS module.
+93	LFD	The log comes from the module IDS.
+94	DSG	The log comes from the DSIP module.
+95	CPPOSLIB	The log comes from the module called "CBRCCE" (CBUS).
+96	BSTUN	The log comes from the VPN module.
+97	IOMD	The log comes from the module CPPEXMEM.
+98	AUTOUPGRADE	The log comes from the module: MEM
+99	LCMDC	Chassis
+100	SYS	The log comes from the LOGGER module.
+101	BSTUN	The log comes from the module BUFCAP.
+102	SYS	Without the specific log content provided, it is not possible to determine which module the log comes from.
+103	SYS	The log comes from the module DSIP.
+104	MCASTRED	The log comes from module SYNC.
+105	MSPI	The log comes from the MSPI module.
+106	QLLC	The log comes from the module "ENET" (Ethernet).
+107	LLC	The log comes from the LLC module.
+108	SYS	The log comes from the SPANTREE module.
+109	LIBTIFF	The log comes from the module "VOIPFIB" (Voice over IP Forwarding Information Base).
+110	RMGR	The log message "Out of tcam resources to execute command" likely comes from the module called IPNAT.
+111	FW	The log comes from the MPLSOAM module.
+112	LCON	The log comes from the module CPPOSLIB.
+113	ENVIRONMENT	The log comes from the LOGGER module.
+114	MPLSOAMDPM	The log comes from the module "IP".
+115	SSSMGR	The log comes from the AAA module.
+116	RFS	The log comes from the RFS module.
+117	QOSMGR	The log comes from the module "PHY" (Physical Layer).
+118	SYS	The log comes from the module UBRCCE.
+119	ISSU	The log comes from the TRANSCEIVER module.
+120	AUTOUPGRADE	Module: AUTOUPGRADE
+121	DUAL	The log comes from the TIMER module.
+122	ISSU	The log comes from the module UNEXPECTEDMESSAGE.
+123	CTS	The log comes from the SSH module.
+124	DSIP	The log "Failed to get packet buffer" likely comes from the module BERT (Bit Error Rate Test).
+125	BEEP	The log comes from the LOGGER module.
+126	LSD	The log comes from the UTIL module.
+127	EDSP	The log comes from the VOIPFIB module.
+128	MROUTE	Module: QOSMGR
+129	RFSW	The log comes from the RFSW module.
+130	ILPOWER	The log comes from the LLIST module.
+131	SCHED	The log comes from the MEMSCAN module.
+132	MPLSOAMDPM	MPLSOAMDPM
+133	IPACCESS	The log comes from the IPACCESS module.
+134	LICENSE	The log comes from the module DSIPPF.
+135	PGM	The log comes from the PGM module.
+136	SYS	The log comes from the MEM module.
+137	SPE	The log comes from the SPE module.
+138	HCCP	The log comes from the HCCP module.
+139	REP	The log comes from the VLAN module.
+140	POSLC	The log comes from the POSLC module.
+141	SYS	The log comes from the module "SYS" (System).
+142	DMTDSL	The log comes from the DMTDSL module.
+143	RADIUS	The log comes from the module UNEXPECTEDMESSAGE.
+144	CTS	The log comes from the CTS (Cisco TrustSec) module.
+145	FDDI	The log comes from the IF module.
+146	IPE	The log comes from the ACLMGR module.
+147	IP	The log comes from the IP module.
+148	FIB	Module: LCINFO
+149	MCASTRED	The log comes from the PIM module.
+150	TCMSP	The log comes from the TCMSP module.
+151	LCMDC	The log comes from the module named "UNEXPECTEDEVENT".
+152	VPDN	The log comes from the module: HA (High Availability)
+153	SYS	The log comes from the TTYDRIVER module.
+154	ENVM	The log comes from the ENVIRONMENT module.
+155	CGC	The log comes from the PARSER module.
+156	PWDKEYTRUNC	The log comes from the module UNEXPECTEDMESSAGE.
+157	RSVP	The log comes from the RSVP module.
+158	SNASW	The log comes from the module LFD (Line Failure Detection).
+159	PKI	The log comes from the PKI module.
+160	SIGSM	The log comes from the module CPPOSLIB.
+161	SYS	Module: CPPEXMEM
+162	BUFCAP	The log comes from the DSCCLOCK module.
+163	CWPAATOM	The log comes from the module MPLS.
+164	LAPB	The log comes from the module LANCE.
+165	CTS	The log comes from the CPPOSLIB module.
+166	TR	The log comes from the TTY module.
+167	PARSER	The log comes from the module "CONFIG".
+168	SYS	The log comes from the module ETHCNTR.
+169	ADJ	NOMEMORY
+170	CPPDRV	The log comes from the module CPPDRV.
+171	ETHCNTR	The log comes from the RAWSOCKET module.
+172	APPFW	Module: APPFW
+173	LICENSE	The log comes from the module CRYPTO.
+174	SYS	The log comes from the module: PRP
+175	PBR	This log comes from the BGP module.
+176	ISSU	The log comes from the module EIO.
+177	ENVM	The log comes from the PHY module.
+178	SYS	The log comes from the BDOMAIN module.
+179	VSLP	The log "Can't create packet [chars]" likely comes from the module called IPNAT.
+180	MROUTE	REQGRP module.
+181	DSCCLOCK	The log comes from the DSCCLOCK module.
+182	MCASTRED	The log comes from the VPDN module.
+183	LSLIB	The log comes from the [chars] module.
+184	SNMP	The log comes from the FILESYS module.
+185	MPLS	The log comes from the module "ATM".
+186	OSPF	The log comes from the CPPHA module.
+187	SYSCTLR	The log comes from the module CPPHA.
+188	LCMDC	The log comes from the TRUNK module.
+189	INVEVENT	The log comes from the module called "ERRMSG_NOFLAGS".
+190	CBUS	The log comes from the module "CONTROLLER".
+191	GBIC	The log comes from the GBIC module.
+192	SYS	The log comes from the module CPPDRV.
+193	UNAWAKABLE	The log "ERRMSG_NOFLAGS" likely comes from the module "SYS" (System).
+194	HOOD	The log comes from the module FDDI.
+195	ENSP	This log comes from the AAA module.
+196	AAA	The log comes from the AAA module.
+197	DOSFS	The log comes from the FILE module.
+198	BSTUN	The log comes from the module CSMPI.
+199	MCASTRED	The log comes from the SYNC module.
+200	XOS	Module: XOS
+201	SYS	The log comes from the module NOMEMORY.
+202	MODEM	The log comes from the module "FMD" (Firmware Management Daemon).
+203	SNASW	The log comes from the module IDS (Intrusion Detection System).
+204	FNF	The log comes from the MMA module.
+205	CTOKEN	The log comes from the CTOKEN module.
+206	OSCP	The log comes from the LOGGER module.
+207	DYNCMD	The log comes from the module "APT" (Advanced Package Tool).
+208	RF	The log comes from the ERROR module.
+209	SEC	This log likely comes from the module "SEC" (Security).
+210	LB	The log comes from the module "VRRP" (Virtual Router Redundancy Protocol).
+211	LDP	This log comes from the BGP module.
+212	PASSWD	The log comes from the PASSWD module.
+213	POSLC	The log comes from the LOGGER module.
+214	SYS	The log comes from the module CMANRP.
+215	MODEM	The log comes from the MODEM module.
+216	OFP	The log comes from the LOGGER module.
+217	CELLWAN	The log comes from the module "DMVPN"
+218	SIP	The log comes from the SIP module.
+219	MEMSCAN	The log comes from the module "MEMSCAN"
+220	SPA	The log comes from the ENVIRONMENTAL module.
+221	NHRP	Module: IPNAT
+222	SPE	The log comes from the SPE module.
+223	SYS	The log comes from the module MAXMSGSIZE.
+224	CONTROLLER	DSCREDCLK
+225	RM	The log comes from the module AAA.
+226	ENVIRONMENT	The log comes from the LOGGER module.
+227	LCMDC	The log comes from the SONET module.
+228	SSLVPN	The log comes from the module CFT (Common Framework).
+229	DC	The log "Failed to disable DC" likely comes from the DC module.
+230	VPDN	The log comes from the RADIUS module.
+231	PNP	The log comes from the module VUDI.
+232	TENSRFSM	The log "Unable to apply event 0x%08X" likely comes from the EVENT module.
+233	TUN	The log comes from the module DSMP.
+234	SIP	The log comes from the EVENTLIB module.
+235	SMANRP	The log comes from the module DSMP.
+236	LAT	The log comes from the module "LCINFO" (Line Card Information).
+237	MCASTRED	Module: MDT
+238	SNASW	The log comes from the SNA Switch module.
+239	ISSU	The log comes from the SSLVPN module.
+240	CLNS	The log comes from the ISIS module.
+241	CBUS	The log comes from the module PHY (Physical Layer).
+242	RMGR	The log comes from the FIB module.
+243	VSLP	The log comes from the module ETHERCHANNEL.
+244	VLAN	The log comes from the VLAN module.
+245	SYS	The log comes from the TUNSS module.
+246	SPE	The log comes from the SPE module.
+247	LCLOG	The log comes from the LCLOG module.
+248	CBUS	The log comes from the module "IF" (Interface).
+249	LICENSE	The log comes from the module IP.
+250	CLNS	The log comes from the ISIS module.
+251	SDLC	The log comes from the module "PPP" (Point-to-Point Protocol).
+252	FILESYS	The log comes from the DSIPPF module.
+253	UTD	The log comes from the PACKET module.
+254	LCINFO	The log comes from the module "LCINFO" (Line Card Information).
+255	MCASTRED	MLRIB
+256	STUN	The log comes from the VLAN module.
+257	NAT	The log comes from the module "BUFCAP" (Buffer Capacity).
+258	RTMGR	The log comes from the BGP module.
+259	QOSMGR	The log comes from the module: MEM (Memory Management)
+260	CI	Module: HA
+261	AAAA	The log comes from the AAA module.
+262	VOIPFIB	The log comes from the SYSCTLR module.
+263	NTI	The log comes from the NTI module.
+264	SYS	The log comes from the module "RESOURCE".
+265	IPCGRP	The log comes from the TTY module.
+266	FALLBACK	The log comes from the FLOWMON module.
+267	ARP	The log comes from the ARP module.
+268	QOSMGR	This log likely comes from the module called "QOSMGR" (Quality of Service Manager), as it is responsible for managing bandwidth and ensuring that it is allocated efficiently and effectively.
+269	CTS	 likelihood, the log comes from the module "IPSEC" (Internet Protocol Security) as it is related to security protocols and negotiations.
+270	SNASW	The log comes from the module IDMNGR.
+271	IPC	The log comes from the IPC module.
+272	PIM	The log comes from the PIM module.
+273	SPA	The log comes from the SPA module.
+274	LCMDC	The log comes from the ALARM module.
+275	SYS	The log comes from the CONFIGURATION module.
+276	QOS	The log comes from the EVENT module.
+277	DUAL	The log comes from the module IDBMAN.
+278	ISDN	The log comes from the module "CWS" (Channel Watchdog Service).
+279	CI	The log comes from the module TTY.
+280	SYS	The log comes from the module "WATCHDOG".
+281	SYS	The log comes from the module "MEM" (Memory).
+282	RADIO	The log comes from the module "RFS" (Remote File System).
+283	OTNMGR	This log comes from the IFMGR module.
+284	ENVIRONMENTAL	The log comes from the ENVIRONMENT module.
+285	SYS	The log comes from the module PID.
+286	SNASW	The log comes from the module MRP (Multicast Routing Protocol).
+287	RBM	The log comes from the LOGGER module.
+288	NAT	The log comes from the module IDS (Intrusion Detection System).
+289	FASTHELLO	The log comes from the FASTHELLO module.
+290	SNASW	The log comes from the DNS module.
+291	MAILBOX	The log comes from the MAILBOX module.
+292	CONSISTENCY	The log comes from the module ERRMSG.
+293	SONET	Without the specific log content provided, it is not possible to determine which module it comes from.
+294	OSPF	The log comes from the CHKPT module.
+295	QOSMGR	The log likely comes from the module called "MEM" (Memory Management).
+296	GDOI	The log comes from the GDOI module.
+297	CLUE	The log comes from the CLUE module.
+298	LCMDC	The log comes from the PHY module.
+299	FDDI	The log comes from the module MRIB (Multicast Routing Information Base).
+300	PKI	PKI
+301	DLR	Module: HCCP
+302	SYS	The log comes from the CONFIG module.
+303	SSSMGR	SSSMGR
+304	ALPS	The log comes from the module "RUDP" (Reliable User Datagram Protocol).
+305	OLM	The log comes from the LINK module.
+306	QOSMGR	The log comes from the module "QOSMGR" (Quality of Service Manager) as it involves a policy-map being detached, which is related to quality of service management.
+307	SPACP	The log comes from the SPACP module.
+308	CLUE	The log comes from the CLUE module.
+309	PKI	CRYPTO
+310	CSM	The log comes from the module VASI.
+311	TSP	Without the specific log content provided, it is not possible to determine which module the log comes from.
+312	SNASW	The log comes from the module BERT.
+313	ATM	The log comes from the ILMI module.
+314	DMB	The log comes from the [chars] module.
+315	PKI	The log comes from the PKI module.
+316	SRP	The log comes from the module "SRR".
+317	IPRT	The log comes from the IPRT (IP Routing) module.
+318	METOPT	The log comes from the module PLATFORM.
+319	SISF	The log message "Message dropped [chars]" likely comes from the module called ACLMGR (Access Control List Manager).
+320	EXTASSIGNER	The log comes from the EXTASSIGNER module.
+321	LCMDC	This log likely comes from the SONET module.
+322	AAA	The log comes from the module called "DSMP" (Data Services Management Protocol).
+323	ALPS	The log comes from the CIRCUIT module.
+324	IPC	The log comes from the module DSMIBPROV.
+325	MPLSOAM	SEC (Security)
+326	CONFIGURATION	The log comes from the LISP module.
+327	SIGNATURE	The log comes from the SIGNATURE module.
+328	ILPOWER	This log comes from the ILPOWER module.
+329	ISSU	The log comes from the module "LCRED" (Local Credential Management).
+330	PACKET	The log comes from the PACKET module.
+331	SNASW	The log comes from the TCP module.
+332	MDT	The log comes from the module [DBMS].
+333	VSLP	The log comes from the module DSIP.
+334	IPRT	The log comes from the module "ACE" (Access Control Entry).
+335	SYS	The log comes from the module "MEM" (Memory Management).
+336	RADIO	The log comes from the RADIO module.
+337	MCASTRED	The log comes from the EVPN module.
+338	PKI	The log "Trustpool Download failed" likely comes from the module PKI (Public Key Infrastructure).
+339	IVR	The log comes from the CONFIG module.
+340	FW	The log likely comes from the PACKET module.
+341	DSCCLOCK	Module: DSCCLOCK
+342	WCCP	The log comes from the ACLMGR module.
+343	QOSMGR	QOSMGR
+344	SYS	The log comes from the PROCESS module.
+345	BGP	The log comes from the BGP module.
+346	CELLWAN	from the module QOSMGR.
+347	CWS	The log comes from the CWS module.
+348	DOMAIN	The log comes from the SYS module.
+349	SYS	The log comes from the TTY module.
+350	IDS	The log comes from the IDS module.
+351	GPRSFLTMG	The log comes from the GTP module.
+352	SSP	The log comes from the SSP module.
+353	SMANRP	The log comes from the IPCOIR module.
+354	ERSPAN	The log comes from the ERSPAN module.
+355	TTY	The log comes from the module: RCMD
+356	MLDP	MLDP
+357	SYS	The log comes from the module DSCCLOCK.
+358	EIO	The log comes from the EIO module.
+359	SYS	The log message comes from the module "AC" (Access Control).
+360	SMRP	The log comes from the SMRP module.
+361	SYS	The log comes from the module DSMIB.
+362	SNASW	The log comes from the module IPDLC.
+363	SKINNYSECURESERVICE	The log comes from the module DSIP (Digital Signal Processor).
+364	ENVIRONMENT	The log comes from the HTTP module.
+365	APPFW	The log comes from the SIGNATURE module.
+366	PIM	The log comes from the module IDS.
+367	DYNCMD	The log comes from the TRANSCEIVER module.
+368	SYS	The log message comes from the TTYDRIVER module.
+369	VRRP	The log comes from the LOGGER module.
+370	AAAA	The log comes from the module called SLB (Server Load Balancer).
+371	SYS	Without the actual log message provided, it is not possible to determine which module it comes from.
+372	SYS	Module: NOMEMORY
+373	CRYPTO	The log comes from the IP module.
+374	FDDI	The log comes from the module CTOKEN.
+375	SNASW	The log comes from the DSM module.
+376	TUN	This log comes from the IPRT module.
+377	CRIMSON	The log comes from the MEMSCAN module.
+378	CTS	The log comes from the ACLMGR module.
+379	SNASW	The log comes from the LOGGER module.
+380	SPE	The log comes from the TTY module.
+381	SYS	The log comes from the module "MEM".
+382	ETC	The log comes from the ETHERCHANNEL module.
+383	MROUTE	MCASTRED
+384	RFS	The log comes from the RFS module.
+385	TXCONN	The log comes from the DLSWP module.
+386	ILPOWER	This log comes from the PHY module.
+387	MSMR	The log message "Map request received for EID but map server does not have reachability to any RLOCs" likely comes from the LISP (Locator/ID Separation Protocol) module.
+388	SNASW	The log comes from the module CPPOSLIB.
+389	SYS	Module: SYS
+390	MSMR	Module: LISP
+391	SSH	The log comes from the CPPHA module.
+392	MCASTRED	The log comes from the ISSU module.
+393	BDOMAIN	The log comes from the BRIMUX module.
+394	SNASW	The log comes from the module DSMP (Dynamic Service Management Protocol).
+395	SNMP	The log comes from the module "LCLOG".
+396	CLNS	The log comes from the ISIS module.
+397	DIALER	The log comes from the module LOGGER.
+398	SNASW	The log comes from the module CPPEXMEM.
+399	CRYPTO	The log comes from the module "CRYPTO".
+400	SYS	The log comes from the CONFIG module.
+401	IPCOIR	The log comes from the module IPCOIR.
+402	CPPDRV	The log comes from the CPPDRV module.
+403	NTI	The log comes from the NTI module.
+404	COMP	The log comes from the module "IF" (Interface).
+405	SYS	NOMEMORY
+406	QOSMGR	The log comes from the ACLMGR module.
+407	ACE	The log comes from the module DRP (crashdump retrieval).
+408	RTMGR	The log comes from the [DBMS] module.
+409	PLATFORM	The log comes from the SYS module.
+410	SYS	The log comes from the module "CPU".
+411	CLNS	This log comes from the KEYSTORE module.
+412	UTIL	The log comes from the MFIB module.
+413	AUDIT	The log comes from the module DOSFS.
+414	DBCONN	The log comes from the MPLS module.
+415	SYS	The log comes from the module PLATFORM.
+416	MPLS	The log comes from the MPLS module.
+417	SYS	NOMEMORY
+418	PKI	The log "Failed to resolve HOSTNAME/IPADDRESS [chars]" likely comes from the DNS module.
+419	DSPU	The log comes from the CLB module.
+420	DC	The log comes from the [PLATFORM] module.
+421	SYS	Without the specific log content provided, it is not possible to determine which module the log comes from.
+422	IPSEC	Without a specific log message provided, it is not possible to determine which module the log comes from.
+423	AT	The log comes from the module AUTORP.
+424	DLSWC	The log comes from the SYS module.
+425	DYNCMD	The log comes from the module DYNCMD.
+426	QOSMGR	The log comes from the QOS module.
+427	BRIMUX	The log comes from the BRIMUX module.
+428	CTS	The log comes from the module "CPPOSLIB".
+429	RAWSOCKET	The log comes from the RAWSOCKET module.
+430	AAA	The log comes from the AAA module.
+431	HD	The log comes from the DSCEXTCLK module.
+432	INVTRANS	The log ERRMSG_NOFLAGS comes from the module LOGGER.
+433	CLEAR	Module: CLEAR
+434	CBUS	The log comes from the MODULE: LCRED
+435	CBUS	The log comes from the module CBUS.
+436	CPPDRV	The log "Failed to initialize [chars]" likely comes from the INIT module.
+437	MEDIATRACE	The log comes from the EVENT module.
+438	PKI	The log comes from the PKI module.
+439	SENSORMGR	SENSORMGR
+440	GDOI	The log comes from the module GDOI (Group Domain of Interpretation).
+441	CCM	The log "High Availability Registration failed" likely comes from the module HSRP (Hot Standby Router Protocol).
+442	BGP	The log comes from the BFD module.
+443	DYNCMD	The log comes from the FILESYS module.
+444	NHRPSNMP	The log comes from the LDP module.
+445	PNP	The log comes from the PNP module.
+446	OSPF	The log comes from the OSPF module.
+447	MPLSOAM	The log comes from the LOGGER module.
+448	LICENSE	The log comes from the INFO module.
+449	WARMUPGRADE	The log comes from the module named "FLASH".
+450	SNASW	The log comes from the module ISDN.
+451	IP	The log comes from the module "CBERR" (Counter Block Error).
+452	QATM	The log "Cannot write the TCAM" comes from the module "ACL" (Access Control List)
+453	PLATFORM	The log comes from the TRANSCEIVER module.
+454	MCASTRED	The log comes from the ISSU module.
+455	SYS	The log comes from the module MEM.
+456	QOSMGR	The log comes from the QOSMGR module.
+457	UBRLCCOREDUMP	The log comes from module UBRLCCOREDUMP.
+458	SDP	The log comes from the module called APPFW (Application Firewall).
+459	SCVIF	The log comes from the SCVIF module.
+460	TCP	The log comes from the TCP module.
+461	XDR	The log comes from the VQPCLIENT module.
+462	DC	The log comes from the LOGGER module.
+463	IOMD	The log comes from the module "UBRLCCOREDUMP"
+464	KINEPAK	The log "Cannot create message buffer" likely comes from the MAXMSGSIZE module.
+465	NETCLK	The log comes from the module: INIT
+466	IPCOIR	The log comes from the module "LCLOG" (Line Card Log).
+467	MDS	The log comes from the module "CBERR" (Control Block Error).
+468	SNASW	The log comes from the SIP module.
+469	IPRT	The log comes from the MRIB module.
+470	BSTUN	The log comes from the module TCP.
+471	DWDM	The log comes from the module CMANRP.
+472	IDBMAN	The log comes from the module "IF" (Interfaces).
+473	CTS	IPSEC module.
+474	SYS	The log comes from the module DSIPPF.
+475	SNASW	The log comes from the module CPPEXMEM.
+476	SPANTREE	The log comes from the SPANTREE module.
+477	SPE	The log comes from the SPE module.
+478	AAA	The log comes from the module called ACLMGR.
+479	UCODE	Module: UCODE
+480	FALLBACK	The log comes from the module DSM (Diagnostic System Manager).
+481	NIM	The log comes from the module named "MEM".
+482	OLM	The log comes from the LMP module.
+483	SSH	The log comes from the module LIBTIFF.
+484	ENVIRONMENT	The log comes from the MPLS module.
+485	BGP	The log comes from the QOS module.
+486	SYS	The log comes from the SIGNAL module.
+487	RSVP	The log message comes from the RSVP module.
+488	MPLSOAMDPM	The log likely comes from the IP module.
+489	UBRLCCOREDUMP	The log comes from the SYS module.
+490	IDS	The log comes from the IDS (Intrusion Detection System) module.
+491	SEC	The log comes from the PACKET module.
+492	CRYPTO	The log comes from the module CPPOSLIB.
+493	PM	The log comes from the module "PM" (Performance Monitoring).
+494	PKI	The log comes from the PKI module.
+495	RBM	The log comes from the DBMS module.
+496	LDP	The log comes from the module "PROTECTION".
+497	MEDIATRACE	 it contains invalid credentials. 
+Module: DSCREDCLK
+498	EPC	The log comes from the EPC module.
+499	MROUTE	The log comes from the SNMP module.
+500	LICENSE	Without the specific log content provided, it is not possible to determine which module the log comes from.
+501	SYS	The log comes from the module: DSCCLOCK
+502	RTMGR	The log comes from the TTY module.
+503	LFD	Module: XDR
+504	CELLWAN	The log comes from the module GSM.
+505	ISSU	This log likely comes from the module "DMVPN" (Dynamic Multipoint Virtual Private Network).
+506	EPM	The log comes from the AUDIT module.
+507	SGBP	Module: VCMS
+508	TN	The log comes from module "ILACC" (Illegal Access).
+509	ACLMGR	Module: ACLMGR
+510	SYS	Module: LOGGER
+511	CLNS	The log comes from the IS-IS module.
+512	CVAC	Module: CONFIG
+513	TTY	The log comes from the TTY module.
+514	LCON	The log "Cannot allocate local label" likely comes from the module NOMEMORY.
+515	EVPN	The log comes from the module IP.
+516	FM	The log comes from the ACE module.
+517	SGBP	The log comes from the module AT.
+518	GDOI	The log comes from the module "COPTMONMIB".
+519	LCON	The log "Cannot alloc [chars]" likely comes from the module "MEM".
+520	SNASW	The log comes from the module: HA
+521	HA	The log comes from the LOGGER module.
+522	LCMDC	The log comes from module "TUN".
+523	ILPOWER	Module: PHY
+524	SNASW	The log comes from the module called "LANCE".
+525	DUAL	The log likely comes from the OSPF module.
+526	SNASW	The log comes from the module DSIPPF.
+527	CPPFW	The log comes from the QOSMGR module.
+528	IPCOIR	CHASSIS
+529	DSMP	The log comes from the module "SYS" (System).
+530	SPANTREE	SPANTREE
+531	CWS	The log comes from the module NOMEMORY.
+532	CMTS	The log comes from the module PACKET.
+533	HMANRP	The log comes from the module EVENTLIB.
+534	SYS	The log comes from the module called "HEC".
+535	SYS	The log comes from the module "NOMEMORY"
+536		This log comes from the module TTY.
+537	CELLWAN	The log comes from the module GSM.
+538	CHKPT	The log comes from the module CHKPT (Checkpoint).
+539	PKTLOG	The log comes from the LOGGER module.
+540	QOSMGR	The log comes from the module: CONTROLLER
+541	QOS	QOS
+542	DROP	The log comes from the DROP module.
+543	DC	The log comes from the module "PHY" (Physical Layer).
+544	SYS	The log comes from the module: MEMSCAN
+545	HCCP	The log comes from the module called "HTTP".
+546	CRYPTO	The log comes from the module INIT.
+547	HTSP	The log comes from the module "VOICE".
+548	AUDIT	The log comes from the AUDIT module.
+549	SNASW	The log comes from the IP module.
+550	LICENSE	The log comes from the LICENSE module.
+551	LCMDC	Module: TRANSCEIVER
+552	RADIO	The log comes from the RADIO module.
+553	DMA	The log comes from the DMA module.
+554	CTS	The log comes from the module "FILTER".
+555	PKI	Module: PKI
+556	CMTS	The log comes from the CASA module.
+557	HMANRP	Module: MONITOR
+558	SNASW	The log comes from the CBRCCE module.
+559	SSH	The log "Packet send failed" likely comes from the module PACKET.
+560	PNNI	The log comes from the ACLMGR module.
+561	LFD	The log comes from the module CPPOSLIB.
+562	MDNSPROXY	The log comes from the module IDBMAN.
+563	MCASTRED	Module: HA
+564	CTS	The log comes from the CTS module.
+565	MFI	The log comes from the EVENTLOGGER module.
+566	MRP	The log comes from the MRP module.
+567	GDOI	The log comes from the GDOI module.
+568	KEYSTORE	The log comes from the KEYSTORE module.
+569	EPM	The log comes from the POLICY module.
+570	ILLEGAL	The log comes from the LOGGER module.
+571	HA	The log comes from the module "HA" (High Availability) as it mentions "Standby RP" which is related to redundancy and failover mechanisms.
+572	AN	The log comes from the AUTONOMIC module.
+573	SYS	The log message comes from the TTY module.
+574	QLLC	Without the specific log content provided, it is not possible to determine which module the log comes from.
+575	IPC	The log comes from the UNEXPECTEDEVENT module.
+576	AAAA	The log comes from the SYS module.
+577	EVENTLIB	The log comes from the module "ERSPAN".
+578	HDX	The log comes from the module "PHY" (Physical Layer).
+579	CONTROLLER	The log comes from the CONTROLLER module.
+580	EAP	The log comes from the VPN module.
+581	VUDI	The log likely comes from the VUDI module.
+582	SNASW	The log comes from the BIND module.
+583	GDOI	The log comes from the module "GM".
+584	UBRLCCOREDUMP	NOMEMORY
+585	QOSMGR	The log comes from the QLLC module.
+586	CELLWAN	The log comes from the module "SIM".
+588	ILACC	The log "msgtxt_initfail" likely comes from the module named LOGGER.
+589	VSLP	Module: HSRP
+590	RFS	The log comes from the SYSCTLR module.
+591	QOS	The log comes from the module "QOS" (Quality of Service).
+592	IOMD	The log comes from the module IDS.
+593	COPTMONMIB	The log comes from the IF module.
+594	FALLBACK	The log comes from the module NOMEMORY.
+595	SYS	The log comes from the SYS module.
+596	ILPOWER	The log comes from the PHY module.
+597	ISDN	The log comes from the module "IPACCESS"
+598	DOMAIN	The log comes from the QOS module.
+599	CASA	The log comes from the CASA module.
+600	NOMEMORY	The log "ERRMSG_NOFLAGS" likely comes from the module CRYPTO.
+601	DYNCMD	Module: DYNCMD
+602	LCON	The log "process not created" likely comes from the module "IPC" (Inter-Process Communication).
+603	SYS	The log comes from the DMA module.
+604	SCHED	The log comes from the CONFIG module.
+605	SYS	The log comes from the RMGR module.
+606	SYS	The log comes from the SNMP module.
+607	GK	The log comes from the NOMEMORY module.
+608	GDOI	Module: SEC (Security)
+609	AAAA	The log comes from the LOGGER module.
+610	DRIP	The log comes from the DRIP module.
+611	FW	The log comes from the module named "ACLMMGR".
+612	CCE	The log comes from the module "FIB" (Forwarding Information Base) as it relates to a control plane classification configuration error and TCAM device not being specified.
+613	PCMCIAFS	The log comes from the FILE module.
+614	ISDN	The log comes from the ISDN module.
+615	SNMP	The log comes from the module CONFIG.
+616	PACTRAC	The log comes from the module PARSER.
+617	SYS	The log comes from the module CPPDRV.
+618	DSCEXTCLK	DSCEXTCLK
+619	CTS	This log likely comes from the module "AAA" (Authentication, Authorization, and Accounting).
+620	TCP	The log comes from the LISP module.
+621	LISP	The log comes from the LISP (Locator/ID Separation Protocol) module.
+622	MICA	The log comes from the module DSMIB.
+623	SYS	The log comes from the module "SYS" (System).
+624	MCASTRED	The log comes from the PIM module.
+625	DBUS	The log comes from the CONTROLLER module.
+626	MFI	The log comes from the LOGGER module.
+627	ISRHOG	Module: ISRHOG
+628	SYS	The log comes from the module DISPOSE.
+629	DBUS	The log comes from the module VIP.
+630	EVENTLIB	The log comes from the module "DMA" (Direct Memory Access).
+631	QOS	The log comes from the module "IPRT" (IP Routing).
+632	DIAG	The log "Get argument failed" likely comes from the module called DSM (Dynamic Systems Management).
+633	KEYSTORE	The log comes from the KEYSTORE module.
+634	PARSER	The log comes from the module CBUS.
+635	SIP	The log comes from the AUTHMGR module.
+636	AUDIT	Module: AUDIT
+637	ARP	The log comes from the ARP module.
+638	DIRECTOR	The log comes from the INFO module.
+639	TUN	The log comes from the IPNAT module.
+640	QOSMGR	The log comes from the TCAM module.
+641	SYS	The log comes from the module "SYS" (System).
+642	ATM	The log message "msgtxt_nomemory" likely comes from the module DSMIBPROV.
+643	FWALL	The log comes from the SNMP module.
+644	DC	The log comes from the module CFT (Configuration File Transfer).
+645	CTS	The log comes from the module "CPPFW" (Check Point Firewall).
+646	HMANRP	The log message "Message read failed [chars]" likely comes from the TCP module.
+647	EXTASSIGNER	Module: MEMSCAN
+648	CELLWAN	The log comes from the QOSMGR module.
+649	ALG	The log comes from the module IDBMAN (IDB Management).
+650	LCRED	The log comes from the module "LCINFO" (Line Card Information).
+651	STUN	The log comes from the ACE module.
+652	IPACCESS	The log comes from the module NOMEMORY.
+653	MLRIB	This log comes from the module "RTT" (Routing Topology).
+654	VUDI	The log comes from the VUDI module.
+655	SPE	The log comes from the PM module.
+656	NETCLK	The log comes from the NHRP module.
+657	DTI	The log "DTI Error" comes from the DTI module.
+658	DMA	Module: DMA
+659	ARAP	The log comes from the TTYDRIVER module.
+660	PLATFORM	The log comes from the CPPEXMEM module.
+661	QOS	The log comes from the module DSIPPF.
+662	VTSP	The log comes from the module DSP.
+663	AAAA	The log comes from the module "REQGRP" (Request Group).
+664	ICC	The log comes from the CONSISTENCY module.
+665	SHDSL	The log comes from the LOGGER module.
+666	RADIO	The log comes from the RADIO module.
+667	QOS	The log comes from the module called "FHS" (Feature Handling System).
+668	ENVMON	This log comes from the ENVM module.
+669	SYS	The log comes from module SSH.
+670	STUN	The log comes from the ROUTER module.
+671	AAAA	The log comes from the module called "LLIST" (Linked List).
+672	ILPOWER	The log comes from the module ILPOWER (Inline Power).
+673	PNP	The log comes from the module "LOGGER".
+674	SYS	The log comes from the CONFIGURATION module.
+675	FLEXDSPRM	The log comes from the DSP module.
+676	QATM	The log "Cannot read TCAM" likely comes from the module "ACL".
+677	BFD	The log comes from the module LCLOG.
+678	FLOWMON	The log comes from the module RAWSOCKET.
+679	BGP	The log comes from the BGP module.
+680	SYS	The log comes from the module: SYS
+681	DYNCMD	The log comes from the DYNCMD module.
+682	PARSER	The log comes from the module "ACL MGR" (Access Control List Manager).
+683	IPRT	The log comes from the module "BACKWALK".
+684	SNASW	The log comes from the HDLC module.
+685	QFPOOR	QFPOOR
+686	DMVPN	The log comes from the TUN module.
+687	VSLP	The log comes from the VSLP module.
+688	SYS	The log comes from the module "CPU".
+689	SNASW	The log comes from the module named "RUDP" (Reliable User Datagram Protocol).
+690	SYS	The log comes from the module: MEMSCAN
+691	FRRMGR	The log comes from the DSCEXTCLK module.
+692	NAT	Without the actual log message provided, it is not possible to determine which module it comes from.
+693	LCON	The log comes from the LCON module.
+694	TUN	The log comes from the LOGGER module.
+695	LB	The log comes from the GLBP module.
+696	SR	This log comes from the ACLMGR module.
+697	LFD	The log comes from the CHUNK module.
+698	TAC	The log comes from the module FTPSERVER.
+699	SNASW	The log comes from the module: MEMORY.
+700	EXFREE	The log comes from the module CPPOSLIB.
+701	SCCP	The log comes from the LOGGER module.
+702	IP	The log comes from the module DHCP.
+703	PARSER	The log comes from the PARSER module.
+704	PNP	The log comes from the PNP module.
+705	QOSMGR	This log comes from the module "APPFW" (Application Firewall).
+706	SNASW	The log comes from the DLC module.
+707	CPPBQS	Module: QOSMGR
+708	BGP	The log comes from the module "IPFAST".
+709	SSE	The log comes from the module "MEM".
+710	MMA	The log comes from the module called "OBJGROUP".
+711	MMA	The log likely comes from the module ACLMGR.
+712	CWPA	The log comes from the LOGGER module.
+713	SYS	The log comes from the module UBRLCCOREDUMP.
+714	AAAA	The log comes from the UTIL module.
+715	ARP	The log comes from the ARP module.
+716	QOSMGR	The log comes from the INTERFACE module.
+717	MDNSPROXY	The log comes from the module named "SBC" (Session Border Controller).
+718	SCHED	The log comes from the module CPPFW.
+719	LICENSE	The log comes from the VUDI module.
+720	FHS	The log comes from the module "FHS" (Forwarding Hardware Subsystem).
+721	SNASW	The log comes from the module MPLS.
+722	CWANLC	The log comes from the module DSMP (Constellation BUS Stall cleared).
+723	UMBRELLA	RF
+724	CRYPTO	CRYPTO
+725	SGBP	The log comes from the module TCP.
+726	AAA	The log comes from the AAA module.
+727	SYS	The log "Memory requested from Null Chunk" likely comes from the module MEM (Memory).
+728	FIB	The log comes from the CEF module.
+729	IDS	Module: IP
+730	HTTPC	The log comes from the HTTPC module.
+731	PA	The log comes from the PA module.
+732	CTS	The log comes from the module named "CPPBQS" (Central Packet Processing Buffer Queue System).
+733	SYS	The log comes from the module "NVRAM" (Nonvolatile storage).
+734	ALIGN	The log comes from module EC (Error Correction).
+735	ISDN	The log comes from the module "IFMGR" (Interface Manager).
+736	QOSMGR	This log comes from the QOSMGR module.
+737	LSS	The log comes from the module "INTERFACE".
+738	SYS	The log comes from the module "ENVMON" (Environment Monitoring).
+739	CTS	The log comes from the CONFIG module.
+740	IPC	The log comes from the module: HPI (Hardware Platform Interface)
+741	FLOWMON	The log comes from the IPACCESS module.
+742	AUTOUPGRADE	The log comes from the module "HTTP".
+743	AAAA	This log likely comes from the module RADIUS.
+744	FASTHELLO	The log comes from the module "DSMP" (Dynamic Shared Memory Pool).
+745	DSG	The log comes from the PIM module.
+746	SYS	The log comes from the module LOGGER.
+747	ETHERCHANNEL	The log comes from the QFP module.
+748	STUN	The log comes from the GDOI module.
+749	SYS	The log comes from the module LIBTIFF.
+750	LISP	The log comes from the LISP module.
+751	GK	The log comes from the GK module (Gatekeeper).
+752	LB	The log "Failed to create Link Bundle Subinterface ClientQ" likely comes from the LB (Link Bundle) module.
+753	VPDN	The log comes from the AUTHMGR module.
+754	SYS	Module: NOMEMORY
+755	SYS	The log comes from the ENVMON module.
+756	PIM	The log comes from the PIM module.
+757	PASSWD	The log comes from the IPSEC module.
+758	COPTMONMIB	The log comes from the IFMGR module.
+759	QOSMGR	QOSMGR
+760	NBAR	Without the specific log content provided, it is not possible to determine which module it comes from.
+761	SYS	The log comes from module "IPFLOW".
+762	CTS	This log likely comes from the TCP module.
+763	SYS	The log comes from the module FW (Firewall).
+764	DHCPD	The log comes from the DHCP module.
+765	DIGISIGN	The log comes from the DIGISIGN module.
+766	QA	The log comes from the SYSCTLR module.
+767	VQPCLIENT	VQPCLIENT
+768	SPA	The log comes from the ENVIRONMENTAL module.
+769	FR	The log comes from the module TTYDRIVER.
+770	SSH	The log comes from the SSH module.
+771	IFS	The log comes from the module FILESYS.
+772	CHKPT	The log comes from the CHKPT module (Checkpoint).
+773	SYS	The log comes from the module "IDS" (Intrusion Detection System).
+774	SNASW	The log comes from the CNS module.
+775	RTT	The log comes from the EVENT module.
+776	ENVMON	Without the specific log content provided, it is not possible to determine which module the log comes from.
+777	AAAA	The log comes from the INIT module.
+778	AN	The log comes from the EPM (Element Provisioning Manager) module.
+779	HTTPC	The log comes from the RUDP module.
+780	LCON	The log message "Can't alloc work item for [chars]" likely comes from the module named MEM (Memory Management).
+781	CTS	The log comes from the SXP module.
+782	SYS	The log comes from the module MLRIB (Memory Fragmentation).
+783	CRYPTO	The log comes from the UTIL module.
+784	CTS	The log comes from the module "SEC" (Security).
+785	NTI	The log comes from the NTI module.
+786	VPA	The log comes from the VPA module.
+787	RSVP	This log message likely comes from the module RADIUS.
+788	RAC	The log comes from the RAC module.
+789	WCCP	Module: WCCP
+790	SYS	The log comes from the BUFCAP module.
+791	PNP	The log comes from the PNP module.
+792	OSPF	The log comes from the module IDMNGR.
+793	MCASTRED	The log comes from the module SYNC.
+794	IPNAT	This log comes from the CPPFW module.
+795	ALG	INIT
+796	AAAA	The log comes from the AAA module.
+797	SYS	The log comes from the MEM module.
+798	DUAL	The log comes from the PLOGDRP module.
+799	DIAG	The log comes from the module called "ENVIRONMENT".
+800	STILE	The log comes from the DEC module.
+801	VIDB	The log comes from the VIDB module.
+802	FW	FW (Firewall)
+803	DC	The log comes from the SYS module.
+804	BSTUN	The log comes from the IPSEC module.
+805	LSS	Without the specific log content provided, it is not possible to determine which module the log comes from.
+806	SYS	The log comes from the module "AAA" (Authentication, Authorization, and Accounting).
+807	MPLSOAMDPM	The log likely comes from the module "INET".
+808	FW	The log comes from the SDP module.
+809	SYS	The log comes from the NOMEMORY module.
+810	APPFW	The log comes from the HTTP module.
+811	EHSA	The log comes from the TTY module.
+812	AN	The log comes from the module "SUDI" (Secure Unique Device Identifier).
+813	RTT	The log comes from the IPSLA module.
+814	IPC	The log comes from the module DSIP.
+815	LI	Module: LI
+816	DSCCLOCK	NOMEMORY
+817	TTYDRIVER	The log comes from the TTY module.
+818	IPCOIR	The log comes from the module DSMIB.
+819	SYS	The log comes from the SNMP module.
+820	TCP	The log comes from the TCP module.
+821	SYS	The log comes from the module "DSM".
+822	SNASW	The log comes from the DSPU module.
+823	SYS	The log comes from the module called "SYS".
+824	SYS	The log comes from the module called "SYS".
+825	INFO	The log ERRMSG_NOFLAGS comes from the module ERROR.
+826	ILPOWER	The log comes from the ILPOWER module.
+827	CAPCHANGE	The log comes from the ACE module.
+828	VPA	The log comes from the module "PA" (Voice PA).
+829	SCP	The log comes from the VLAN module.
+830	SYS	The log comes from the CONFIGURATION module.
+831	SNMP	The log comes from the module CFT.
+832	ALPS	The log comes from the TUN module.
+833	MEMSCAN	CHASSIS
+834	CONTROLLER	The log comes from the CONTROLLER module.
+835	SPANTREE	SPANTREE
+836	ENVIRONMENT	The log comes from the module DSMP.
+837	CRYPTO	Module: CRYPTO
+838	TCMSP	The log comes from the module DSIP.
+839	AAAA	Module: AAA
+840	SYS	The log comes from the module "FLEXDSPRM" (Flexible DSP Resource Manager) as it mentions memory allocation for chunks.
+841		The log comes from the LOGGER module.
+842	CMANRP	The log comes from the module "CRASHDUMP".
+843	LICENSE	The log comes from the LOGGER module.
+844	PIMP	The log "No memory available for [chars]" likely comes from the MEMSCAN module.
+845	MPLSOAMDPM	This log comes from the MPLSOAM module.
+846	MDS	The log comes from the QOSMGR module.
+847	ENVIRONMENT	The log comes from the DHCP module.
+848	CTS	The log comes from the CACHE module.
+849	VPDN	The log comes from the module "INVTRANS" (Inventory Transformation).
+850	SNASW	The log comes from the IDS module (Intrusion Detection System).
+851	RSRB	The log comes from the BFD module.
+852	IPC	The log comes from the IPC module.
+853	REQGRP	The log comes from the LCLOG module.
+854	PKI	This log likely comes from the CRYPTO module.
+855	SNASW	The log comes from the OSPF module.
+856	DSPU	The log comes from the DSPU module.
+857	IPCOIR	The log comes from the IF module.
+858	DBMS	The log comes from the DBMS module.
+859	LCRED	Module: LCINFO
+860	PM	This log comes from the AAA module.
+861	QOS	The log comes from the QoS module.
+862	UBRLCCOREDUMP	UBRLCCOREDUMP
+863	DMB	The log comes from the [SYS] module.
+864	SIP	The log comes from the SIP module.
+865	ILPOWER	PHY
+866	IPCGRP	The log comes from the module "IFMGR" (Interface Manager).
+867		The log comes from the MPLSMFISTATIC module.
+868	AN	Module: OSPF
+869	CVAC	The log comes from the CONFIGURATION module.
+870	SNASW	The log comes from the SNASW module.
+871	SYS	The log comes from the module: EXFREE
+872	CMANRP	The log comes from the UDEV module.
+873	SYS	The log comes from the module "SSH" (Secure Shell).
+874	IP	The log message likely comes from the module "IP".
+875	FM	The log comes from the ACL module.
+876	TCP	The log comes from the IDS module.
+877	AN	The log comes from the SIGNATURE module.
+878	IP	The log comes from the EVENT module.
+879	MACSEC	The log comes from the module DSMIB (Device-Specific Management Information Base).
+880	SYS	The log comes from the module DSMP.
+881	SDP	The log comes from the SYS module.
+882	ALIGN	The log comes from the ALIGN module.
+883	EPAMCM	The log comes from the LOGGER module.
+884	CPPDRV	The log comes from the module CPPDRV.
+885	DC	The log comes from the module FTPSERVER.
+886	POSLC	The log comes from the POSLC module.
+887	AAAA	The log comes from the AAAA module.
+888	CGC	The log comes from the LOGGER module.
+889	IP	The log comes from the module RSP (Routing Switch Processor).
+890	HPI	The log comes from the module "DSP".
+891	SNASW	The log comes from the module RMGR (Resource Manager).
+892	CPPHA	The log comes from the CPP module.
+893	SYS	The log comes from the UBRSNMP module.
+894	LISP	Module: LISP
+895	CRYPTO	The log comes from the CRYPTO module.
+896	BFDFSM	Module: BFDFSM
+897	CTS	The log comes from the module "DOT1X" (802.1X).
+898	LSD	The log comes from the SYS module.
+899	CTS	This log comes from the module CSM.
+900	CWS	The log comes from the CWS module.
+901	CTS	The log comes from the module IDS (Intrusion Detection System).
+902	LCRED	This log likely comes from the module "CHASSIS" as it is related to the type of card inserted in the system.
+903	PACKET	The log "event_block failure" likely comes from the EVENTLIB module.
+904	IOMD	The log comes from the IOMD module.
+905	PLATFORM	The log comes from the module "LANMGR" (LAN Manager).
+906	ETC	Module: VPA
+907	SYS	The log comes from the DSM module.
+908	SYS	The log comes from the CONFIG module.
+909	LICENSE	The log comes from the module "UDLD" (Unidirectional Link Detection).
+910	IFMGR	The log comes from the IFMGR module.
+911	ISSU	ICC
+912	CPPHA	The log "bind to exmem failed to complete" likely comes from the CPPEXMEM module.
+913	SYS	The log comes from the ETHERCHANNEL module.
+914	SYS	The log comes from the module "SYS".
+915	SYS	The log comes from the module ESM.
+916	CBUS	The log comes from the CBUS module.
+917	CTS	The log comes from the module ISSU (In-Service Software Upgrade).
+918	VCMS	The log comes from the VCMS module.
+919	STUN	The log comes from the CRYPTO module.
+920	CGM	Without the specific log message provided, it is not possible to determine which module it comes from. Please provide the log message for further assistance.
+921	EM	NOMEMORY
+922	FMCORE	The log comes from the module IP.
+923	RADIUS	The log comes from the RADIUS module.
+924	DIALSHELF	The log comes from the module EVENT.
+925	SNASW	The log comes from the module DSIP.
+926	SHMWIN	The log comes from the module: CPPBQS
+927	SNASW	This log comes from the HSRP module.
+928	CMTS	Module: CMTS
+929	AAA	The log comes from the module UTIL.
+930	SNASW	The log comes from the module called "PORT_BANDWIDTH_UPDATE"
+931	SNASW	The log comes from the INFO module.
+932	CHKPT	The log "Unable to create IPC port on [chars]" likely comes from the module DSMIB.
+933	KEYSTORE	The log comes from the KEYSTORE module.
+934	CARRIER	The log comes from the module "LCINFO" (Line Card Information).
+935	AAAA	The log comes from the AAA module.
+936	CHKPT	The log message likely comes from the HA module.
+937	ETHCNTR	The log comes from the module ETHCNTR (Ethernet Counter).
+938	SYS	NOMEMORY
+939	OSPF	Module: MRP (Multicast Routing Protocol)
+940	QOS	The log comes from the module "QOSMGR" (Quality of Service Manager).
+941	ENVIRONMENTAL	The log comes from the LOGGER module.
+942	SYS	The log comes from the module "MEM" (Memory Management).
+943	PLATFORM	The log comes from the module "PLATFORM".
+944	PNP	The log comes from the PNP module.
+945	SIPSPA	The log comes from the module "LCRED" (Line Card Redundancy).
+946	PNP	The log comes from the module "MODEM".
+947	SYS	The log comes from the FILESYS module.
+948	ENVMON	This log comes from the ENVIRONMENTAL module.
+949	SYS	The log comes from the module DSIP.
+950	SPANTREE	The log comes from the PORT module.
+951	QOSMGR	The log comes from the BUFCAP module.
+952	PNP	The log comes from the PNP module.
+953	IDS	The log comes from the IDS module.
+954	TRUNK	This log comes from the module PLATFORM.
+955	TXCONN	The log comes from the module: CI
+956	SYS	The log comes from the LOGGER module.
+957	TENSRFSM	The log comes from the DIAG module.
+958	FM	The log "Cannot create memory block for VLAN [dec]" likely comes from the module "VSLP" (Virtual Switching and Labeling Protocol).
+959	SYS	The log comes from the module: UNEXPECTEDEVENT.
+960	VPDN	The log comes from the module: TTY
+961	ATMCORE	Without the specific log content provided, it is not possible to determine which module it comes from.
+962	QA	The log comes from the [INFO] module.
+963	IVR	The log comes from the LOGGER module.
+964	FLOWMON	The log comes from the SNMP module.
+965	ADJ	The log comes from the ADJ module.
+966	MSMR	The log comes from the LISP module.
+967	DBUS	The log comes from the module "UBRLCCOREDUMP"
+968	VQPCLIENT	The log comes from the VCMS module.
+969		The log comes from the UTIL module.
+970	FR	The log comes from the UBRLCCOREDUMP module.
+971	BACKWALK	The log comes from the BACKWALK module.
+972	MPLSOAM	The log comes from the CRYPTO module.
+973	SPA	The log comes from the ENVIRONMENT module.
+974	MCASTRED	The log comes from the INIT module.
+975	AAAA	The log comes from the ACL module.
+976	CLOCK	The log comes from the HD (Hardware) module.
+977	LSS	The log comes from the INIT module.
+978	GTP	The log comes from the GTP module.
+979	SYS	The log comes from the module called CPPDRV.
+980	LICENSE	The log comes from the LICENSE module.
+981	PQUICC	The log comes from the PQUICC module.
+982	CBUS	The log comes from the CBUS module.
+983	PARSER	The log comes from the PARSER module.
+984	TUN	The log comes from the CEF module.
+985	MCASTRED	The log comes from the module RFSW.
+986	LCINFO	The log comes from the CRASH module.
+987	GDOI	Module: GDOI
+988	RPC	The log comes from the RPC module.
+989	SNASW	The log comes from the LAPB module.
+990	TRANGE	The log comes from the module: NOMEMORY
+991	CRYPTO	The log comes from the module DSMIB.
+992	DMA	The log comes from the DMA module.
+993	SHDSL	The log comes from the LOGGER module.
+994	SYS	NOMEMORY
+995	DOMAIN	The log comes from the MLSM module.
+996	AAAA	The log comes from the module VASI (Virtual Address Space Interface).
+997	SSE	The log comes from the SSE module.
+998	CMCC	The log comes from the module CFT.
+999	FIB	The log comes from the UPDATE module.
+1000	ILPOWER	The log comes from the module PHY.
+1001	LANE	The log comes from the module: SYS
+1002	ENVM	The log comes from the module: ACLMGR
+1003	SYS	The log comes from the module FMCORE.
+1004	CLNS	The log comes from the MRIB module.
+1005	GK	The log comes from the GK (Gatekeeper) module.
+1006	MDT	The log comes from the MCAST module.
+1007	QOS	QOS (Quality of Service)
+1008	ATM	The log comes from the module: PM (Performance Monitoring)
+1009	RPLIC	The log comes from the module "LFD" (License Feature Daemon).
+1010	MICA	The log comes from the module EXFREE.
+1011	QOSMGR	The log comes from the QOS module.
+1012	BUFCAP	BUFCAP
+1013	CRYPTO	The log comes from the module TED.
+1014	APS	The log comes from the MPLSMFISTATIC module.
+1015	SRW	The log comes from the SNMP module.
+1016	SYS	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1017	IDS	The log comes from the SIGSM module.
+1018	CAC	Module: CAC
+1019	RADIUS	The log comes from the RADIUS module.
+1020	IPC	The log comes from the IPC module.
+1021	CPPDRV	The log comes from the module TTY.
+1022	CWPA	The log comes from the DSM module.
+1023	AAA	The log comes from the module "PHY" (Physical Layer).
+1024	REQGRP	The log comes from the IP module.
+1025	VCMS	The log comes from the LINECARD module.
+1026	SYS	The log comes from module CCA.
+1027	SYS	The log comes from the TIMER module.
+1028	SNASW	The log comes from the IP module.
+1029	EPM	The log comes from the IPACCESS module.
+1030	DIGISIGN	The log comes from the module "ISSU" (In-Service Software Upgrade) as it mentions "running warm upgraded software".
+1031	AAAA	The log comes from the AAAA module.
+1032	LIIN	The log comes from the LIIN module.
+1033	PM	The log comes from the VLAN module.
+1034	SHMWIN	MEM
+1035	LICENSE	Module: LICENSE
+1036	MICA	The log comes from the module "MICA".
+1037	DUAL	The log comes from the BGP module.
+1038	PARSER	The log comes from the IP module.
+1039	ENVM	Module: ENVIRONMENT
+1040	BFD	This log comes from the BGP module.
+1041	SYS	The log comes from the module "SBC" (Session Border Controller).
+1042	CELLWAN	The log comes from the module "LOGGER".
+1043	HA	The log comes from the RPS module.
+1044	IPC	The log message "Send message to peer for [chars] failed. Reason [chars]" likely comes from the module "BGP" (Border Gateway Protocol).
+1045	SNASW	The log comes from the module MAXMSGSIZE.
+1046	SYS	The log comes from the module called "LOGGER".
+1047	TUN	The log comes from the INITIALIZATION module.
+1048	CMCC	The log comes from the DNS module.
+1049	SPA	The log comes from the UTIL module.
+1050	IGMP	The log comes from the IGMP module.
+1051	COLLECTOR	The log comes from the COLLECTOR module.
+1052	MMA	The log comes from the PARSER module.
+1053	SYS	The log likely comes from the module "CPPHA" (Centralized Policy and Per-Flow Hardware Acceleration) as it deals with functions and parameters related to hardware acceleration.
+1054	SYS	Module: MEM (Memory)
+1055	CBERR	The log ERRMSG_NOFLAGS comes from the module ILLEGAL.
+1056	SDLC	The log comes from the SDLC module.
+1057	NBAR	Module: NBAR
+1058	ALIGN	The log comes from the module "FILESYS" (File System).
+1059	BGP	BGP
+1060	CBUS	The log likely comes from the module "UBRSNMP" as it contains the characters "ustatus" which could be related to SNMP (Simple Network Management Protocol) status.
+1061	UCODE	UCODE
+1062	IPSEC	The log comes from the module SPARC.
+1063	SNASW	The log comes from the module UBRCCE (Universal Broadband Remote Control and Configuration Engine).
+1064	SYS	The log comes from the module "SYS" (System).
+1065	SLBSCPU	The log comes from the module "CONFIGURATION".
+1066	XDR	The log comes from the ISSU module.
+1067	HMANRP	The log comes from the TBRIDGE module.
+1068	QOSMGR	The log comes from the QOSMGR module.
+1069	PGM	The log "Malformed packet [chars]" likely comes from the module PKTLOG.
+1070	UNEXPECTEDEVENT	The log comes from the module DSIP.
+1071	DIGISIGN	The log comes from the DIGISIGN module.
+1072	DSG	The log comes from the module DSIP.
+1073	PNP	The log comes from the module IP.
+1074	GDOI	The log comes from the GDOI module.
+1075	GK	The log message "GW/PROXY may not be registered. Add cost failed." likely comes from the module CCPROXY.
+1076	PLATFORM	The log comes from the CHASSIS module.
+1077	MLRIB	This log comes from the MPLSOAMDPM module.
+1078	IOMD	The log comes from the CHASSIS module.
+1079	SYS	The log comes from the module CWPAATOM.
+1080	CTS	The log comes from the module DNS.
+1081	DMVPN	The log likely comes from the module TCP.
+1082	LB	The log "Failed to create Link Bundle Feature List" likely comes from the module called LFD (Link Fragmentation and Delay).
+1083	SYS	The log comes from the module "UPDATE".
+1084	DYNCMD	The log comes from the module "UTIL" (Utility).
+1085	CTS	Module: AAA
+1086	IPC	The log comes from the LOGGER module.
+1087	CTS	Module: ENVIRONMENT
+1088	SYS	The log comes from the module "BUGINF".
+1089	CGC	The log comes from the LOGGER module.
+1090	SYS	The log comes from the module "SYS" (System).
+1091	MDT	The log comes from the MDT module.
+1092	DSG	Module: DSG
+1093	TTYDRIVER	The log comes from the TTYDRIVER module.
+1094	SONETMIB	The log comes from the RMON module.
+1095	MFIB	Module: MFIB
+1096	SYS	The log comes from the BUFCAP module.
+1097	PKI	This log comes from the MPLS module.
+1098	IPX	The log likely comes from the module DSPRM.
+1099	LINK	The log comes from the module TRUNK.
+1100	QOSMGR	The log comes from the QOSMGR module.
+1101	CLNS	The log comes from the HSRP module.
+1102	AAAA	The log comes from the AAA module.
+1103	IDS	The log comes from the IP module.
+1104	IPRT	The log comes from the module "UNEXPECTEDMESSAGE"
+1105	TR	The log comes from the INIT module.
+1106	FIB	Module: CEF (Cisco Express Forwarding)
+1107	SYS	The log comes from the SYS module.
+1108	RPF	This log comes from the module VRRP (Virtual Router Redundancy Protocol).
+1109	SSLVPN	The log comes from the SSLVPN module.
+1110	VSLP	The log comes from the [LCLOG] module.
+1111	REMIF	The log comes from the LOGGER module.
+1112	FASTHELLO	The log comes from the module "STUN" (Local switch protocol version and Peer switch protocol version are related to Switch-to-Switch Tunneling Protocol).
+1113	SYS	The log comes from the module CPPDRV.
+1114	UDLD	The log comes from the UDLD module.
+1115	LCRED	The log comes from the LC module.
+1116	FW	The log comes from the IPNAT module.
+1117	IPC	The log comes from the module CCM (Call Control Manager).
+1118	LICENSE	The log comes from the LICENSE module.
+1119	RSP	The log comes from the module DSIPPF.
+1120	OSPF	The log comes from the OSPF module.
+1121	LANCE	The log comes from the LANCE module.
+1122	CTS	The log comes from the module called "ACE" (Access Control Entry).
+1123	SYS	The log comes from the module "CONSISTENCY".
+1124	CTS	The log comes from the ILLEGAL module.
+1125	SYS	The log comes from the SNMP module.
+1126	ARAP	The log comes from the ARAP module.
+1127	LCON	The log comes from the module called "LCLOG".
+1128	IPDR	The log comes from the PARSER module.
+1129	SSH	This log comes from the CRYPTO module.
+1130	IPFLOW	The log comes from the module called "LCLOG".
+1131	ENVIRONMENT	The log comes from the ENVIRONMENT module.
+1132	HTTP	The log comes from the HTTP module.
+1133	RADIO	The log comes from the module "RADIO".
+1134	IGNITION	The log comes from the IGNITION module.
+1135	SYS	The log message "Resource group creation failed" likely comes from the module called "CONFIG".
+1136	ACR	The log comes from the ACR module.
+1137	BPE	CHASSIS
+1138	CSG	The log comes from the CSG module.
+1139	DSPU	The log comes from the SNASW module.
+1140	QOS	The log comes from the IP module.
+1141	AAAA	The log comes from the module IDS (Intrusion Detection System).
+1142	VSLP	The log comes from the module "PAC" (Packet).
+1143	SYS	The log comes from the SCHED module.
+1144	SPANTREE	The log comes from the SPANTREE module.
+1145	SNASW	The log comes from the LISP module.
+1146	MRIB	The log comes from the module INIT.
+1147	IPFAST	The log comes from the IPFAST module.
+1148	VSLP	The log comes from the module MPLS.
+1149	MACSEC	The log comes from the ARP module.
+1150	LISP	The log comes from the LISP module.
+1151	FASTBLK	The log "Unexpected condition [chars]" likely comes from the ERROR module.
+1152	PLATFORM	Module: CPPHA
+1153	BFD	This log comes from the MPLSOAM module.
+1154	SNASW	The log comes from the IPX module.
+1155	RADIUS	The log comes from the AAA module.
+1156	BERT	The log comes from the module "PLOGDRP" (Packet Logging and Reporting).
+1157	UNEXPECTEDMESSAGE	The log comes from the module "ERRMSG".
+1158	SNASW	Module: MGCP
+1159	DSMIB	The log comes from the module INDEXOBJ.
+1160	DLSWC	The log comes from the IP module.
+1161	SYS	The log comes from the SIGNALLERINIT module.
+1162	CLNS	The log comes from the ISIS module.
+1163	AAA	The log comes from the module "LISP" (Locator/ID Separation Protocol).
+1164	BGP	The log comes from the PATHMGR module.
+1165	AAAA	The log comes from the SGCP module.
+1166	SYS	The log comes from the PARSER module.
+1167	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+1168	TR	The log comes from the module "LCRED" (Line Card Redundancy).
+1169	SNASW	The log comes from the module called "RSCV".
+1170	DIRECTOR	The log comes from the IPACCESS module.
+1171	CRYPTO	The log comes from the module "KEYSTORE".
+1172	SNAPSHOT	Module: DIALER
+1173	TRUNK	The log comes from module DSIP.
+1174	CMANRP	The log comes from the module RP.
+1175	GDOI	The log "Unexpected TEK Protocol" likely comes from the GDOI module.
+1176	PACKET	The log comes from the module "DBUS" (D-Bus).
+1177	VCMS	The log comes from the module "LCINFO" (Linecard Information).
+1178	SYS	The log comes from the MEMORY module.
+1179	PARSER	The log comes from the module DSIP.
+1180	ISDN	The log comes from the module "RESOURCE".
+1181	AAAA	The log comes from the LOGGER module.
+1182	SHMWIN	The log comes from module DSM.
+1183	SYS	The log comes from the SYS module.
+1184	XDR	The log comes from the module ISSU (In-Service Software Upgrade).
+1185	RADIUS	The log comes from the WARNING module.
+1186	TRANSCEIVER	TRANSCEIVER
+1187	MPLS	The log comes from the FRR (Fast Reroute) module.
+1188	SSH	The log comes from the SSH module.
+1189	CELLWAN	Module: MODEM
+1190	LCINFO	NOMEMORY
+1191	DHCPD	The log comes from the DHCPD module.
+1192	RSRB	The log comes from the module CPPDRV.
+1193	MSMR	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1194	ISSU	The log comes from the LOGGER module.
+1195	ATMSIG	The log comes from the ATMSIG module.
+1196	UBRLCCOREDUMP	The log comes from the LOGGER module.
+1197	RSRB	NOMEMORY
+1198	STUN	The log comes from the module DBCONN.
+1199	LCRED	The log comes from the module called "PLATFORM".
+1200	DUAL	The log "Unable to open socket for AS [dec]" likely comes from the module DSIP (Dynamic Shared Interface Protocol).
+1201	HCCP	The log comes from the CONFIG module.
+1202	SYS	The log comes from the module DSGB.
+1203	SNASW	The log comes from the module named EVENTLIB.
+1204	SIP	The log comes from the module "SR".
+1205	SCHED	The log comes from the module: SFP
+1206	SYS	The log comes from the WATCHDOG module.
+1207	HCCP	The log comes from the module "LCLOG".
+1208	IPC	The log comes from the module: CPPDRV
+1209	AAA	The log comes from the module DSCREDCLK.
+1210	TRANGE	The log comes from the TRANGE module.
+1211	LCON	The log comes from the module IDBMAN (Identity Database Management).
+1212	ARAP	The log comes from the TTY module.
+1213	LCLOG	The log comes from the LCLOG module.
+1214	CLUE	The log comes from the CLUE module.
+1215	LISP	Module: LISP
+1216	IPC	The log comes from the IPC module.
+1217	UTD	The log comes from the FIREWALL (FW) module.
+1218	EVPN	The log "Internal error [chars]" likely comes from the module "SYS" (System).
+1219	RADIO	The log comes from the RADIO module.
+1220	XDR	The log comes from the XDR module.
+1221	SYS	The log comes from the module "CONFIG".
+1222	IPACCESS	This log comes from the CEF (Common Event Format) module.
+1223	AAAA	The log comes from the module: AAAA
+1224	AN	The log comes from the module "AUTONOMIC".
+1225	RADIO	The log comes from the module "Radio".
+1226	XDR	The log comes from the XDR module.
+1227	CGC	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1228	CTS	The log comes from the ENVIRONMENTAL module.
+1229	SNASW	The log comes from the module "HPR".
+1230	BSTUN	The log comes from the BSTUN module.
+1231	IDS	IDS
+1232	SYS	The log comes from the module called "SISF" (Scheduler Interface Service Framework).
+1233	CMCC	The log comes from the module DNS.
+1234	UTD	The log comes from the UTD module.
+1235	XMCP	Without the actual log message provided, it is not possible to determine which module it comes from.
+1236	TBRIDGE	The log comes from the module LANMGR.
+1237	CI	Module: FM (Power supply related logs)
+1238	CWPA	The log comes from the DYNCMD module.
+1239	REMIF	The log comes from the module LCINFO.
+1240	CPPFW	The log comes from the module "FW" (Firewall).
+1241	CLNS	The log comes from the module "SYS".
+1242	OSPF	The log comes from the DSS module.
+1243	MLRIB	This log comes from the MLRIB module.
+1244	DBUS	The log comes from the module RSP (Route Switch Processor).
+1245	SYS	The log message "System startup configuration is ignored based on the configuration register setting" likely comes from the module CONFIG.
+1246	QOS	The log comes from the DBMS module.
+1247	MICA	The log comes from the module DSCREDCLK.
+1248	TCMSP	The log "tcmsp_call_block allocate failed" likely comes from the TCMSP module.
+1249	PIM	Module: PIM
+1250	TCP	The log comes from the PT module (PTCLREAD).
+1251	SNASW	The log comes from the SNASW module.
+1252	PA	PA (Port Adapter)
+1253	BFDFSM	The log comes from module CSM (Collective Security Module).
+1254	DSPU	The log comes from the module CBRCCE.
+1255	DYNCMD	The log comes from the LDP module.
+1256	SUDI	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1257	PKI	The log comes from the TLSCLIENT module.
+1258	CBUS	The log comes from the module TTYDRIVER.
+1259	ISSU	The log comes from the module "AUTHMGR" (Authentication Manager).
+1260	CDP	The log comes from the IF module (Interface).
+1261	CGM	The log comes from the CGM module.
+1262	MROUTE	MCASTRED
+1263	CBUS	The log comes from the CONTROLLER module.
+1264	DUAL	The log comes from the OSPF module.
+1265	IAMP	The log comes from the module called "DBCONN" (Database Connection).
+1266	BGP	The log comes from the BGP module.
+1267	SYS	The log comes from the LOGGER module.
+1268	IPRT	The log comes from the module CONFIGURATION.
+1269	SNASW	The log comes from the module TTY.
+1270	MCASTRED	The log comes from the module CAC (Call Admission Control).
+1271	PTCLREAD	The log "ERRMSG_NOFLAGS" comes from the module LOGGER.
+1272	EPAMCM	The log "msgtxt_initfail" likely comes from the module "LOGGER".
+1273	BGP	The log comes from the module BGP (Border Gateway Protocol).
+1274	WCCP	The log comes from the WCCP module.
+1275	AAAA	The log comes from the QOSMGR module.
+1276	PKI	This log comes from the PKI module.
+1277	IPRT	The log comes from the IPRT module.
+1278	AAAA	The log comes from the module: CPPDRV
+1279	ACE	The log comes from the module: HD
+1280	MDT	The log comes from the module called "FMCORE".
+1281	DSMIB	The log comes from the module INDXOBJ.
+1282	SYS	The log likely comes from the module called "PROCESS".
+1283	LISP	This log comes from the CWS (Configurable Web Server) module.
+1284	MPLSMFISTATIC	The log comes from the CRYPTO module.
+1285	METOPT	The log comes from the LCRED module.
+1286	LDP	The log comes from the MPLS module.
+1287	AAAA	The log comes from the CARRIER module.
+1288	AAAA	This log likely comes from the IPDR module.
+1289	GDOI	The log comes from the module DSM.
+1290	DLR	The log comes from the RSP module.
+1291	ACLMGR	The log comes from the module: LOGGER
+1292	MPLSMFISTATIC	The log comes from the LOGGER module.
+1293	BGP	BGP
+1294	QOSMGR	The log comes from the module called "PLATFORM".
+1295	CRYPTO	This log comes from the CRYPTO module.
+1296	ALIGN	Module: ALIGN
+1297	PLATFORM	Module: SMANRP
+1298	QLLC	The log comes from the QLLC module.
+1299	PKI	This log comes from the PKI module.
+1300	BGP	The log comes from the module BGP.
+1301	TCP	The log comes from the TCP module.
+1302	SNASW	The log comes from the INFO module.
+1303	PASSWD	The log comes from the SSH module.
+1304	QOS	Module: QM (Queue Manager)
+1305	MCASTRED	The log comes from the module "MRP" (Media Redundancy Protocol).
+1306	ENVMON	Without the actual log content, it is not possible to determine which module the log comes from.
+1307	FLASH	The log comes from the module DSMP.
+1308	AUTOUPGRADE	Module: AUTOUPGRADE
+1309	SONET	The log comes from the SONET module.
+1310	BGP	The log comes from the GR module (Graceful Restart).
+1311	RPLIC	The log comes from the LICENSE module.
+1312	SYS	The log comes from the module "AAA" (Authentication, Authorization, and Accounting).
+1313	PNP	The log comes from the PNP module.
+1314	SYS	The log comes from the NOMEMORY module.
+1315	QOSMGR	The log comes from the module PBR (Policy-Based Routing).
+1316	SYS	The log comes from the module UBRSNMP.
+1317	AUTHMGR	This log comes from the module ETHCNTR.
+1318	SYS	The log comes from the MEM module.
+1319	IDS	The log comes from the ICMP module.
+1320	VINES	The log comes from the CONFIG module.
+1321	CELLWAN	Module: OIR (Online Insertion and Removal)
+1322	CPPDRV	The log comes from the CPPDRV module.
+1323	ISSU	This log comes from the module of "IAMP" (Image and Version Peer).
+1324	SNASW	The log comes from the module RTP.
+1325	AAA	The log comes from the module "IDBMAN" (IDB Management).
+1326	SYS	The log comes from the module DSMIBPROV.
+1327	SYS	The log comes from the module "PASSWD" (Password Management).
+1328	PKI	This log comes from the PKI module.
+1329	SRP	The log comes from the SRP module.
+1330	LFD	The log comes from the EVENT module.
+1331	PNP	The log comes from the PNP module.
+1332	GDOI	The log comes from the module called "GRP".
+1333	STUN	The log comes from the module CDP (Cisco Discovery Protocol).
+1334	LFD	The log comes from the module DSCREDCLK.
+1335	ADJ	This log comes from the ADJ module.
+1336	FTPSERVER	The log comes from the module called "SIBYTE".
+1337	AUTHMGR	Module: AUTHMGR
+1338	RTT	LOGGER
+1339	QOSMGR	This log likely comes from the module "SLB" (Server Load Balancer) as it deals with shaping traffic and managing network resources to ensure optimal performance.
+1340	AUTHMGR	The log comes from the module VLAN.
+1341	INIT	The log comes from the CONFIGURATION module.
+1342	SIP	Without the specific log content provided, it is not possible to determine which module it comes from.
+1343	CRYPTO	The log comes from the module called "STATE".
+1344	DSPU	The log comes from the CLUE module.
+1345	SYS	The log comes from the CONFIG module.
+1346	SYS	The log "ESM shutdown" likely comes from the module "SYS".
+1347	NHRP	The log comes from the TRANSCEIVER module.
+1348	LCMDC	The log "Encap rate mismatched [chars]" likely comes from the ETHERCHANNEL module.
+1349	MROUTE	The log comes from the module IGMP.
+1350	CMCC	The log comes from the VLAN module.
+1351	MKA	The log comes from the VPDN module.
+1352	BGP	This log comes from the BGP module.
+1353	IDS	The log comes from the ICMP module.
+1354	SYS	The log comes from the module "NOMEMORY".
+1355	DC	The log comes from the DC module.
+1356	SYS	The log comes from the module "BUFFER".
+1357	SYS	Module: EXFREE
+1358	ALPS	The log comes from the module "ETHCNTR" (Ethernet Counter).
+1359	MICA	The log comes from the module "UNEXPECTEDMESSAGE".
+1360	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+1361	IPRT	The log comes from the IPRT module.
+1362	QOS	The log comes from the CBUS module.
+1363	FLOWMON	The log likely comes from the FIREWALL module.
+1364	UTD	The log comes from the UTD (User Traffic Data) module.
+1365	SYS	The log comes from the CONFIG module.
+1366	SNASW	The log comes from module NOMEMORY.
+1367	PNP	The log comes from the INTERFACE module.
+1368	SYS	The log comes from the module "SSH" (Secure Shell) as it is related to a tty session termination.
+1369	SNASW	Module: CPPDRV
+1370	QOSMGR	The log "Queue-Flush not successful" likely comes from the module named LOGGER.
+1371	FW	The log comes from the module: EMAIL.
+1372	IRECAGENTSERVER	The log comes from the IRECAGENTSERVER module.
+1373	AN	Module: PKI
+1374	SYS	The log comes from the TIMER module.
+1375	SFP	The log comes from the module SFP.
+1376	MCASTRED	The log comes from the module called "DDE".
+1377	AAA	The log comes from the DSM module.
+1378	RADPROXY	The log comes from the RPS module.
+1379	PF	This log likely comes from the module "PBR" (Policy-Based Routing) as it involves protocol filtering actions related to routing decisions.
+1380	LSD	The log comes from the DSMIB module.
+1381	XMCP	LOGGER
+1382	CSM	The log comes from the module "DLSWC" (Digital Subscriber Line Wideband Controller).
+1383	CCPROXY	The log comes from the module SIP.
+1384	SSH	The log comes from the SSH module.
+1385	DSPU	The log comes from the module: SSH
+1386	DSMIBPROV	The log comes from the DBUS module.
+1387	SYS	This log comes from the CAC (Call Admission Control) module.
+1388	CTOKEN	The log comes from the module "CTOKEN" (Consent Token).
+1389	DLSWC	The log comes from the SSFPD module.
+1390	EM	The log comes from the EM (Event Manager) module.
+1391	SPANTREE	The log comes from the SPANTREE module.
+1392	CTS	The log comes from the module TTY.
+1393	CMTS	The log comes from the CMTS module.
+1394	IGMP	The log comes from the module AAA.
+1395	SSP	The log comes from the SSP module.
+1396	POSLC	The log comes from the APS module.
+1397	BRIMUX	The log comes from the CHASSIS module.
+1398	MPLSOAMDPM	The log likely comes from the module "IPSEC" as it deals with downstream and upstream traffic in the context of internet communication.
+1399	RADIO	The log comes from the module "RADIO".
+1400	ISSU	The log comes from the VQPCLIENT module.
+1401	VSLP	The log comes from the DSM module.
+1402	VLAN	The log comes from the VLAN module.
+1403	MGCP	The log comes from the LOGGER module.
+1404	SYS	The log comes from the MODULE: FILESYS.
+1405	PARSER	Module: CONFIG
+1406	GLBP	The log comes from the IPFAST module.
+1407	SYS	The log likely comes from the FIB module.
+1408	AAAA	The log comes from the module "GDOI" (Group Domain of Interpretation).
+1409	CTS	The log comes from the CRYPTO module.
+1410	GDOI	CRYPTO
+1411	MODEM	The log comes from the MODEM module.
+1412	RBM	The log comes from the [EM] module.
+1413	SYS	The log comes from the MEMSCAN module.
+1414	CELLWAN	QOSMGR
+1415	AAA	The log comes from the module: SPA.
+1416	EIO	Module: NOMEMORY
+1417	RTMGR	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1418	ETC	The log comes from the module COMP.
+1419	TSP	The log comes from the DSIP module.
+1420	SYS	The log comes from the SYS module.
+1421	SPAN	SPAN
+1422	TCP	The log comes from the TCP module.
+1423	HSRP	The log "Unable to open socket" likely comes from the module IF (Interface).
+1424	CTS	The log comes from the AAAA module.
+1425	BGP	The log comes from the BGP module.
+1426	DIRECTOR	The log comes from the module IDS (Intrusion Detection System).
+1427	RCMD	Module: AUTHMGR
+1428	SIP	Module: VOIPFIB
+1429	SYS	The log comes from the SYS module.
+1430	MMA	The log comes from the MMA module.
+1431	ISDN	The log comes from the module MEM.
+1432	PNP	The log comes from the module PNP.
+1433	ALARM	Module: MEM (Memory)
+1434	SHMWIN	The log comes from the SHMWIN module.
+1435	DIGISIGN	The log comes from the DIGISIGN module.
+1436	LDP	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1437	KEYSTORE	Module: CPPHA
+1438	CONSISTENCY	The log comes from the module ERRMSG.
+1439	DSMP	The log comes from the DSMP module.
+1440	CBRCCE	QOSMGR
+1441	CPPHA	The log comes from the CPP module.
+1442		Without a specific log message provided, it is not possible to determine which module the log comes from.
+1443	RPC	The log comes from the RPC module.
+1444	AAAA	The log comes from the LOGGER module.
+1445	SIP	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1446	LSMPI	The log comes from the module "IPFLOW"
+1447	LSD	The log comes from the CRYPTO module.
+1448	DLSWC	The log comes from the module CPPDRV.
+1449	PKI	The log comes from the PKI module.
+1450	DC	The log comes from the FILE module.
+1451	BGP	The log comes from the BGP module.
+1452	SYS	The log comes from the module ILLEGAL.
+1453	MACSEC	The log comes from the CEF module.
+1454	LCINFO	The log comes from the module "SYS".
+1455	GR	The log comes from the module ERRMSG_NOFLAGS.
+1456	RF	The log comes from the module "RFS" (Redundancy File System).
+1457	SIPSPA	The log comes from the module TBRIDGE.
+1458	MLDP	The log comes from the CONFIGURATION module.
+1459	DYNCMD	The log comes from the module DYNCMD.
+1460	GBIC	The log comes from the GBIC module.
+1461	EIO	NOMEMORY
+1462	METOPT	The log comes from the PLATFORM module.
+1463	SNMP	Module: SNMP
+1464	PMOD	The log comes from the LOGGER module.
+1465	PA	The log comes from the PA (Policy Agent) module.
+1466	SYS	The log comes from the MEM module.
+1467	CTS	The log comes from the ACE module.
+1468	SNASW	The log comes from the module ISYNC.
+1469	IPRT	The log comes from the IP module.
+1470	MCASTRED	The log comes from the module "MPLS"
+1471	GLBP	The log comes from the FIB module.
+1472	EPM	The log comes from the ACLMGR module.
+1473	SYS	The log comes from the TTY module.
+1474	PLOGDRP	The log comes from the module "BIPC".
+1475	MKA	The log comes from the AUDIT module.
+1476	DLR	The log comes from the module called "RFSW" (Ring Forwarding Switch).
+1477	NIM	The log comes from the CHASSIS module.
+1478	DOSFS	The log comes from the LOGGER module.
+1479	CRYPTO	CRYPTO
+1480	AN	The log comes from the SSH module.
+1481	RPS	Module: RPS (Redundant Power System)
+1482	LEX	The log comes from the module PPP.
+1483	OIR	The log comes from the module named "LCINFO" (Line Card Information).
+1484	VTSP	The log comes from the module "CALLTRKR" (Call Tracker).
+1485	AAA	The log "Cannot fork process" likely comes from the module "SYS".
+1486	LB	The log comes from the module "DLSWC" (Data Link Switching Client).
+1487	DPSS	The log comes from the IPC module.
+1488	SYS	NOMEMORY
+1489	EPM	The log comes from the IP module.
+1490	QLLC	The log comes from the QLLC module.
+1491	QOS	The log comes from the module QOS (Quality of Service).
+1492	SIGSM	The log comes from the LCLOG module.
+1493	QOSMGR	This log likely comes from the module CBRCCE (Class-Based Real-Time Control Enforcement).
+1494	DBUS	The log comes from the DBUS module.
+1495	CRYPTO	Module: CTOKEN
+1496	CLNS	The log comes from the MPLSMFISTATIC module.
+1497	SYS	The log comes from the BOOT module.
+1498	SNASW	The log comes from the INFO module.
+1499	CRYPTO	The log comes from the module CCPROXY.
+1500	TRANSCEIVER	TRANSCEIVER
+1501	QOSMGR	QOSMGR
+1502	CCPROXY	The log comes from the SGCP module.
+1503	PACKET	The log comes from the module: SHMWIN
+1504	EVENT	The log comes from the LOGGER module.
+1505	MDS	The log comes from the IPC module.
+1506	SNASW	The log comes from the module UBRLCCOREDUMP.
+1507	DSM	The log comes from the module ERROR.
+1508	CONFIGURATION	The log comes from the LISP module.
+1509	CTS	The log comes from the MODULE: IPSEC
+1510	CRYPTO	The log comes from the CRYPTO module.
+1511	AAA	The log comes from the module "UBRCCE" (UBR Common Control Engine).
+1512	QOSMGR	The log comes from the SCHED module.
+1513	SYS	The log comes from the PROCESS module.
+1514	NTP	Module: NTP
+1515	SNASW	The log comes from the module HPR.
+1516	POSLC	The log comes from the POSLC module.
+1517	MCASTRED	The log comes from the module SYNC.
+1518	CTS	The log comes from the module CACHE.
+1519	ATMSPA	The log comes from the module "MPLSOAM" (MPLS Operations, Administration, and Maintenance).
+1520	CTS	The log comes from the module "SISF" (Secure Integrated Services Framework).
+1521	HUJR	The log comes from the DBMS module.
+1522	MROUTE	The log comes from the TIMER module.
+1523	TBRIDGE	The log comes from the module ENSP.
+1524	RFS	The log comes from the RFS module.
+1525	IDS	The log comes from the RPC module.
+1526	SYS	The log comes from the MEMORY module.
+1527	ISSU	come from any of the listed modules.
+1528	RFS	The log comes from the RFS module.
+1529	OTNMGR	The log comes from the IF (Interface) module.
+1530	AN	This log likely comes from the module "ISRHOG" (Inter-Subnet Routing Hand-Over Gateway) as it involves neighbor connections and device addresses within a domain.
+1531	CCM	The log comes from the module INVTRANS.
+1532	DBUS	The log comes from the PA (Port Adapter) module.
+1533	SYS	The log comes from the module "MEM" (Memory).
+1534	IPRT	The log comes from the DBMS module.
+1535	FW	The log comes from the module FTPSERVER.
+1536	AN	The log comes from the CONFIG module.
+1537	SYS	The log comes from the UTIL module.
+1538	SDLC	The log comes from the IF module (Interface).
+1539	ADJ	The log comes from the IP module.
+1540	OIR	The log comes from the module REMIF.
+1541	METOPT	This log comes from the module "BUFCAP" (Buffer Capacity).
+1542	GK	The log comes from the GK (Gatekeeper) module.
+1543	CTS	The log comes from the CTS module.
+1544	FTSP	The log comes from the module "TTY".
+1545	SYS	The log message "Ran out of buffer elements for enqueue" likely comes from the module named "DSPRM" (Digital Signal Processor Resource Manager).
+1546	LB	The log comes from the module "TRUNK".
+1547	QOSMGR	This log comes from the QOS module.
+1548	CLNS	The log comes from the PPP module.
+1549	SYS	The log comes from the module: UNEXPECTEDMESSAGE
+1550	SNASW	Module: NOMEMORY
+1551	AN	The log comes from the module "IPACCESS".
+1552	MKA	The log comes from the module MKA.
+1553	OIR	The log comes from the RF module.
+1554	CLUE	The log comes from the CLUE module.
+1555	IPNAT	Module: IPNAT
+1556	RMON	The log comes from the module "FALLBACK"
+1557	QOSMGR	The log comes from the CEF (Cisco Express Forwarding) module.
+1558	SPAN	The log comes from the SPAN module.
+1559	PASSWD	The log comes from the PASSWD module.
+1560	DMVPN	The log comes from the IPSEC module.
+1561	EM	The log comes from the EM module.
+1562	IFMGR	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1563	SPARC	The log comes from the SPARC module.
+1564	SYS	The log comes from the module TTY.
+1565	TUN	The log comes from the LOGGER module.
+1566	QOSMGR	The log comes from the module "STATISTICS".
+1567	RFPROXY	The log "Initialization failed" likely comes from the module SIGNALLERINIT.
+1568	ISSU	The log comes from the module "REGISTRY".
+1569	XDR	The log comes from the module RADIUS.
+1570	OBJGROUP	The log comes from the OBJGROUP module.
+1571	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+1572	VCMS	The log comes from the module "LINECARD".
+1573	SYS	The log comes from the module "NOMEMORY".
+1574	SYSCTLR	The log comes from the module named "XCVR" (Transceiver).
+1575	RSVP	The log likely comes from the module "LCLOG" (Logging and Control Module).
+1576	TR	The log "Unit [dec] open failed [chars] [chars]" likely comes from the module FILESYS.
+1577	STUN	The log comes from the module TCP.
+1578	DRP	This log comes from the IP module.
+1579	VASI	The log comes from the VASI module.
+1580	MEM	The log comes from the module COMP.
+1581	SPA	The log comes from the SPA module.
+1582	VPA	The log comes from the module RM (Resource Manager).
+1583	LCMDC	The log comes from the ALARM module.
+1584	LSD	The log comes from the HUJR module.
+1585	SRP	The log comes from the CPPHA module.
+1586	OSPF	The log comes from the module CPPEXMEM.
+1587	SYS	The log comes from the module "MEMSCAN".
+1588	ISSU	The log comes from the CSM module.
+1589	IPC	Module: MEM
+1590	ADJ	The log comes from the ADJ module.
+1591	ATMSIG	The log comes from the module "MRIB" (Multicast Routing Information Base).
+1592	SYS	The log message "Free a non allocated ptr [hec] size [dec]" likely comes from the module called MEMSCAN.
+1593	SRC	The log comes from the SRC module.
+1594	LICENSE	The log comes from the LICENSE module.
+1595	IDMNGR	The log comes from the PARSER module.
+1596	DSG	The log comes from the DSG module.
+1597	SYS	The log comes from the module CPPEXMEM.
+1598	SYS	The log comes from the SNMP module.
+1599	MPLSOAMDPM	The log comes from the module IP.
+1600	ISDN	The log comes from the ISDN module.
+1601	PKI	The log comes from the PKI module.
+1602	MDT	The log comes from the module MDT (Multicast Dissemination Tree).
+1603	PARSER	The log comes from the CONFIGURATION module.
+1604	AAA	Module: AAA
+1605	PNP	The log "Mode change in progress" likely comes from the module "MODEM".
+1606	PBR	The log comes from the module called ACLMGR.
+1607	RSP	The log comes from the module MACSEC.
+1608	IPC	Without the specific log content provided, it is not possible to determine which module it comes from.
+1609	RADIUS	Module: CFG
+1610	PNP	The log comes from the PNP module.
+1611	VPA	The log comes from the VPA module.
+1612	SYS	The log comes from the module DSCREDCLK.
+1613	HMANRP	This log likely comes from the module "SPANTREE" as it mentions an active switch being elected.
+1614	ATMSPA	The log comes from the ALARM module.
+1615	SYS	The log comes from the module "LOGGER".
+1616	CPPEXMEM	The log comes from the CPPEXMEM module.
+1617	SYS	The log comes from the SYS module.
+1618	SYS	MEMSCAN
+1619	SYS	The log comes from the module CONFIG.
+1620	BGP	The log comes from the module "REDUNDANCY".
+1621	GK	The log comes from the GK (Gatekeeper) module.
+1622	IPRT	The log comes from the BFD module.
+1623	SNASW	The log comes from the DSCEXTCLK module.
+1624	DC	The log comes from the module: EC
+1625	QUICC	The log comes from module MEM.
+1626	CELLWAN	The log comes from the module AUTOUPGRADE.
+1627	OIR	The log comes from the module DSMP.
+1628	MDS	The log comes from the module "LCLOG".
+1629	HDLC	CPPEXMEM
+1630	STUN	The log comes from the module RUDP (Reliable User Datagram Protocol).
+1631	PARSER	The log "Purge config log failed" likely comes from the module "CFG".
+1632	CAC	The log comes from the CAC (Call Admission Control) module.
+1633	FRR	The log "ERRMSG_NOFLAGS" likely comes from the module "UNEXPECTEDMESSAGE".
+1634	DLSWP	The log comes from the [SYSCTLR] module.
+1635	SYS	The log comes from the module: MALLOC.
+1636	FW	Module: TXCONN
+1637	DUAL	The log comes from the module IFS (Interface).
+1638	AT	The log comes from the IPRT module.
+1639	RADIAN	The log comes from the Radian module.
+1640	CLNS	The log comes from the OSPF module.
+1641	ARAP	The log comes from the ARAP module.
+1642	SSFPD	The log comes from the module SFP.
+1643	SYS	The log comes from the module PHY.
+1644	AAA	The log comes from the ISDN module.
+1645	GDOI	The log comes from the module "GK" (Gatekeeper).
+1646	IPNAT	The log comes from the IPNAT module.
+1647	SYS	The log comes from the CPPHA module.
+1648	CBUS	The log comes from the module TTYDRIVER.
+1649	SYS	The log comes from the module called "LOGGER".
+1650	PKI	The log comes from the module "PWDKEYTRUNC" (Password and Key Truncation).
+1651	EVPN	Module: VRRP
+1652	SYS	This log comes from the MEM module.
+1653	MCASTRED	The log comes from the module MCAST.
+1654	CALLTRKR	The log comes from the [SYSCTLR] module.
+1655	CEF	Module: VRRS
+1656	AAA	The log comes from the module "HIGH AVAILABILITY" (HA).
+1657	PLATFORM	The log comes from the CONFIGURATION module.
+1658	INFRA	Without the actual log content provided, it is not possible to determine which module the log comes from.
+1659	SRP	The log comes from the module DSIP (Dereferencing NULL pointer).
+1660	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+1661	RADIAN	The log comes from the module "Radian"
+1662	IFMGR	The log comes from the module called "CER".
+1663	IPCOIR	The log comes from the module "DC" (Watchdog Timer).
+1664	SYS	The log comes from the FILESYS module.
+1665	MLSM	The log comes from the module "MCASTRED" (Multicast Redundancy).
+1666	DUAL	The log comes from the TRANSCEIVER module.
+1667	IPFLOW	NOMEMORY
+1668	IPRT	Module: MROUTE
+1669	DOMAIN	The log comes from the CONFIG module.
+1670	BGP	The log comes from the BGP module.
+1671	ILACC	The log comes from the module CTS (Collision Threshold System).
+1672	IPX	The log comes from the LSMPI module.
+1673	IPC	The log comes from the module RPLIC (Replication).
+1674	SNASW	The log comes from the DNS module (BIND).
+1675	HTTPC	The log comes from the HTTPC module.
+1676	LCRED	The log comes from the module "LCRED" (Line Card Redundancy).
+1677	AAAA	The log comes from the AAA module.
+1678	ENVMON	CHASSIS
+1679	DSCCLOCK	The log comes from the module DSCCLOCK.
+1680	TBRIDGE	The log comes from the TBRIDGE module.
+1681	SIGNATURE	The log comes from the module "ERROR".
+1682	DIGISIGN	The log comes from the DIGISIGN module.
+1683	SPE	The log comes from the PM module.
+1684	SYS	The log comes from the SNMP module.
+1685	CHASSIS	The log comes from the module "UBRLCCOREDUMP".
+1686	SISF	The log comes from the IPMOBILE module.
+1687	INFRA	The log likely comes from the module DSPU.
+1688	SNASW	The log comes from the INFO module.
+1689	PKTLOG	The log comes from the PACKET module.
+1690	ICC	CHASSIS
+1691	CEMA	The log comes from the VPN module.
+1692	SYS	The log comes from the module: SYS
+1693	PLATFORM	The log comes from the module HPI.
+1694	SYS	The log comes from the CLOCK module.
+1695	IEDGE	The log comes from the AAAA module.
+1696	AUDIT	The log comes from the CONFIG module.
+1697	ENVIRONMENTAL	Module: DTLS
+1698	SNASW	The log comes from the ISR module.
+1699	CWANLC	The log comes from the module named "CHASSIS".
+1700	LFD	The log comes from the IF module.
+1701	DSMP	The log comes from the DSP module.
+1702	AAA	The log comes from the module PARSER.
+1703	BFD	The log comes from the BFD module.
+1704	DLR	The log comes from the SSH module.
+1705	MPLSOAMDPM	The log comes from the module "IPFLOW".
+1706	MLDP	Module: MLDP
+1707	AAAA	The log comes from the AAAA module.
+1708	REMIF	The log comes from the module: LOGGER
+1709	SYS	The log comes from the module "POOL".
+1710	QOSMGR	QOSMGR
+1711	ATTN	The log comes from the RUDP module.
+1712	GK	The log comes from the GK (Gatekeeper) module.
+1713	MCASTRED	Module: MCASTRED
+1714	PA	The log comes from the CONTROLLER module.
+1715	SCHED	The log comes from the SHMWIN module.
+1716	ILACC	The log comes from the module ETHCNTR.
+1717	IF	The log comes from the module "IDB" (Interface Database).
+1718	AUTOUPGRADE	Module: AUTOUPGRADE
+1719	OSPF	The log comes from the OSPF module.
+1720	CHKPT	The log comes from the CHKPT module.
+1721	XDR	The log comes from the module "SYS" (System).
+1722	RF	The log comes from the module ACE.
+1723	QOSMGR	The log comes from the module called "HW".
+1724	SCHED	The log comes from the EVENT module.
+1725	GBIC	The log comes from the GBIC module.
+1726	MKA	Module: MKA (Media Key Agreement)
+1727	RAC	The log comes from the DHCP module.
+1728	IPRT	The log comes from the module "DC" (Data Center).
+1729	PKTLOG	The log comes from the PKTLOG module.
+1730	LICENSE	The log comes from the module ERROR.
+1731	RTT	The log comes from the module "API".
+1732	MCASTRED	This log comes from the HSRP module.
+1733	RSP	HA (High Availability)
+1734	LISP	The log comes from the LISP module.
+1735	CDP	The log comes from the VLAN module.
+1736	IOMD	The log message "Failed to create [chars] message for [chars]" likely comes from the module called "CRYPTO".
+1737	ENVMON	The log comes from the ENVIRONMENTAL module.
+1738	ARP	The log comes from the ARP module.
+1739	ETC	The log comes from the module CEF (Cisco Express Forwarding).
+1740	DMTDSL	The log comes from the DMTDSL module.
+1741	NBAR	The log comes from the NBAR module.
+1742	XOS	The log comes from the XOS module.
+1743	GDOI	Module: GDOI
+1744	DNET	The log comes from the DECNET module.
+1745	CHKPT	The log comes from the CHKPT module.
+1746	POSLC	The log comes from the module POSLC.
+1747	PNP	The log comes from the PNP module.
+1748	QOSMGR	This log likely comes from the CFT (Class of Service) module.
+1749	CERM	The log comes from the module "SEC" (Security).
+1750	SNASW	The log comes from the module ACR.
+1751	LISP	The log comes from the LISP (Locator/ID Separation Protocol) module.
+1752	CELLWAN	The log comes from the module "DMTDSL"
+1753	CTS	The log comes from the module "FWALL" (Firewall).
+1754	CELLWAN	The log comes from the module "PPP" (Point-to-Point Protocol).
+1755	SNASW	Module: CPPEXMEM
+1756	LCINFO	The log comes from the LCINFO module.
+1757	LISP	The log comes from the LISP (Locator/ID Separation Protocol) module.
+1758	CTS	The log comes from the module "AUTHC" as it mentions "Received AUTHC FAIL".
+1759	POSLC	The log comes from the LC module.
+1760	VPDN	The log comes from the AUTHMGR module.
+1761	RPC	The log "RPC recvfrom failed" likely comes from the RPC module.
+1762	SNASW	The log comes from the DSPU module.
+1763	SNASW	The log comes from the module: IPSEC
+1764	RUDP	The log comes from the RUDP module.
+1765	SYS	The log comes from the TTY module.
+1766	ILPOWER	ILPOWER
+1767	CONSISTENCY	The log "ERRMSG_FLAG_TRACEBACK" likely comes from the module "LOGGER".
+1768	PRP	The log comes from the MEM module.
+1769	IP	The log comes from the IP module.
+1770	IPNAT	The log comes from the IPNAT module.
+1771	LANE	The log comes from the VLAN module.
+1772	DTP	The log comes from the module MEMSCAN.
+1773	CTS	The log comes from the TIMER module.
+1774	SRP	The log comes from the ERROR module.
+1775	PLATFORM	The log message "Mac table has reached the maximum limit. Features dependent on Mac table may have an impact." likely comes from the module "ETHCNTR" (Ethernet Counter).
+1776	SYS	The log comes from the SYS module.
+1777	MMA	The log comes from the IPC module.
+1778	SSSMGR	The log message "Encountered an unexpected message [chars]" most likely comes from the module DSM (Data Storage Module).
+1779	AN	The log comes from the module "AUTONOMIC VRF".
+1780	UBRLCCOREDUMP	The log comes from the module called "SFP" (Small Form-factor Pluggable).
+1781	FILESYS	The log comes from the PCMCIAFS module.
+1782	SNASW	The log comes from the module "TUN" (Tunneling).
+1783	IPRT	Module: IPRT (IP Routing)
+1784	INIT	The log comes from the ERROR module.
+1785	VFC	The log comes from the VFC module.
+1786	XCVR	The log comes from the XCVR module.
+1787	ATA	ATA
+1788	ADJ	The log comes from the RPLIC module.
+1789	OSPF	The log comes from the OSPF module.
+1790	DSS	The log comes from the module DSP.
+1791	CTS	This log likely comes from the CACHE module.
+1792	CTS	Module: AAA
+1793	DYNCMD	The log message "Failed to acquire package list lock for [chars] [chars]" likely comes from the PACKAGE module.
+1794	SYS	The log comes from the module DSIP.
+1795	DSCREDCLK	The log comes from the DSC module.
+1796	OSPF	This log comes from the BGP module.
+1797	AN	The log comes from the PARSER module.
+1798	SYS	The log comes from the ENVIRONMENTAL module.
+1799	SNASW	The log comes from the module CBUS.
+1800	PT	The log comes from the module called "IF" (Interface).
+1801	DTP	The log comes from the VLAN module.
+1802	SNASW	The log comes from the module NOMEMORY.
+1803	DSPRM	The log comes from the DSP module.
+1804	RPS	Module: ENVIRONMENT
+1805	CPPEXMEM	The log comes from the module CPPEXMEM.
+1806	PNP	The log comes from the PNP module.
+1807	FW	The log comes from the FW (Firewall) module.
+1808	EC	This log comes from the module TRUNK.
+1809	CBUS	The log comes from the CONTROLLER module.
+1810	DSMIB	The log comes from the DSMIB module.
+1811	SSH	The log comes from the SSL module.
+1812	UTD	The log comes from the UTD module.
+1813	RSP	The log comes from the module "SYS".
+1814	CONTROLLER	The log comes from the CLOCK module.
+1815	BFD	The log "Failed initializing wavl tree" likely comes from the DSM module.
+1816	CTS	The log comes from the module EPM (Policy Management).
+1817	SBC	Module: NOMEMORY
+1818	CRYPTO	The log comes from the PLATFORM module.
+1819	QOSMGR	This log likely comes from the QOSMGR (Quality of Service Manager) module.
+1820	IPC	The log comes from the LOGGER module.
+1821	PF	TRUNK
+1822	MICA	The log comes from the PLATFORM module.
+1823	AUTHMGR	VRRP
+1824	SYS	LOGGER
+1825	EVPN	The log comes from the module TTY.
+1826	QOSMGR	The log comes from the module named "QOS".
+1827	HPI	The log comes from the module DSPU.
+1828	GDOI	The log comes from the REQGRP module.
+1829	SYS	Module: MEMSCAN
+1830	SYS	Module: MEM (Memory)
+1831	SYS	The log "Cannot start timer [hex] with negative offset [dec]" likely comes from the TIMER module.
+1832	DTLS	The log comes from the DTLS module.
+1833	QOS	The log comes from the QOS module.
+1834	SYS	Module: URLF
+1835	TLSCLIENT	The log comes from the TLSCLIENT module.
+1836	SPANTREE	The log comes from the module ETC.
+1837	SYS	The log comes from the module: UTIL
+1838		The log comes from the module called "SYS".
+1839	PLATFORM	The log comes from the module RSRB (RF Standby Router Protocol).
+1840	FTPSE	The log comes from the LOGGER module.
+1841	MKA	The log comes from the module "PHY" (Physical Layer).
+1842	XDR	The log comes from the ISSU module.
+1843	LCMDC	The log comes from the SONETMIB module.
+1844	ILPOWER	The log comes from the ETHERCHANNEL module.
+1845	MKA	The log comes from the module ISSU.
+1846	TR	The log comes from the module CARRIER.
+1847	SYS	The log comes from the SYS module.
+1848	ADJ	The log comes from the module ADJ (Adjacency).
+1849	REMIF	The log comes from the TCP module.
+1850	PACTRAC	The log comes from the PARSER module.
+1851	QOS	The log comes from the module named "CBUS" (Class-Based Weighted Random Early Detection).
+1852	SNASW	The log comes from the LINK module.
+1853	CTS	The log comes from the AAA module.
+1854	QOSMGR	This log comes from the QOS module.
+1855	CMTS	The log comes from the CMTS module.
+1856	SYS	The log comes from the module TTY.
+1857	EPM	Module: ACE
+1858	UBRSNMP	The log comes from the SNMP module.
+1859	ILPOWER	The log comes from the ILPOWER module.
+1860	DEAD	The log likely comes from the module "LOGGER".
+1861	CPPDRV	The log comes from the module CPPDRV.
+1862	TENSRFSM	The log comes from module ILLEGAL.
+1863	AC	The log comes from the LANCE module.
+1864	ARP	Module: ARP
+1865	CTS	The log comes from the CACHE module.
+1866	DC	The log comes from the SYSCTLR module.
+1867	SYS	The log comes from the SYS module.
+1868	IPNAT	DHCPD
+1869	TXCONN	The log comes from the module IDS (Intrusion Detection System).
+1870	RF	LB (Load Balancer)
+1871	SYS	The log comes from the module NOMEMORY.
+1872	LICENSE	The log comes from the module CPPDRV.
+1873	DUAL	The log comes from the TIMER module.
+1874	EDSP	The log comes from the EDSP module.
+1875	CHKPT	The log comes from the module named SYS.
+1876	SYS	The log comes from the module CPPEXMEM.
+1877	SYS	The log comes from the INIT module.
+1878	OIR	The log comes from the module named "OIR" (Online Insertion and Removal).
+1879	LICENSE	The log comes from the module CSMPI.
+1880	PNP	The log comes from the FTPSERVER module.
+1881	QOS	The log comes from the ETHERCHANNEL module.
+1882	MCASTRED	The log comes from the module PIM.
+1883	CRYPTO	Without the specific log content provided, it is not possible to determine which module the log comes from.
+1884	MSMR	This log comes from the AN (Access Node) module.
+1885	SYS	The log comes from the ACLMGR module.
+1886	POSLC	The log comes from the LOGGER module.
+1887	CIRRUS	The log comes from the module HDLC (High-Level Data Link Control).
+1888	FLOWMON	The log likely comes from the PACKET module.
+1889	SYS	The log comes from the module FILESYS.
+1890	CTS	The log comes from the CTS module.
+1891	BGP	The log comes from the module BGP.
+1892	MODEM	The log comes from the module FMCORE.
+1893	LANMGR	This log comes from the module "RING".
+1894	DSPU	The log comes from the LANCE module.
+1895	CALLTREAT	The log comes from the CALLTRKR module.
+1896	DWDM	The log comes from the LOGGER module.
+1897	SYS	The log comes from the TIMER module.
+1898	SYS	The log comes from the TIMER module.
+1899	DSIPPF	The log comes from the DSIP module.
+1900	URLF	The log comes from the URLF module.
+1901	SPA	The log comes from the ENVM module.
+1902	SNASW	The log comes from the SNA module.
+1903	OSPF	The log comes from the OSPF module.
+1904	SYS	The log comes from the MEM module (Memory Management).
+1905	TCP	CALLTRKR
+1906	CTS	The log comes from the ACE module.
+1907	SYS	The log comes from the module "CFG" (Configuration).
+1908	PHY	PHY
+1909	BSTUN	Module: BGP
+1910	SYS	The log comes from the module "IP".
+1911	MDT	The log comes from the MDT module.
+1912	PNP	The log comes from the PNP module.
+1913	CCPROXY	The log comes from the module CCPROXY.
+1914	GDOI	The log comes from the CSG module.
+1915	SYS	The log comes from the module FTPSERVER.
+1916	SBC	The log comes from the IPC module.
+1917	PNP	The log comes from the PNP module.
+1918	SYS	The log comes from the module SIGNALERINIT.
+1919	PIM	The log comes from the LISP module.
+1920	SYS	CONFIG
+1921	TTYDRIVER	The log comes from the module CEF (Cisco Express Forwarding).
+1922	IPRT	Module: PBR (Policy-Based Routing)
+1923	CNS	The log comes from the SYSCTLR module.
+1924	CLNS	The log comes from the ISIS module.
+1925	IDS	The log comes from the SEC module.
+1926	ISSU	The log comes from the module EAP (Extensible Authentication Protocol).
+1927	SYS	The log comes from the module DSMP.
+1928	LOGGER	The log comes from the LOGGER module.
+1929	ALPS	The log comes from the module "BGP" (Border Gateway Protocol).
+1930	MCASTRED	The log message "No message buffer specified for generic sync message info" likely comes from the module "INFO".
+1931	SYS	The log "System Crashed Writing Core...." likely comes from the module SYS (System).
+1932	CPPDRV	Module: MEM
+1933	FILESYS	Chassis
+1934	QOS	The log comes from the module CRYPTO.
+1935	SNASW	This log comes from the SNA Switch module.
+1936	IPACCESS	The log "Invalid ACL field [chars] is [dec]" likely comes from the IPACCESS module.
+1937	MMA	The log "Failed to malloc chunk memory for [chars]" likely comes from the module FLEXDSPRM.
+1938	SRC	The log comes from the SRC module.
+1939	PT	The log comes from the module "FWALL" (Firewall).
+1940	MLSM	The log comes from the MLDP module.
+1941	DHCP	Module: DHCP
+1942	SYS	The log comes from the module called QM (Queue Manager).
+1943	RSP	The log comes from the module DSIPPF.
+1944	IDS	The log comes from the RPC module.
+1945	SYS	The log comes from the module "CBUS".
+1946	LNMC	The log comes from the module INVTRANS.
+1947	NBAR	The log comes from the LOGGER module.
+1948	MPOA	The log comes from the [PHY] module.
+1949	SONET	The log comes from the LOGGER module.
+1950	SYS	The log comes from the TTYDRIVER module.
+1951	IPC	The log message "Failed for message size [dec]" likely comes from the module MAXMSGSIZE.
+1952	CELLWAN	The log comes from the module GSM.
+1953	PNP	The log comes from the PNP module.
+1954	KEYSTORE	The log comes from the KEYSTORE module.
+1955	AAA	The log "Cannot fork process [chars]" likely comes from the module "OSCP" (Operating System Control Protocol).
+1956	BFD	Module: RSVP
+1957	SYS	The log comes from the SYS module.
+1958	QOS	This log likely comes from the IPSEC module.
+1959	NTP	The log comes from the ARP module.
+1960	XOS	Module: XOS
+1961	TENSRFSM	The log comes from the EVENT module.
+1962	TENSRFSM	The log comes from the EVENT module.
+1963	ISDN	The log comes from the LEX module.
+1964	XOS	The log comes from the XOS module.
+1965	GPRSFLTMG	The log comes from the GSN module.
+1966	SYS	The log comes from the WATCHDOG module.
+1967	GPRSFLTMG	The log comes from the TTY module.
+1968	VPA	The log comes from the VPA module.
+1969	SYS	The log comes from the MEMORY module.
+1970	OSPF	The log "Unable to allocate checkpoint buffer" likely comes from the BUFCAP module.
+1971	FM	The log comes from the ACLMGR module.
+1972	SYS	The log comes from the MEMSCAN module.
+1973	AAAA	The log comes from the AAAA module.
+1974	SNASW	This log comes from the LDP module.
+1975	BGP	The log comes from the BGP module.
+1976	OSPF	The log comes from the OSPF module.
+1977	GDOI	The log comes from the ACL module.
+1978	SYS	The log comes from the SYS module.
+1979	SCHED	The log comes from the RCMD module.
+1980	PARSER	The log comes from the CONFIG module.
+1981	MEDIATRACE	The log comes from the LANCE module.
+1982	RTMGR	The log comes from the module CEF (Cisco Express Forwarding).
+1983	NAT	The log comes from the DTP module.
+1984	TR	The log comes from the module "ERROR".
+1985	SYS	The log message "Free a non allocated ptr [hec] size [dec]" likely comes from the module: MEMORY MANAGEMENT (MEMMGR)
+1986	CRYPTO	The log comes from the CRYPTO module.
+1987	QOSMGR	NOMEMORY
+1988	SYS	Module: CPPEXMEM
+1989	PKI	The log comes from the PKI module.
+1990	UCODE	The log comes from the IPC module.
+1991	IPRT	The log comes from the RIB module.
+1992	SYS	The log comes from the CONFIG module.
+1993	EDSP	CEF
+1994	NAT	The log comes from the module VPA (Virtual Private Network Access).
+1995	IPC	The log comes from the PT module.
+1996	DHCP	The log comes from the DHCP module.
+1997	CPPBQS	The log comes from the QM (Quality Management) module.
+1998	SDVT	The log comes from the module SDVT.
+1999	ENVMON	The log comes from the ENVMON module.
+2000	IPRT	Module: IPMOBILE
+2001	REDUNDANCY	The log "ERRMSG_NOFLAGS" likely comes from the module LOGGER.
+2002	RSVP	The log comes from the RSVP module.
+2003	FLOWMON	The log comes from the TCP module.
+2004	CI	The log comes from the CI module.
+2005	RF	RF
+2006	RTMGR	This log likely comes from the BDOMAIN module.
+2007	CWANLC	The log comes from the IPCOIR module.
+2008	AAA	The log comes from the AAA module.
+2009	DBMS	The log comes from the LOGGER module.
+2010	MDT	The log comes from the MPLSOAMDPM module.
+2011	SYS	The log comes from the TIMER module.
+2012	CTS	The log comes from the SSH module.
+2013	SYS	The log comes from the module "DSIP" (Dynamic Scheduler IP).
+2014	CI	The log comes from the module "PHY" (Physical Layer).
+2015	SYS	Module: BRIDGE
+2016	SYS	The log comes from the module NOMEMORY.
+2017	CTS	The log comes from the module CPPDRV.
+2018	ISRHOG	The log comes from the module "CPPEXMEM" (C++ Exception Memory).
+2019	UBRCCE	The log comes from the module "CMANRP" (Cable Modem ANRP).
+2020	SNASW	The log comes from the INFO module.
+2021	DTP	The log comes from the CONFIG module.
+2022	VSLP	The log comes from the module "RCMD" (Remote Command Execution).
+2023	CTS	The log comes from the module PBR (Policy-Based Routing).
+2024	LCMDC	The log comes from the IF (Interface) module.
+2025	VINES	This log comes from the IPACCESS module.
+2026	LICENSE	Module: LICENSE
+2027	FR	The log comes from the module FR.
+2028	MDNSPROXY	Module: IP
+2029	DSG	The log comes from the DSG module.
+2030	DIAG	The log comes from the module "RUNNING".
+2031	QOSMGR	The log comes from the module "QOSMGR" (Quality of Service Manager) as it mentions programming the ASIC for a policy map, which is related to quality of service management.
+2032	MFIB	The log comes from the DEC module.
+2033	SYS	The log comes from the module EC (Error Correction).
+2034	APPFW	The log comes from the module SIPSPA.
+2035	MICA	The log comes from the DMA module.
+2036	SYS	The log comes from the module called "BOOTLOADER".
+2037	RTT	The log comes from the LIBTIFF module.
+2038	CSMPI	The log comes from the CSMPI module.
+2039	IOMD	The log comes from the PT module.
+2040	IPMOBILE	The log comes from the module "IPACCESS".
+2041	SIPSPA	The log comes from the DSCCLOCK module.
+2042	DIRECTOR	The log comes from the MODULE: PLUGIN
+2043	BFD	The log comes from the BFD module.
+2044	SIGNALLERINIT	The log ERRMSG_NOFLAGS comes from the ERROR module.
+2045	SDVT	The log comes from the HA (High Availability) module.
+2046	CMANRP	The log 'install commit' is most likely from the AUTOUPGRADE module.
+2047	CTS	The log comes from the module CRYPTO.
+2048	PAC	The log comes from the DSIP module.
+2049	AAAA	Module: AAAA
+2050	SNASW	The log comes from the module DSIPPF.
+2051	MUESLIX	The log comes from the CONTROLLER module.
+2052	AAA	The log comes from the AAA module.
+2053	GDOI	The log comes from the module IDS.
+2054	DUAL	The log comes from the module "INTERNAL ERROR".
+2055	PATHMGR	The log comes from the module: IPC
+2056	OSPF	The log comes from the OSPF module.
+2057	CNS	The log "PROCESSING FAILED" likely comes from the module called "SYS".
+2058	AAA	The log comes from the module: LOGGER
+2059	ALPS	This log likely comes from the module "CIRCUIT".
+2060	SYS	The log comes from the SYS module.
+2061	RFSW	The log comes from the module RFSW (Remote File System Write).
+2062	FNF	The log comes from the ENVMON module.
+2063	LOGGER	The log "failure" likely comes from the LOGGER module.
+2064	DUAL	The log comes from the module ETHERCHANNEL.
+2065	PNP	PKI
+2066	SYS	The log message "is no longer monitoring cpu at level for the configured limit" is likely from the ENVMON module.
+2067	CRYPTO	CRYPTO
+2068	MLSM	The log comes from the module MLSM (Multi-Layer Switch Module).
+2069	COLLECTOR	The log "Failed to reset csb vars" likely comes from the module CCE (Call Control Engine).
+2070	SYS	The log comes from the module "NOMEMORY" as it indicates that there is no space remaining to save private config.
+2071	FRAG	The log comes from the module IPRT.
+2072	LISP	The log comes from the TCP module.
+2073	AAA	The log comes from the MEM module.
+2074	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+2075	PLATFORM	The log comes from the module "RUDP" (Reliable User Datagram Protocol).
+2076	LISP	The log comes from the LISP module.
+2077	SYS	The log comes from the module LOGGER.
+2078	SYS	The log comes from the module "CLOCK".
+2079	RF	The log likely comes from the module "SLB" (Server Load Balancer) as it involves communication with a peer CPU, which is a common operation in load balancing systems.
+2080	SNASW	The log comes from the RSCV module.
+2081	DMVPN	The log comes from the module "MPLSOAM".
+2082	NBAR	The log comes from the NBAR module.
+2083	PGM	The log comes from the IPACCESS module.
+2084	CELLWAN	Module: CELLWAN
+2085	RSVP	This log comes from the module "KEYSTORE".
+2086	GDOI	 from the IPSEC module.
+2087	AUTORP	The log comes from the module "RP" (Routing Protocol).
+2088	FR	The log comes from the FR module.
+2089	MAXMSGSIZE	The log comes from the ERRMSG module.
+2090	SYS	The log comes from the module LOGGER.
+2091	QOSMGR	The log comes from the QOSMGR module.
+2092	CMTS	This log likely comes from the QOS module.
+2093	ACR	The log comes from the module: UNEXPECTEDMESSAGE
+2094	SKINNYSECURESERVICE	SKINNYSECURESERVICE
+2095	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+2096	ISYNC	The log comes from the module called "ERRMSG_NOFLAGS".
+2097	TR	The log comes from the ETHCNTR module.
+2098	SYS	The log comes from the module called "SEC" (Security).
+2099	SYS	The log comes from the module LIBTIFF.
+2100	FME	The log comes from the IPCOIR module.
+2101	CLNS	The log comes from module [LOGGER].
+2102	FLOWMON	The log comes from the FIREWALL (FWALL) module.
+2103	MLSM	The log comes from the module "NMP" (Network Management Protocol).
+2104	PM	The log comes from the module "SPAN" (Switched Port Analyzer).
+2105	PNP	The log comes from the PNP module.
+2106	EXTASSIGNER	The log comes from the EXTASSIGNER module.
+2107	CTS	The log comes from the CACHE module.
+2108	SYS	The log comes from the module "SYS".
+2109	CLNS	This log comes from the CRYPTO module.
+2110	LINK	The log comes from the module "ETHCNTR" (Ethernet Counter).
+2111	FR	The log comes from the module DLSWP (Data Link Switching and Wire Protocol).
+2112	HCCP	The log comes from the HA (High Availability) module.
+2113	SYS	The log message comes from the TTY module.
+2114	SDLC	The log comes from the HDLC module.
+2115	SNASW	Module: SNASW
+2116	SR	This log comes from the FW (Firewall) module.
+2117	DYNCMD	The log comes from the module called "PKG".
+2118	PPP	The log comes from the module "LEX".
+2119	RADIO	The log comes from the module "Radio".
+2120	FM	The log comes from the IDBMAN module.
+2121	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+2122		Without the specific log information provided, it is not possible to determine which module the log comes from.
+2123	QOS	The log comes from the CBRCCE module.
+2124	CPPHA	Module: NOMEMORY
+2125	IOMD	The log comes from module "SPA".
+2126	RTMGR	The log comes from the module "RMGR" (Resource Manager).
+2127	SNASW	The log comes from the module DSIP (Data Session Initiation Protocol).
+2128	DC	Without the specific log content provided, it is not possible to determine which module the log comes from.
+2129	CSM	The log comes from the ISDN module.
+2130	SYS	The log comes from the module "NOMEMORY"
+2131	VPDN	The log comes from the module: HA (High Availability)
+2132	TTYDRIVER	The log "Unable to allocate [dec] byte status block" likely comes from the MEMORY module.
+2133	NHRP	The log comes from the LOGGER module.
+2134	POSLC	The log comes from the LOGGER module.
+2135	OSPF	The log comes from the module FASTHELLO.
+2136	SNASW	The log comes from the BACKWALK module.
+2137	FREEDM	The log comes from the module "FREEDM"
+2138	ATM	The log comes from the module IDS.
+2139	DC	Without the specific log content provided, it is not possible to determine which module the log comes from.
+2140	MMA	Without the actual log content, it is not possible to determine which module the log comes from.
+2141	SYS	Module: EPM
+2142	BSTUN	Module: TCP
+2143	LDP	The log comes from the LOGGER module.
+2144	GDOI	GDOI
+2145	SYS	SYS
+2146	SYS	The log comes from the module "FLOWCONTROL".
+2147	SNASW	The log comes from the module CTOKEN.
+2148	AAAA	The log comes from the ILLEGAL module.
+2149	IPC	The log comes from the module CPPEXMEM.
+2150	IDS	Module: IDS
+2151	DLR	The log comes from the RPLIC module.
+2152	CTS	The log comes from the CTS (Control and Timestamp) module.
+2153	IPMOBILE	The log comes from the TTY module.
+2154	VOIPFIB	The log comes from the module "IF".
+2155	CPPEXMEM	The log comes from the CPPEXMEM module.
+2156	ENVMON	The log comes from the ENVM module (Environment).
+2157	SGCP	The log comes from the DHCP module.
+2158	SYS	The log comes from the module "SYS" (System).
+2159	LIBTIFF	The log comes from module LIBTIFF.
+2160	INDXOBJ	The log comes from the INDXOBJ module.
+2161	LIIN	The log comes from the LIIN module.
+2162	MFI	The log comes from the LOGGER module.
+2163	MPLSOAMDPM	The log likely comes from the TCP module.
+2164	FREEDM	The log comes from the module "FREEDM".
+2165	GDOI	The log comes from the module "PKI" (Public Key Infrastructure) as it mentions "SA" which stands for Security Association, a term commonly used in PKI.
+2166	APS	The log comes from the SBC module.
+2167	AAA	The log comes from the AAA module.
+2168	SNASW	The log comes from the module LCLOG.
+2169	KEYSTORE	LOGGER
+2170	NAT	The log comes from the ALG (Application Layer Gateway) module.
+2171	LCMDC	The log comes from the module "FIB" (FIB - Forwarding Information Base).
+2172	SYS	The log comes from the module "MEM".
+2173	ISSU	The log comes from the module "RPC" (Remote Procedure Call).
+2174	CRYPTO	This log comes from the CRYPTO module.
+2175	DTLS	Module: DTLS
+2176	SIGNATURE	The log comes from the SIGNATURE module.
+2177	CELLWAN	The log comes from the FTPSERVER module.
+2178	LCRED	The log comes from the module "IP".
+2179	MONITOR	The log comes from the module called "PHY" (Physical Layer).
+2180	QOSMGR	The log "Fails to program HW scheduler" likely comes from the module named "SBC" (Session Border Controller).
+2181	LFD	The log comes from the module "IP".
+2182	MFIB	The log comes from the IPACCESS module.
+2183	PM	The log comes from the module CPPEXMEM.
+2184	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+2185	ILPOWER	ILPOWER
+2186	SYS	The log comes from module DSMIB.
+2187	ADJ	The log "Failed to initialise adjacency subblock facility" likely comes from the BGP module.
+2188	CLNS	The log comes from the PATHMGR module.
+2189	SYS	The log comes from the SYS module.
+2190	SCHED	The log comes from the SCHED module.
+2191	SYS	The log comes from the module DSM (Dynamic Spectrum Management).
+2192	MCASTRED	The log comes from the module "CPPBQS" (Central Packet Processing Buffer Queue System).
+2193	AAA	The log comes from the RADIUS module.
+2194	GDOI	The log comes from the GDOI module.
+2195	PNP	The log comes from the module "HA" (Redundancy).
+2196	SYS	The log comes from the module PWDKEYTRUNC.
+2197	DIAG	The log comes from the DIAG module.
+2198	SONETMIB	The log comes from the IF (Interface) module.
+2199	LANMGR	Module: MEM
+2200	DYNCMD	The log comes from the module "INVTRANS" (Inventory Transaction).
+2201	SPA	The log comes from the SPA module.
+2202	KEYSTORE	The log comes from the KEYSTORE module.
+2203	BGP	The log comes from the BGP module.
+2204	UDEV	Module: UDEV
+2205	MCAST	The log comes from the [chars] module.
+2206	SYS	The log comes from the module "SYS".
+2207	PIM	The log comes from the PIM module.
+2208	LSS	The log comes from the CBUS module.
+2209	DIALSHELF	The log comes from the DIALSHELF module.
+2210	SNMP	NHRPSNMP
+2211	LISP	The log comes from the LISP module.
+2212	RTT	The log comes from the IPFLOW module.
+2213	SNASW	The log comes from the module IPMOBILE.
+2214	RTT	The log comes from the CBERR module.
+2215	SGBP	The log comes from the DNS module.
+2216	SNASW	The log comes from the module "SDLC".
+2217	SYS	The log comes from the module: EIO
+2218	CPPBQS	The log comes from the QFP module.
+2219	CRYPTO	The log comes from the IPSEC module.
+2220	LDP	The log message comes from the MAXMSGSIZE module.
+2221	IOMD	The log comes from the module "OIR" (Online Insertion and Removal).
+2222	SYS	The log comes from the module "BUGIN"
+2223	PIM	The log comes from the module "CDP" (Cisco Discovery Protocol).
+2224	KINEPAK	The log "Cannot create particle pool" likely comes from the module DSMP (Dynamic Shared Memory Pool).
+2225	AC	The log comes from the MODULE: IPDR
+2226	BGP	The log comes from the BGP module.
+2227	PKTLOG	The log comes from the FLEXVPN module.
+2228	CBUS	The log comes from the module CARRIER.
+2229	FTPSERVER	The log "FTP Server - new connection made" comes from the module FTPSERVER.
+2230	SYS	The log comes from the module SYS (System).
+2231	CTRC	The log comes from the SNASW module.
+2232	LLIST	The log comes from the LLIST module.
+2233	NAT	The log comes from the IPFLOW module.
+2234	IPSEC	The log comes from the EVENT module.
+2235	SNASW	The log comes from the module TSP (Transaction Server Protocol).
+2236	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+2237	PARSER	The log comes from the CONFIG module.
+2238	GDOI	GDOI
+2239	CTS	The log comes from the module "IPACCESS".
+2240	SLB	The log message "Access interface removed [chars] [chars] being set to outofservice" likely comes from the module "IF".
+2241	DIRECTOR	The log comes from the module "FTPSE" (FTP Secure).
+2242	AAA	The log comes from the CLI module.
+2243	SNASW	The log comes from the module DSPU.
+2244	QOS	The log comes from the module "PPP".
+2245	PROTECTION	The log likely comes from the module "PT" (Port).
+2246	CPPBQS	The log comes from the QM module.
+2247	CMTS	The log comes from the module: INIT
+2248	SYS	The log comes from the BRIMUX module.
+2249	PLATFORM	The log comes from the HDLC module.
+2250	BFD	The log comes from the EVPN module.
+2251	CLB	The log comes from the [CONFIG] module.
+2252	SIP	The log comes from the module "QOS" (Quality of Service).
+2253	SSP	The log comes from the SSP module.
+2254	CTS	The log comes from the module called "SGCP" (Security Group Tag Control Protocol).
+2255	ATTN	The log comes from the [CONFIGURATION] module.
+2256	DC	The log "Failed to get [chars]" likely comes from the module called LOGGER.
+2257	LATREVNUMWRAP	The log comes from the ERROR module.
+2258	ENVIRONMENT	Without the specific log content provided, it is not possible to determine which module the log comes from.
+2259	CCE	The log comes from the module ETHCNTR (Ethernet Counter).
+2260	AAAA	The log comes from the FILESYS module.
+2261	SPA	The log comes from the INIT module.
+2262	IDS	The log comes from the FTPSERVER module.
+2263	LSLIB	The log "Unable to initialize LS LIB" likely comes from the LSLIB module.
+2264	IPACCESS	The log comes from the module "ACL".
+2265	CTS	The log comes from the module INVTRANS.
+2266	DSIPPF	The log comes from module: CPPDRV
+2267	QOSMGR	The log comes from the TUN module.
+2268	CI	The log comes from the ENVIRONMENTAL module.
+2269	RTMGR	Module: HA
+2270	FMD	The log comes from the module "ACL MGR" (Access Control List Manager) as it mentions a lookup failure for a flow with specific source and destination IP addresses, ports, protocol, class ID, and VRF table ID.
+2271	FTSP	The log comes from the TTY module.
+2272	PGM	The log comes from the PTCLREAD module.
+2273	TRANSCEIVER	The log comes from the TRANSCEIVER module.
+2274	GDOI	The log comes from the GDOI module.
+2275	DC	The log comes from the LOGGER module.
+2276	INBAND	The log comes from the module IPFLOW.
+2277	SIP	This log comes from the module KEYSTORE.
+2278	ISDN	The log comes from the AUDIT module.
+2279	PLATFORM	The log comes from the module "PLATFORM".
+2280	SLB	The log comes from the IPC module.
+2281	UI	The log comes from the module type [dec] subtype [dec].
+2282	SGBP	The log comes from the BFD module.
+2283	SYS	The log comes from the LOGGER module.
+2284	VPDN	The log comes from the GDOI module.
+2285	XDR	The log comes from the module DSPU.
+2286	RSP	The log likely comes from the module CPPBQS (Central Packet Processing Buffer Queue System) as it mentions "return queue" and "bufhdr", which are related to packet processing.
+2287	OLM	The log comes from the CDP module.
+2288	OIR	The log comes from module "SBC" (Subcard)
+2289	ILPOWER	The log comes from the module "ILPOWER" (Inline Power).
+2290	CRYPTO	Module: SEC (Security)
+2291	MFIB	MFIB
+2292	SYS	SLBSCPU
+2293	RM	The log comes from the LOGGER module.
+2294	IPCGRP	The log comes from the IPCGRP module.
+2295	CRYPTO	The log comes from the GDOI module.
+2296	AAA	The log comes from the AUTHMGR module.
+2297	SPANTREE	SPANTREE
+2298	MDT	The log comes from the MDT module.
+2299	SNASW	The log comes from the module "DSCCLOCK"
+2300	SNMP	The log comes from the HA module.
+2301	SYS	The log comes from the FFS module.
+2302	SSLVPN	The log comes from the CSM (Content Security Manager) module.
+2303	DOMAIN	The log comes from the SYS module.
+2304	SYS	The log comes from the module CONFIGURATION.
+2305	CELLWAN	The log comes from the RADIO module.
+2306	SYS	The log comes from the module "EXFREE" (External Memory Free).
+2307	SYS	The log comes from the LOGGER module.
+2308	MACSEC	The log comes from the LCLOG module.
+2309	SYS	The log comes from the module RM (Resource Manager).
+2310	UPDATE	The log comes from the ERROR module.
+2311	RFSW	The log comes from the RFSW module.
+2312	UTD	The log comes from the UTD (Unified Threat Defense) module.
+2313	CGC	The log comes from the PARSER module.
+2314	AAAA	This log likely comes from the SSSMGR (Server Group Manager) module.
+2315	ALIGN	The log comes from the ALIGN module.
+2316	MCASTRED	Module: MCAST
+2317	DSMIB	The log comes from module DSM (Dynamic Storage Module).
+2318	ETHCNTR	The log comes from the ETHCNTR module.
+2319	TENSRFSM	The log comes from the TENSRFSM module.
+2320	EHSA	The log comes from the LOGGER module.
+2321	CTS	Module: SCP
+2322	LIIN	The log comes from the TTYDRIVER module.
+2323	DSIPPF	The log comes from the DSIP module.
+2324	CBUS	The log comes from the module: CMD
+2325	MMA	The log comes from the module: CLI.
+2326	SNASW	The log comes from the module "MEM" (Memory Management).
+2327	DYNCMD	The log message "Create node message received for duplicate node '[dec]'" likely comes from the NODE module.
+2328	SNMP	Module: SNMP
+2329	CPPHA	The log comes from the CPPHA module.
+2330	PHY	The log comes from the module "PHY" (Physical Layer).
+2331	RSP	The log comes from the module "CONFIG"
+2332	CHASSIS	The log comes from the ENVIRONMENT module.
+2333	MDT	Module: MPLSMFISTATIC
+2334	TCMSP	The log comes from the module "VOIPFIB" (Voice over IP Forwarding Information Base).
+2335	EVPN	MLDP
+2336	MICA	This log comes from the module "IF" (Interface).
+2337	SYS	The log comes from the LCRED module.
+2338	PIM	The log comes from the module "TUN".
+2339	QLLC	The log comes from the IF module.
+2340	LSD	The log comes from the LOGGER module.
+2341	SYS	The log comes from the module PID.
+2342	VRRS	The log comes from the LOGGER module.
+2343	UTD	The log comes from the UTD module.
+2344	AAAA	The log comes from the AAA module.
+2345	SONET	The log comes from the LOGGER module.
+2346	VSLP	The log likely comes from the HA (High Availability) module.
+2347	ACLMGR	Module: ACLMGR
+2348	CTS	The log comes from the module DSIPPF.
+2349	AT	The log "AppleTalk error [chars]" likely comes from the module ARP (Address Resolution Protocol).
+2350	PACKET	The log comes from the IP module.
+2351	IFS	The log comes from the module: UNEXPECTEDMESSAGE
+2352	ALIGN	INIT
+2353	QOSMGR	The log comes from the MPLS module.
+2354	SYS	The log comes from the module INIT.
+2355	OSPF	The log comes from the module "CRYPTO"
+2356	ENVMON	The log comes from the ENVM module.
+2357	CRYPTO	The log comes from the module IDS (Intrusion Detection System).
+2358	SYS	The log comes from the module INIT.
+2359	SYS	The log comes from the module called "DSMP" (Dynamic Shared Memory Pool).
+2360	CTS	This log comes from the ACE module.
+2361	LCON	The log comes from the IP module.
+2362	SHMWIN	This log comes from the SHMWIN module.
+2363	DMVPN	The log comes from the LOGGER module.
+2364	AAAA	The log comes from the module AAAA.
+2365	RSVP	This log comes from the module EVPN.
+2366	SPAWBCMTS	The log comes from the LINK module.
+2367	OUNIC	The log comes from the LOGGER module.
+2368	CXSC	The log comes from the CXSC module.
+2369	PNP	The log comes from the module "PnP" (Plug and Play).
+2370	BGP	The log comes from the CPPOSLIB module.
+2371	AAA	RADIUS
+2372	LAPB	The log comes from the BUFCAP module.
+2373	SYS	The log comes from the module "MEMOPT" (Memory Optimization).
+2374	CMTS	The log comes from the module "CMTS" (Cable Modem Termination System).
+2375	CPPDRV	The log comes from the module called "INFRA".
+2376	ODM	The log comes from module CBUS.
+2377	MDT	The log comes from the module "DSIP" (Data Services Initialization Process).
+2378	ACE	The log comes from the module HAPI.
+2379	VDD	The log comes from the module: DSCEXTCLK
+2380	APS	The log comes from the HUNTGRP module.
+2381	SYS	The log comes from the MEMSCAN module.
+2382		The log "Could not allocate valid session handle" likely comes from the module ATMSIG.
+2383	NTI	The log comes from the NTI module.
+2384	SISF	The log message "Message dropped [chars]" likely comes from the PT module.
+2385	CTS	The log comes from the module: INIT
+2386	QOS	The log comes from the QOS module.
+2387	IPCOIR	Chassis
+2388	SIPSPA	The log comes from the module "PHY" (Physical Layer).
+2389	DC	The log comes from the module DLSWP.
+2390	HUNTGRP	The log comes from the module ETC.
+2391	ADJ	The log comes from the module IDS (Intrusion Detection System).
+2392	SYS	The log comes from the module named "CASA".
+2393	MACSEC	The log comes from the module MACSEC.
+2394	SYS	The log comes from the TCP module.
+2395	SYS	The log comes from the WATCHDOG module.
+2396	MFI	The log comes from the LOGGER module.
+2397	CPPFW	The log comes from the module ACL.
+2398	SPANTREE	SPANTREE
+2399	PKI	This log comes from the PKI module.
+2400	IPRT	The log comes from the module INIT.
+2401	AN	This log comes from the module named DBCONN.
+2402	DLSWC	The log comes from the module CPPFW (Content and Protocol Processing Firewall).
+2403	STUN	The log comes from the module PT (Packet Tracer).
+2404	CLNS	The log comes from the ISIS module.
+2405	SCVIF	The log comes from the SCVIF module.
+2406	PIM	The log comes from the module PIM (Protocol Independent Multicast).
+2407	AAAA	The log comes from the AAAA module.
+2408	CELLWAN	The log comes from the GTP module.
+2409	SLB	Module: MPLS
+2410	RM	The log comes from the CRYPTO module.
+2411	AAA	The log comes from the AAA module.
+2412	IPC	Module: IPC
+2413	PKI	The log comes from the module TCP.
+2414	CWPA	The log comes from the module CRYPTO.
+2415	ETC	The log comes from the ETHERCHANNEL module.
+2416	SYS	The log comes from module CPPDRV.
+2417	HDLC	The log comes from the HDLC module.
+2418	TAC	The log comes from the IF module.
+2419	DSG	The log comes from the classifier module.
+2420	IPRT	The log comes from the module DSIPPF.
