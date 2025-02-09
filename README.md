@@ -2,11 +2,7 @@
 
 This repository contains PyTorch implementation for LUK: Empowering Log Understanding with Expert Knowledge from Large Language Models.
 
-Logs play a critical role in providing essential information for system monitoring and troubleshooting. 
-Recently, with the success of pre-trained language models (PLMs) and large language models (LLMs) in natural language processing (NLP), smaller PLMs (such as BERT) and LLMs (like ChatGPT) have become the current mainstream approaches for log analysis.
-While LLMs possess rich knowledge, their high computational costs and unstable performance make them impractical for direct log analysis. In contrast, smaller PLMs can be fine-tuned for specific tasks even with limited computational resources, making them valuable alternatives. However, these smaller PLMs face challenges in fully comprehending logs due to their limited expert knowledge.
-To better utilize the knowledge embedded within LLMs for log understanding, this paper introduces a novel knowledge enhancement framework, called LUK, which leverages expert knowledge from LLMs to empower log understanding on a smaller PLM. Specifically, we design a multi-expert collaboration framework to acquire expert knowledge from LLMs automatically. In addition, we propose two novel pre-training tasks to enhance the log pre-training with expert knowledge. LUK achieves state-of-the-art results on different log analysis tasks and extensive experiments demonstrate expert knowledge from LLMs can be utilized more effectively to understand logs.
-
+Logs play a critical role in providing essential information for system monitoring and troubleshooting. Recently, with the success of pre-trained language models (PLMs) and large language models (LLMs) in natural language processing (NLP), smaller PLMs (such as BERT) and LLMs (like GPT-4) have become the current mainstream approaches for log analysis. Despite the remarkable capabilities of LLMs, their higher cost and inefficient inference present significant challenges in leveraging the full potential of LLMs to analyze logs. In contrast, smaller PLMs can be fine-tuned for specific tasks even with limited computational resources, making them more practical. However, these smaller PLMs face challenges in understanding logs comprehensively due to their limited expert knowledge. To address the lack of expert knowledge and enhance log understanding for smaller PLMs, this paper introduces a novel and practical knowledge enhancement framework, called LUK, which acquires expert knowledge from LLMs automatically and then enhances the smaller PLM for log analysis with these expert knowledge. LUK can take full advantage of both types of models. Specifically, we design a multi-expert collaboration framework based on LLMs with different roles to acquire expert knowledge. In addition, we propose two novel pre-training tasks to enhance the log pre-training with expert knowledge. LUK achieves state-of-the-art results on different log analysis tasks and extensive experiments demonstrate expert knowledge from LLMs can be utilized more effectively to understand logs. 
 ![intro](fig/framework.png)
 
 The conceptual overview of LUK:
@@ -40,8 +36,10 @@ pip install -r requirements.txt
 LUK
  |-- datasets	
  |    |-- downstream_result # Results of Chatgpt and Llama2-13B on downstream tasks
+ |    |-- examples 
  |    |-- pre-train # Pre-training datasets
  |    |-- tasks # Downstream tasks datasets
+ 
  
  |-- sentence_transformers # We modified the code for losses, evaluation and SentenceTransformerEnhance to implement LUK
  |    |-- cross_encoder
@@ -68,6 +66,9 @@ LUK
  |-- LUK_MC_task.py # evaluate LUK on MC
  
  |-- LUK_pretrain.py # pre-train main
+ 
+ |-- mec_llama3.py # acquire knowledge from LLMs based on MEC
+ 
 ```
 
 
@@ -93,9 +94,9 @@ In our code, we use 'bert-base-uncased'  as the pre-trained model, and you can u
 To acquire knowledge from LLMs based on MEC, you can run:
 
 ```
-python Llama2_MEC.py  --data ./datasets/pre-train/expert_chatgpt_output.json --model_path ./Llama-2-13b-chat-hf --save_path ./expert_llama2_output.json
+python mec_llama3.py  --data ./datasets/pre-train/expert_chatgpt_output.json --model_path ./Llama-3.3-70B-Instruct --save_path ./expert_llama3_output.json
 ```
-Note: we use vLLM to load meta-llama/Llama-2-13b-chat-hf, and the model you can download from [meta-llama/Llama-2-13b-chat-hf](https://huggingface.co/meta-llama/Llama-2-13b-chat-hf) 
+Note: we use vLLM to load meta-llama/Llama-3.3-70B-Instruct, and the model you can download from [meta-llama/Llama-3.3-70B-Instruct](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) 
 
 ### Training
 
@@ -115,10 +116,10 @@ To evaluate the model on the specific task with LUK, for example, on the LDSM ta
 python LUK_LDSM_task.py --train_data ./datasets/tasks/LDSM/hw_switch_train.json --dev_data ./datasets/tasks/MC/hw_switch_dev.json --test_data ./datasets/tasks/MC/hw_switch_test.json
 ```
 
-To evaluate the model on the specific task with Llama2, for example, on the LDSM task, you can run:
+To evaluate the model on the specific task with Llama3, for example, on the LDSM task, you can run:
 
 ```
-python Llama2_inference_down_task.py --data ./datasets/tasks/LDSM/hw_switch_test.json --model_path ./llama2-chat-hf --save_path ./downstream_result/Llama2_result/LDSM/ldsm_hwswitch_result_llama13b.json
+python Llama3_inference_downtask.py --data ./datasets/tasks/LDSM/hw_switch_test.json --model_path ./llama3-70b --save_path ./downstream_result/Llama3_result/LDSM/ldsm_hwswitch_result_llama3.json
 ```
 Note, for software logs downstream tasks, we collect datasets from [LogHub](https://github.com/logpai/loghub) and based on [LogPAI](https://github.com/logpai) to experiment
 
