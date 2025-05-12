@@ -92,7 +92,7 @@ For anomaly detection task, we collect datasets from [LogHub](https://github.com
 
 For failure identification task, we collect datasets from this [url](https://figshare.com/articles/dataset/Failure_dataset/7732268?file=22583342).
 
-For other knowledge-intensive network device logs, they have been organized under the [folder](https://github.com/LeaperOvO/LUK/tree/master/datasets/tasks)。
+For other knowledge-intensive network device logs, they have been organized under the [folder](https://github.com/LeaperOvO/LUK/tree/master/datasets/tasks).
 
 For the Fault Phenomenon Identification task, the dataset is based on operational data collected from enterprise systems. Due to data privacy concerns, this dataset is currently not publicly available. However, we are actively working on anonymizing and desensitizing the data, and we plan to release it progressively soon.
 
