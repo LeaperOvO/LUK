@@ -83,7 +83,18 @@ We collecte 43,229 logs from Software System Cisco and Network Device. The data 
 |                 | Huawei             | 12,399    |
 | Total           |                    | 43,229    |
 
+All pre-training datasets are put under this [folder](https://github.com/LeaperOvO/LUK/tree/master/datasets/pre-train).
 
+### Downstream tasks Dataset
+To explore the performance of LUK on different log analysis domains, we conduct experiments on different downstream tasks, including software systems and network device logs. 
+
+For anomaly detection task, we collect datasets from [LogHub](https://github.com/logpai/loghub).
+
+For failure identification task, we collect datasets from this [url](https://figshare.com/articles/dataset/Failure_dataset/7732268?file=22583342).
+
+For other knowledge-intensive network device logs, they have been organized under the [folder](https://github.com/LeaperOvO/LUK/tree/master/datasets/tasks)。
+
+For the Fault Phenomenon Identification task, the dataset is based on operational data collected from enterprise systems. Due to data privacy concerns, this dataset is currently not publicly available. However, we are actively working on anonymizing and desensitizing the data, and we plan to release it progressively soon.
 
 
 ### Required pre-trained models
