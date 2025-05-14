@@ -10,5 +10,4 @@
     "OSPF protocol failure":
         ["timestamp:1641973740079; brief:OSPF/4/ospfIfConfigError; message:A packet is received on the non-virtual interface from a router whose configuration conflicts with the local configuration. (RouterId=10.xx.xx.x, IfIpAddress=10.xx.xx.x, AddressLessIf=0, PacketSrc=10.xx.xx.x, ConfigErrorType=12, PacketType=1, ProcessId=1, AreaId=0.0.0.0)",
          "timestamp:1641973522227; brief:OSPF/3/NBR_DOWN_REASON; message:Neighbor state left full or changed to Down. (ProcessId=1, NeighborRouterId=10.xx.xx.x, NeighborIp=10.xx.xx.x, NeighborAreaId=0.0.0.0, NeighborInterface=10GE1/0/11, NeighborDownImmediate reason=Neighbor Down Due to Kill Neighbor, NeighborDownPrimeReason=OSPF Process Reset, CpuUsage=18%, VpnName=_public_, IfMTU=1500, LocalIp=10.xx.xx.x)"]
-
 }
